@@ -1,6 +1,7 @@
 # Shadowrocket Config
 
-this project convert [GfwList](https://github.com/gfwlist/gfwlist) to Shadowrocket Config file
+this project convert [GfwList](https://github.com/gfwlist/gfwlist) and 
+[easylist_general_block](https://github.com/easylist/easylist) to Shadowrocket Config file
 
 
 ## How to use
@@ -21,7 +22,7 @@ or scan the QR code below
 ![QR code](qr.png)
 
 ## To do
->* add ad block rules
+>* ~~add ad block rules~~
 >* fix some regex rules in gfwlist
 
 
