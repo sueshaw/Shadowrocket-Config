@@ -24,6 +24,7 @@ or scan the QR code below
 ## To do
 >* ~~add ad block rules~~
 >* fix some regex rules in gfwlist
+>* add other easylist ad-block rulus 
 
 
 
