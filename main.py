@@ -42,7 +42,7 @@ def GetBlockRule(rule):
     if rule=="":
         return ""
 
-    return rule+" reject header"
+    return rule+" reject"
 
 
 
@@ -76,8 +76,8 @@ def WriteRules():
     w.write("# Shadowrocket: "+str(datetime.datetime.now())+"\n")
     for line in f:
         w.write(line)
-        if line=="[Rule]\n":
-            w.write(GetProxyRules())
+        #if line=="[Rule]\n":
+            #w.write(GetProxyRules())
         if line=="[URL Rewrite]\n":
             w.write(GetBlockRules())
     f.close()
