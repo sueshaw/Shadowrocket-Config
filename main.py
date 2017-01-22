@@ -31,7 +31,7 @@ def GetProxyRule(rule):
         return ""
     return "DOMAIN-SUFFIX,"+rule+",Proxy"
 
-def GetBlockRule(rule):
+def GetBlockRule1(rule):
     #rule=""
     if rule.startswith('!'):
         return ""
@@ -39,11 +39,26 @@ def GetBlockRule(rule):
         rule=rule[2:]
     if rule.endswith('\n'):
         rule=rule[:-1]
-    if rule=="":
+    if(rule.endswith('*')):
+        rule=rule[:-1]
+    if ("$" in rule) or ("*" in rule) or("|" in rule):
         return ""
+    return "DOMAIN-KEYWORD,"+rule+",REJECT"
 
-    return rule+" reject"
+def GetBlockRule2(rule):
+    #rule=""
+    if rule.startswith('!'):
+        return ""
+    elif rule.startswith('||'):
+        rule=rule[2:]
+    if rule.endswith('\n'):
+        rule=rule[:-1]
+    if (rule.endswith('*')):
+        rule = rule[:-1]
+    if ("$" in rule) or ("*" in rule) or("|" in rule):
+        return rule+" reject"
 
+    return ""
 
 
 
@@ -58,12 +73,15 @@ def GetProxyRules():
     f.close()
     return ssRule
 
-def GetBlockRules():
+def GetBlockRules(ruletype):
     Base64toPure()
     f=open("easylist_general_block.txt")
     ssRule=""
     for line in f:
-        newline=GetBlockRule(line)
+        if ruletype==1:
+            newline=GetBlockRule1(line)
+        else:
+            newline = GetBlockRule2(line)
         if  newline!="":
             ssRule+=newline+"\n"
     f.close()
@@ -76,10 +94,11 @@ def WriteRules():
     w.write("# Shadowrocket: "+str(datetime.datetime.now())+"\n")
     for line in f:
         w.write(line)
-        #if line=="[Rule]\n":
-            #w.write(GetProxyRules())
+        if line=="[Rule]\n":
+            w.write(GetProxyRules())
+            w.write(GetBlockRules(1))
         if line=="[URL Rewrite]\n":
-            w.write(GetBlockRules())
+            w.write(GetBlockRules(2))
     f.close()
     w.close()
 
