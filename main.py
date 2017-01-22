@@ -39,8 +39,13 @@ def GetBlockRule1(rule):
         rule=rule[2:]
     if rule.endswith('\n'):
         rule=rule[:-1]
+
+    if ("$" in rule):
+        rule = rule[:rule.index("$")]
+
     if(rule.endswith('*')):
         rule=rule[:-1]
+
     if ("$" in rule) or ("*" in rule) or("|" in rule):
         return ""
     return "DOMAIN-KEYWORD,"+rule+",REJECT"
@@ -53,8 +58,11 @@ def GetBlockRule2(rule):
         rule=rule[2:]
     if rule.endswith('\n'):
         rule=rule[:-1]
+    if ("$" in rule):
+        rule = rule[:rule.index("$")]
     if (rule.endswith('*')):
         rule = rule[:-1]
+
     if ("$" in rule) or ("*" in rule) or("|" in rule):
         return rule+" reject"
 
@@ -95,7 +103,7 @@ def WriteRules():
     for line in f:
         w.write(line)
         if line=="[Rule]\n":
-            w.write(GetProxyRules())
+            #w.write(GetProxyRules())
             w.write(GetBlockRules(1))
         if line=="[URL Rewrite]\n":
             w.write(GetBlockRules(2))
