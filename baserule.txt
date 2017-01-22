@@ -14,8 +14,6 @@ localhost = 127.0.0.1
 
 
 [URL Rewrite]
-^http://(www.)?g.cn https://www.google.com header
-^http://(www.)?google.cn https://www.google.com header
-^http://reject.example.com reject
+
 
 

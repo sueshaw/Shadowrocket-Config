@@ -37,16 +37,12 @@ def GetBlockRule(rule):
         return ""
     elif rule.startswith('||'):
         rule=rule[2:]
-    elif "*" in rule:
-        rule=rule.replace("*","")
-    elif "$" in rule:
-        rule=rule.replace("$","")
     if rule.endswith('\n'):
         rule=rule[:-1]
-    if rule=="" or ("|" in rule):
+    if rule=="":
         return ""
 
-    return "DOMAIN-KEYWORD,"+rule+",Reject"
+    return rule+" reject header"
 
 
 
@@ -82,6 +78,7 @@ def WriteRules():
         w.write(line)
         if line=="[Rule]\n":
             w.write(GetProxyRules())
+        if line=="[URL Rewrite]\n":
             w.write(GetBlockRules())
     f.close()
     w.close()
