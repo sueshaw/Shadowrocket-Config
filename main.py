@@ -7,5 +7,38 @@ def Base64toPure():
     pureFile.write(pure)
     pureFile.close()
 
-Base64toPure()
+def getDomain(rule):
+    #rule=""
+    if rule.startswith('!') or rule.startswith('[') or rule.startswith('@') or rule.startswith('/'):
+        return ""
+    elif rule.startswith('.'):
+        rule= rule[1:]
+    elif rule.startswith('||'):
+        rule= rule[2:]
+    elif rule.startswith('|https'):
+        rule= rule[9:]
+    elif rule.startswith('|http://'):
+        rule=rule[8:]
+
+    if rule.endswith('\n'):
+        rule=rule[:-1]
+    if rule.endswith('/'):
+        rule=rule[:-1]
+    if "/" in rule or rule=="":
+        return ""
+    return "DOMAIN-SUFFIX,"+rule+",Proxy"
+
+def getRules():
+    f=open("gfwpure.txt")
+    ssRule=""
+    for line in f:
+        newline=getDomain(line)
+        if  newline!="":
+            ssRule+=newline+"\n"
+    f.close()
+    return ssRule
+
+
+
+#Base64toPure()
 
