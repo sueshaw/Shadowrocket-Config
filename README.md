@@ -14,11 +14,11 @@ to get lastest gfwlist config to ```rule.txt```
 
 open Shadowrocket and add config file from 
  
-url: 
+url:  [https://raw.githubusercontent.com/Hsiny/Shadowrocket-Config/master/rule.txt](https://raw.githubusercontent.com/Hsiny/Shadowrocket-Config/master/rule.txt)
 ---
 or scan the QR code below
 
-![QR code](qr.jpg)
+![QR code](qr.png)
 
 
 
