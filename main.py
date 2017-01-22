@@ -10,7 +10,7 @@ def Base64toPure():
     pureFile.write(pure)
     pureFile.close()
 
-def getDomain(rule):
+def GetProxyRule(rule):
     #rule=""
     if rule.startswith('!') or rule.startswith('[') or rule.startswith('@') or rule.startswith('/'):
         return ""
@@ -31,16 +31,49 @@ def getDomain(rule):
         return ""
     return "DOMAIN-SUFFIX,"+rule+",Proxy"
 
-def getRules():
+def GetBlockRule(rule):
+    #rule=""
+    if rule.startswith('!'):
+        return ""
+    elif rule.startswith('||'):
+        rule=rule[2:]
+    elif "*" in rule:
+        rule=rule.replace("*","")
+    elif "$" in rule:
+        rule=rule.replace("$","")
+    if rule.endswith('\n'):
+        rule=rule[:-1]
+    if rule=="" or ("|" in rule):
+        return ""
+
+    return "DOMAIN-KEYWORD,"+rule+",Reject"
+
+
+
+
+def GetProxyRules():
+    Base64toPure()
     f=open("gfwpure.txt")
     ssRule=""
     for line in f:
-        newline=getDomain(line)
+        newline=GetProxyRule(line)
         if  newline!="":
             ssRule+=newline+"\n"
     f.close()
     return ssRule
-def writeRule():
+
+def GetBlockRules():
+    Base64toPure()
+    f=open("easylist_general_block.txt")
+    ssRule=""
+    for line in f:
+        newline=GetBlockRule(line)
+        if  newline!="":
+            ssRule+=newline+"\n"
+    f.close()
+    return ssRule
+
+def WriteRules():
     f=open("baserule.txt")
     w=open("rule.txt","w")
     toWrite=""
@@ -48,19 +81,24 @@ def writeRule():
     for line in f:
         w.write(line)
         if line=="[Rule]\n":
-            w.write(getRules())
+            w.write(GetProxyRules())
+            w.write(GetBlockRules())
     f.close()
     w.close()
 
-def downloadGfwlist():
-    baseUrl="https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
-    response = urllib.request.urlopen(baseUrl)
-    data = response.read()
-    text = data.decode('utf-8')
-    w=open("gfwbase64.txt",'w')
-    w.write(text)
-    w.close()
+def Downloadlist():
+    baseUrl=["https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt",
+             "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block.txt"]
+    fileName=["gfwbase64.txt",
+              "easylist_general_block.txt"]
+    for i in range(len(baseUrl)):
+        response = urllib.request.urlopen(baseUrl[i])
+        data = response.read()
+        text = data.decode('utf-8')
+        w=open(fileName[i],'w')
+        w.write(text)
+        w.close()
 
-downloadGfwlist()
-Base64toPure()
-writeRule()
+
+Downloadlist()
+WriteRules()
