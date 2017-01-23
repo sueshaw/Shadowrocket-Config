@@ -87,15 +87,21 @@ def GetBlockRules():
 def WriteRules():
     f=open("baserule.txt")
     w=open("rule.txt","w")
+    wwithad=open("rulewithad.txt","w")
     toWrite=""
     w.write("# Shadowrocket: "+str(datetime.datetime.now())+"\n")
     for line in f:
         w.write(line)
+        wwithad.write(line)
         if line=="[Rule]\n":
-            w.write(GetProxyRules())
-            w.write(GetBlockRules())
+            proxyRules=GetProxyRules()
+            blockRules=GetBlockRules()
+            w.write(proxyRules)
+            wwithad.write(proxyRules)
+            wwithad.write(blockRules)
     f.close()
     w.close()
+    wwithad.close()
 
 baseUrl=["https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt",
          "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt",
@@ -116,5 +122,5 @@ def Downloadlist():
         w.close()
 
 
-#Downloadlist()
+Downloadlist()
 WriteRules()
