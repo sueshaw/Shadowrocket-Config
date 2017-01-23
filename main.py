@@ -10,6 +10,7 @@ def Base64toPure():
     pureFile.write(pure)
     pureFile.close()
 
+exitList=[]
 def GetProxyRule(rule):
     #rule=""
     if rule.startswith('!') or rule.startswith('[') or rule.startswith('@') or rule.startswith('/'):
@@ -22,50 +23,19 @@ def GetProxyRule(rule):
         rule= rule[9:]
     elif rule.startswith('|http://'):
         rule=rule[8:]
-
     if rule.endswith('\n'):
         rule=rule[:-1]
-    if rule.endswith('/'):
-        rule=rule[:-1]
-    if "/" in rule or rule=="":
+    if "/" in rule:
+        rule=rule[:rule.index("/")]
+    if "*" in rule:
+        rule=rule[rule.index("*")+1:]
+    if  rule=="":
         return ""
-    return "DOMAIN-SUFFIX,"+rule+",Proxy"
-
-def GetBlockRule1(rule):
-    #rule=""
-    if rule.startswith('!'):
+    if rule not in exitList:
+        exitList.append(rule)
+        return "DOMAIN-SUFFIX,"+rule+",Proxy"
+    else:
         return ""
-    elif rule.startswith('||'):
-        rule=rule[2:]
-    if rule.endswith('\n'):
-        rule=rule[:-1]
-
-    if ("$" in rule):
-        rule = rule[:rule.index("$")]
-
-    if(rule.endswith('*')):
-        rule=rule[:-1]
-
-    if ("$" in rule) or ("*" in rule) or("|" in rule):
-        return ""
-    return "DOMAIN-KEYWORD,"+rule+",REJECT"
-
-def GetBlockRule2(rule):
-    #rule=""
-    if rule.startswith('!'):
-        return ""
-    elif rule.startswith('||'):
-        rule=rule[2:]
-    if rule.endswith('\n'):
-        rule=rule[:-1]
-    if "$" in rule:
-        rule=rule[:rule.index("$")]
-
-    if rule!="":
-        return rule+" reject"
-
-    return ""
-
 
 
 def GetProxyRules():
@@ -79,19 +49,6 @@ def GetProxyRules():
     f.close()
     return ssRule
 
-def GetBlockRules(ruletype):
-    Base64toPure()
-    f=open("easylist_general_block.txt")
-    ssRule=""
-    for line in f:
-        if ruletype==1:
-            newline=GetBlockRule1(line)
-        else:
-            newline = GetBlockRule2(line)
-        if  newline!="":
-            ssRule+=newline+"\n"
-    f.close()
-    return ssRule
 
 def WriteRules():
     f=open("baserule.txt")
@@ -100,26 +57,22 @@ def WriteRules():
     w.write("# Shadowrocket: "+str(datetime.datetime.now())+"\n")
     for line in f:
         w.write(line)
-        #if line=="[Rule]\n":
-            #w.write(GetProxyRules())
-            #w.write(GetBlockRules(1))
-        if line=="[URL Rewrite]\n":
-            w.write(GetBlockRules(2))
+        if line=="[Rule]\n":
+            w.write(GetProxyRules())
     f.close()
     w.close()
 
 def Downloadlist():
-    baseUrl=["https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt",
-             "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block.txt"]
-    fileName=["gfwbase64.txt",
-              "easylist_general_block.txt"]
-    for i in range(len(baseUrl)):
-        response = urllib.request.urlopen(baseUrl[i])
-        data = response.read()
-        text = data.decode('utf-8')
-        w=open(fileName[i],'w')
-        w.write(text)
-        w.close()
+    baseUrl="https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
+
+    fileName="gfwbase64.txt"
+
+    response = urllib.request.urlopen(baseUrl)
+    data = response.read()
+    text = data.decode('utf-8')
+    w=open(fileName,'w')
+    w.write(text)
+    w.close()
 
 
 Downloadlist()
