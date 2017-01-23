@@ -58,7 +58,8 @@ def GetBlockRule2(rule):
         rule=rule[2:]
     if rule.endswith('\n'):
         rule=rule[:-1]
-
+    if "$" in rule:
+        rule=rule[:rule.index("$")]
 
     if rule!="":
         return rule+" reject"
