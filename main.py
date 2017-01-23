@@ -10,6 +10,7 @@ def Base64toPure():
     pureFile.write(pure)
     pureFile.close()
 
+#Proxy Rules
 exitList=[]
 def GetProxyRule(rule):
     #rule=""
@@ -49,6 +50,39 @@ def GetProxyRules():
     f.close()
     return ssRule
 
+#BlockRules
+
+blockRule=[]
+def GetBlockRule(rule):
+    #rule=""
+    if rule.startswith('!') or rule.startswith('-'):
+        return ""
+    if rule.startswith('||'):
+        rule=rule[2:]
+    if "^" in rule:
+        rule=rule[:rule.index("^")]
+    if "$" in rule:
+        rule=rule[:rule.index("$")]
+    if "/" in rule:
+        return ""
+    if rule.endswith("\n"):
+        rule=rule[:-1]
+    if rule in blockRule:
+        return ""
+    else:
+        blockRule.append(rule)
+        return "DOMAIN-SUFFIX," + rule + ",REJECT"
+
+def GetBlockRules():
+    ssRule = ""
+    for i in range(1,3):
+        f=open(fileName[i])
+        for line in f:
+            newline=GetBlockRule(line)
+            if  newline!="":
+                ssRule+=newline+"\n"
+        f.close()
+    return ssRule
 
 def WriteRules():
     f=open("baserule.txt")
@@ -59,21 +93,28 @@ def WriteRules():
         w.write(line)
         if line=="[Rule]\n":
             w.write(GetProxyRules())
+            w.write(GetBlockRules())
     f.close()
     w.close()
 
+baseUrl=["https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt",
+         "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt",
+         "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt"
+        ]
+
+fileName=["gfwbase64.txt",
+          "easylist_thirdparty.txt",
+          "easylist_adservers.txt"
+         ]
 def Downloadlist():
-    baseUrl="https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
-
-    fileName="gfwbase64.txt"
-
-    response = urllib.request.urlopen(baseUrl)
-    data = response.read()
-    text = data.decode('utf-8')
-    w=open(fileName,'w')
-    w.write(text)
-    w.close()
+    for i in range(fileName):
+        response = urllib.request.urlopen(baseUrl[i])
+        data = response.read()
+        text = data.decode('utf-8')
+        w=open(fileName[i],'w')
+        w.write(text)
+        w.close()
 
 
-Downloadlist()
+#Downloadlist()
 WriteRules()
