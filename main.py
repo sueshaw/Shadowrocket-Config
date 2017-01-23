@@ -113,7 +113,7 @@ fileName=["gfwbase64.txt",
           "easylist_adservers.txt"
          ]
 def Downloadlist():
-    for i in range(fileName):
+    for i in range(len(fileName)):
         response = urllib.request.urlopen(baseUrl[i])
         data = response.read()
         text = data.decode('utf-8')

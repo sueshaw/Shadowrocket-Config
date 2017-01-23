@@ -8,12 +8,51 @@ dns-server =
 
 
 [Rule]
+DOMAIN-KEYWORD,google,Proxy
 
 [Host]
 localhost = 127.0.0.1
 
 
 [URL Rewrite]
+# URL Rewrite rules copy from BurpSuite(https://github.com/BurpSuite/CloudGate-Shadowrocket)
+# Rewrite
+^http://www.google.cn http://www.google.com header
+^http://push.feng.com/resource/photo/appimg/launchimage - reject
+^http://r.inews.qq.com/upLoadLoc - reject
+^http://r.inews.qq.com/getNewsRemoteConfig - reject
+^http://r.inews.qq.com/searchHotCatList - reject
+^http://r.inews.qq.com/getFullScreenPic - reject
+^http://r.inews.qq.com/adsBlacklist - reject
+^http://r.inews.qq.com/getBannerAds - reject
+^http://storage.360buyimg.com/kepler-app - reject
+^http://cdn.moji.com/adlink/splash/ - reject
+^http://cdn.moji.com/adlink/common - reject
+^http://cdn.moji.com/adlink/avatarcard - reject
+^http://cdn2.moji002.com/webpush/ad2/ - reject
+^http://cdn.moji.com/advert/ - reject
+^http://show.api.moji.com/json/showcase/getAll - reject
+^http://ad.api.moji.com/ad/log/stat - reject
+^http://stat.moji.com - reject
+^http://ast.api.moji.com/assist/ad/moji/stat - reject
+^http://fds.api.moji.com/card/recommend - reject
+^http://ugc.moji001.com/sns/json/profile/get_unread - reject
+^http://api.mobile.youku.com/adv/ - reject
+^http://hd.api.mobile.youku.com/common/v3/hudong/new - reject
+^http://r.l.youku.com/rec_at_click - reject
+^http://api.appsdk.soku.com/tag/r - reject
+^http://api.mobile.youku.com/layout/search/hot/word - reject
+^http://m.youku.com/video/libs/iwt.js - reject
+^http://api.appsdk.soku.com/bg/r - reject
+^http://m.elecfans.com/static/js/ad.js - reject
+^http://www1.elecfans.com/www/delivery/ - reject
+^http://api.tv.sohu.com/v4/mobile/control/switch.json - reject
+^http://api.tv.sohu.com/mobile_user/device/clientconf.json - reject
+^http://api.k.sohu.com/api/channel/ad/ - reject
+^http://pic.k.sohu.com/img8/wb/tj/ - reject
+^http://static.iask.cn/m-v20161228/js/common/adAudit.min.js - reject
+^http://dd.iask.cn/ddd/adAudit - reject
+^http://v.17173.com/api/Allyes/ - reject
 
 
 
