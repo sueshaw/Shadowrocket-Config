@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-01-23 21:35:11.317026
+# Shadowrocket: 2017-02-01 10:13:21.417242
 # Shadowrocket config file by Hayden
 
 [General]
@@ -412,21 +412,27 @@ DOMAIN-SUFFIX,google.fm,Proxy
 DOMAIN-SUFFIX,google.fr,Proxy
 DOMAIN-SUFFIX,google.gg,Proxy
 DOMAIN-SUFFIX,google.gl,Proxy
+DOMAIN-SUFFIX,google.gr,Proxy
 DOMAIN-SUFFIX,google.ie,Proxy
 DOMAIN-SUFFIX,google.is,Proxy
 DOMAIN-SUFFIX,google.it,Proxy
 DOMAIN-SUFFIX,google.jo,Proxy
+DOMAIN-SUFFIX,google.kz,Proxy
+DOMAIN-SUFFIX,google.mn,Proxy
 DOMAIN-SUFFIX,google.ms,Proxy
 DOMAIN-SUFFIX,google.nl,Proxy
 DOMAIN-SUFFIX,google.nu,Proxy
 DOMAIN-SUFFIX,google.no,Proxy
 DOMAIN-SUFFIX,google.ro,Proxy
+DOMAIN-SUFFIX,google.ru,Proxy
+DOMAIN-SUFFIX,google.rw,Proxy
 DOMAIN-SUFFIX,google.sc,Proxy
 DOMAIN-SUFFIX,google.sh,Proxy
 DOMAIN-SUFFIX,google.sk,Proxy
 DOMAIN-SUFFIX,google.sm,Proxy
 DOMAIN-SUFFIX,google.sn,Proxy
 DOMAIN-SUFFIX,google.tk,Proxy
+DOMAIN-SUFFIX,google.tm,Proxy
 DOMAIN-SUFFIX,google.to,Proxy
 DOMAIN-SUFFIX,google.tt,Proxy
 DOMAIN-SUFFIX,google.vu,Proxy
@@ -451,6 +457,7 @@ DOMAIN-SUFFIX,googlemail.com,Proxy
 DOMAIN-SUFFIX,googleplay.com,Proxy
 DOMAIN-SUFFIX,googleplus.com,Proxy
 DOMAIN-SUFFIX,googlesource.com,Proxy
+DOMAIN-SUFFIX,googlesyndication.com,Proxy
 DOMAIN-SUFFIX,googleusercontent.com,Proxy
 DOMAIN-SUFFIX,googlevideo.com,Proxy
 DOMAIN-SUFFIX,googlezip.net,Proxy
@@ -652,6 +659,7 @@ DOMAIN-SUFFIX,alljackpotscasino.com,Proxy
 DOMAIN-SUFFIX,allmovie.com,Proxy
 DOMAIN-SUFFIX,alphaporno.com,Proxy
 DOMAIN-SUFFIX,alternate-tools.com,Proxy
+DOMAIN-SUFFIX,alternativeto.net,Proxy
 DOMAIN-SUFFIX,alvinalexander.com,Proxy
 DOMAIN-SUFFIX,alwaysdata.com,Proxy
 DOMAIN-SUFFIX,alwaysdata.net,Proxy
@@ -862,6 +870,7 @@ DOMAIN-SUFFIX,blinkx.com,Proxy
 DOMAIN-SUFFIX,blinw.com,Proxy
 DOMAIN-SUFFIX,blip.tv,Proxy
 DOMAIN-SUFFIX,blockcn.com,Proxy
+DOMAIN-SUFFIX,blockless.com,Proxy
 DOMAIN-SUFFIX,blog.de,Proxy
 DOMAIN-SUFFIX,blog.jp,Proxy
 DOMAIN-SUFFIX,blogblog.com,Proxy
@@ -1162,6 +1171,7 @@ DOMAIN-SUFFIX,cmule.com,Proxy
 DOMAIN-SUFFIX,cmule.org,Proxy
 DOMAIN-SUFFIX,cms.gov,Proxy
 DOMAIN-SUFFIX,vpn.cmu.edu,Proxy
+DOMAIN-SUFFIX,vpn.sv.cmu.edu,Proxy
 DOMAIN-SUFFIX,cn6.eu,Proxy
 DOMAIN-SUFFIX,cna.com.tw,Proxy
 DOMAIN-SUFFIX,cnabc.com,Proxy
@@ -1204,6 +1214,7 @@ DOMAIN-SUFFIX,cos-moe.com,Proxy
 DOMAIN-SUFFIX,couchdbwiki.com,Proxy
 DOMAIN-SUFFIX,cotweet.com,Proxy
 DOMAIN-SUFFIX,cpj.org,Proxy
+DOMAIN-SUFFIX,cq99.us,Proxy
 DOMAIN-SUFFIX,crackle.com,Proxy
 DOMAIN-SUFFIX,crchina.org,Proxy
 DOMAIN-SUFFIX,crd-net.org,Proxy
@@ -2017,6 +2028,7 @@ DOMAIN-SUFFIX,hkbf.org,Proxy
 DOMAIN-SUFFIX,hkbookcity.com,Proxy
 DOMAIN-SUFFIX,hkchurch.org,Proxy
 DOMAIN-SUFFIX,hkcmi.edu,Proxy
+DOMAIN-SUFFIX,hkcnews.com,Proxy
 DOMAIN-SUFFIX,hkcoc.com,Proxy
 DOMAIN-SUFFIX,hkday.net,Proxy
 DOMAIN-SUFFIX,hkdailynews.com.hk,Proxy
@@ -3336,10 +3348,10 @@ DOMAIN-SUFFIX,savetibet.ru,Proxy
 DOMAIN-SUFFIX,savevid.com,Proxy
 DOMAIN-SUFFIX,say2.info,Proxy
 DOMAIN-SUFFIX,sbme.me,Proxy
+DOMAIN-SUFFIX,sbs.com.au,Proxy
 DOMAIN-SUFFIX,scasino.com,Proxy
 DOMAIN-SUFFIX,www.sciencemag.org,Proxy
 DOMAIN-SUFFIX,sciencenets.com,Proxy
-DOMAIN-SUFFIX,scihub.org,Proxy
 DOMAIN-SUFFIX,scmp.com,Proxy
 DOMAIN-SUFFIX,scmpchinese.com,Proxy
 DOMAIN-SUFFIX,scramble.io,Proxy
@@ -3542,6 +3554,7 @@ DOMAIN-SUFFIX,southnews.com.tw,Proxy
 DOMAIN-SUFFIX,sowers.org.hk,Proxy
 DOMAIN-SUFFIX,wlx.sowiki.net,Proxy
 DOMAIN-SUFFIX,spankbang.com,Proxy
+DOMAIN-SUFFIX,spankingtube.com,Proxy
 DOMAIN-SUFFIX,spankwire.com,Proxy
 DOMAIN-SUFFIX,spb.com,Proxy
 DOMAIN-SUFFIX,speakerdeck.com,Proxy
@@ -3549,13 +3562,13 @@ DOMAIN-SUFFIX,spem.at,Proxy
 DOMAIN-SUFFIX,spencertipping.com,Proxy
 DOMAIN-SUFFIX,spicevpn.com,Proxy
 DOMAIN-SUFFIX,spike.com,Proxy
-DOMAIN-SUFFIX,spinejs.com,Proxy
 DOMAIN-SUFFIX,spotflux.com,Proxy
 DOMAIN-SUFFIX,spring4u.info,Proxy
 DOMAIN-SUFFIX,sproutcore.com,Proxy
 DOMAIN-SUFFIX,sproxy.info,Proxy
 DOMAIN-SUFFIX,squarespace.com,Proxy
 DOMAIN-SUFFIX,srocket.us,Proxy
+DOMAIN-SUFFIX,ss-link.com,Proxy
 DOMAIN-SUFFIX,ssh91.com,Proxy
 DOMAIN-SUFFIX,sspro.ml,Proxy
 DOMAIN-SUFFIX,sss.camp,Proxy
@@ -3619,15 +3632,12 @@ DOMAIN-SUFFIX,surfeasy.com,Proxy
 DOMAIN-SUFFIX,surfeasy.com.au,Proxy
 DOMAIN-SUFFIX,surrenderat20.net,Proxy
 DOMAIN-SUFFIX,suyangg.com,Proxy
-DOMAIN-SUFFIX,svwind.com,Proxy
-DOMAIN-SUFFIX,sweux.com,Proxy
 DOMAIN-SUFFIX,swissvpn.net,Proxy
 DOMAIN-SUFFIX,switchvpn.net,Proxy
 DOMAIN-SUFFIX,swift-tools.net,Proxy
 DOMAIN-SUFFIX,sydneytoday.com,Proxy
 DOMAIN-SUFFIX,sylfoundation.org,Proxy
 DOMAIN-SUFFIX,syncback.com,Proxy
-DOMAIN-SUFFIX,sysadmin1138.net,Proxy
 DOMAIN-SUFFIX,sysresccd.org,Proxy
 DOMAIN-SUFFIX,blog.syx86.com,Proxy
 DOMAIN-SUFFIX,blog.syx86.cn,Proxy
@@ -3635,7 +3645,6 @@ DOMAIN-SUFFIX,szbbs.net,Proxy
 DOMAIN-SUFFIX,szetowah.org.hk,Proxy
 DOMAIN-SUFFIX,t35.com,Proxy
 DOMAIN-SUFFIX,t66y.com,Proxy
-DOMAIN-SUFFIX,t88.ca,Proxy
 DOMAIN-SUFFIX,taa-usa.org,Proxy
 DOMAIN-SUFFIX,taaze.tw,Proxy
 DOMAIN-SUFFIX,www.tablesgenerator.com,Proxy
@@ -3643,7 +3652,6 @@ DOMAIN-SUFFIX,tabtter.jp,Proxy
 DOMAIN-SUFFIX,tacem.org,Proxy
 DOMAIN-SUFFIX,taconet.com.tw,Proxy
 DOMAIN-SUFFIX,taedp.org.tw,Proxy
-DOMAIN-SUFFIX,tafaward.com,Proxy
 DOMAIN-SUFFIX,tafm.org,Proxy
 DOMAIN-SUFFIX,tagwa.org.au,Proxy
 DOMAIN-SUFFIX,tagwalk.com,Proxy
@@ -3704,7 +3712,6 @@ DOMAIN-SUFFIX,tcnynj.org,Proxy
 DOMAIN-SUFFIX,tcsofbc.org,Proxy
 DOMAIN-SUFFIX,tcsovi.org,Proxy
 DOMAIN-SUFFIX,teamamericany.com,Proxy
-DOMAIN-SUFFIX,techlifeweb.com,Proxy
 DOMAIN-SUFFIX,teck.in,Proxy
 DOMAIN-SUFFIX,teeniefuck.net,Proxy
 DOMAIN-SUFFIX,teensinasia.com,Proxy
@@ -3887,21 +3894,17 @@ DOMAIN-SUFFIX,torrenty.org,Proxy
 DOMAIN-SUFFIX,torrentz.eu,Proxy
 DOMAIN-SUFFIX,torvpn.com,Proxy
 DOMAIN-SUFFIX,totalvpn.com,Proxy
-DOMAIN-SUFFIX,toutfr.com,Proxy
 DOMAIN-SUFFIX,towngain.com,Proxy
 DOMAIN-SUFFIX,toypark.in,Proxy
 DOMAIN-SUFFIX,toytractorshow.com,Proxy
 DOMAIN-SUFFIX,tparents.org,Proxy
 DOMAIN-SUFFIX,tpi.org.tw,Proxy
 DOMAIN-SUFFIX,traffichaus.com,Proxy
-DOMAIN-SUFFIX,transgressionism.org,Proxy
 DOMAIN-SUFFIX,transparency.org,Proxy
-DOMAIN-SUFFIX,travelinlocal.com,Proxy
 DOMAIN-SUFFIX,treemall.com.tw,Proxy
 DOMAIN-SUFFIX,trendsmap.com,Proxy
 DOMAIN-SUFFIX,trialofccp.org,Proxy
 DOMAIN-SUFFIX,trimondi.de,Proxy
-DOMAIN-SUFFIX,tripod.com,Proxy
 DOMAIN-SUFFIX,trouw.nl,Proxy
 DOMAIN-SUFFIX,trt.net.tr,Proxy
 DOMAIN-SUFFIX,trtc.com.tw,Proxy
@@ -3956,7 +3959,6 @@ DOMAIN-SUFFIX,turbohide.com,Proxy
 DOMAIN-SUFFIX,turningtorso.com,Proxy
 DOMAIN-SUFFIX,tushycash.com,Proxy
 DOMAIN-SUFFIX,tuvpn.com,Proxy
-DOMAIN-SUFFIX,tuxtraining.com,Proxy
 DOMAIN-SUFFIX,tuzaijidi.com,Proxy
 DOMAIN-SUFFIX,.tuzaijidi.com,Proxy
 DOMAIN-SUFFIX,tw01.org,Proxy
@@ -4647,6 +4649,11 @@ DOMAIN-SUFFIX,ntsna.gov.tw,Proxy
 DOMAIN-SUFFIX,taipei.gov.tw,Proxy
 DOMAIN-KEYWORD,google,Proxy
 
+
+IP-CIDR,192.168.0.0/16,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT
 [Host]
 localhost = 127.0.0.1
 

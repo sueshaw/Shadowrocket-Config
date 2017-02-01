@@ -449,6 +449,7 @@
 ||coxnewsweb.com^*/ads/
 ||cplayer.blinkx.com^$third-party
 ||cpm.amateurcommunity.de^
+||cq.com/pub/
 ||creativecdn.com/creatives?
 ||creatives.inmotionhosting.com^
 ||creatives.summitconnect.co.uk^
@@ -940,6 +941,7 @@
 ||img.servint.net^$third-party
 ||imgdino.com/gsmpop.js
 ||imgehost.com^*/banners/$third-party
+||imgix.net/sponsors/
 ||imgpop.googlecode.com^$third-party
 ||imgur.com^$image,domain=filerev.cc|talksport.com
 ||imptestrm.com/rg-main.php?
@@ -1142,6 +1144,7 @@
 ||moneycontrol.com/share-market-game/$third-party
 ||moneywise.co.uk/affiliate/
 ||moosify.com/widgets/explorer/?partner=
+||morningpost.dk^*/bildele.gif
 ||mosso.com^*/banners/
 ||movie4all.co^$third-party
 ||mozo-widgets.f2.com.au^
@@ -1341,6 +1344,7 @@
 ||pubexchange.com/module/*-prod$third-party
 ||pubexchange.com/modules/display/$script,third-party
 ||public.porn.fr^$third-party
+||publication.isu.pub^$domain=~issuu.com
 ||publicidees.com/banner.php$third-party
 ||publicidees.com/showbanner.php$third-party
 ||pubs.hiddennetwork.com^
@@ -1484,7 +1488,6 @@
 ||smblock.s3.amazonaws.com^
 ||smilepk.com/bnrsbtns/
 ||snacktools.net/bannersnack/
-||snapapp.com^$third-party,domain=bostonmagazine.com
 ||snapdeal.com^*.php$third-party
 ||sndkorea.nowcdn.co.kr^$third-party
 ||socialmonkee.com/images/$third-party
