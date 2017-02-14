@@ -266,7 +266,6 @@
 ||banners.smarttweak.com^$third-party
 ||banners.videosz.com^$third-party
 ||banners.webmasterplan.com^$third-party
-||bannersnack.com/iframe/$third-party
 ||bbcchannels.com/workspace/uploads/
 ||bc.coupons.com^$third-party
 ||bc.vc/js/link-converter.js$third-party
@@ -310,6 +309,7 @@
 ||blocks.ginotrack.com^$third-party
 ||blogatus.com/images/banner/$third-party
 ||bloodstock.uk.com/affiliates/
+||bluehost-cdn.com/media/partner/images/
 ||bluepromocode.com/images/widgets/$third-party
 ||bluesattv.net/bluesat.swf
 ||bluesattv.net/bluesattvnet.gif
@@ -621,6 +621,7 @@
 ||disy2s34euyqm.cloudfront.net^
 ||dizixdllzznrf.cloudfront.net^
 ||djlf5xdlz7m8m.cloudfront.net^
+||djr4k68f8n55o.cloudfront.net^
 ||dkd69bwkvrht1.cloudfront.net^
 ||dkdwv3lcby5zi.cloudfront.net^
 ||dl392qndlveq0.cloudfront.net^
@@ -1347,7 +1348,6 @@
 ||pubexchange.com/modules/display/$script,third-party
 ||public.porn.fr^$third-party
 ||publicidees.com/banner.php$third-party
-||publicidees.com/showbanner.php$third-party
 ||pubs.hiddennetwork.com^
 ||puntersparadise.com.au/banners/
 ||purevpn.com/affiliates/
@@ -1679,6 +1679,7 @@
 ||usersfiles.com/images/72890UF.png
 ||usfine.com/images/sty_img/usfine.gif
 ||ussearch.com/preview/banner/
+||utility.rogersmedia.com^
 ||valuechecker.co.uk/banners/$third-party
 ||vapeworld.com^*/banners/$third-party
 ||vaporizor.com^*/banners/$third-party

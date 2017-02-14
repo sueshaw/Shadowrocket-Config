@@ -1295,6 +1295,7 @@
 ||contextads.net^$third-party
 ||contextuads.com^$third-party
 ||contextweb.com^$third-party
+||contribusourcesyndication.com^$third-party
 ||conyak.com^$third-party
 ||coolerads.com^$third-party
 ||coolmirage.com^$third-party
@@ -2238,6 +2239,7 @@
 ||jdproject.net^$third-party
 ||jeetyetmedia.com^$third-party
 ||jemmgroup.com^$third-party
+||jewishcontentnetwork.com^$third-party
 ||jf2mn2ms.club^$third-party
 ||jfduv7.com^$third-party
 ||jfx61qca.site^$third-party
@@ -2298,6 +2300,7 @@
 ||kiosked.com^$third-party
 ||kitnmedia.com^$third-party
 ||kjgh5o.com^$third-party
+||kkddlt2f.site^$third-party
 ||klikadvertising.com^$third-party
 ||kliksaya.com^$third-party
 ||klikvip.com^$third-party
@@ -2381,6 +2384,7 @@
 ||linkoffers.net^$third-party
 ||linkreferral.com^$third-party
 ||links.io^$third-party
+||links2revenue.com^$third-party
 ||linkshowoff.com^$third-party
 ||linksmart.com^$third-party
 ||linkstorm.net^$third-party
@@ -2628,6 +2632,7 @@
 ||moregamers.com^$third-party
 ||moreplayerz.com^$third-party
 ||morgdm.ru^$third-party
+||moritava.com^$third-party
 ||mosaicolor.website^$third-party
 ||moselats.com^$third-party
 ||mottnow.com^$third-party
@@ -3372,6 +3377,7 @@
 ||shoppingads.com^$third-party
 ||shopzyapp.com^$third-party
 ||showyoursite.com^$third-party
+||shqads.com^$third-party
 ||siamzone.com^$third-party
 ||silence-ads.com^$third-party
 ||silstavo.com^$third-party
@@ -4342,8 +4348,10 @@
 ||cfdmkifknsjt.com^$third-party
 ||cfsdtzggpcmr.com^$third-party
 ||cgmkpdqjnedb.com^$third-party
+||chqulqxfghdz.com^$third-party
 ||chvjfriqlvnt.com^$third-party
 ||chxfeymgmwbo.com^$third-party
+||chytrrvwvabg.com^$third-party
 ||cihnrhqwbcsq.com^$third-party
 ||cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com^$third-party
 ||cjnoeafncyzb.com^$third-party
@@ -4428,6 +4436,7 @@
 ||dxcqavshmvst.com^$third-party
 ||dxfsbkmaydtt.com^$third-party
 ||dxigubtmyllj.com^$third-party
+||dxurtngzawwe.com^$third-party
 ||dyazeqpeoykf.com^$third-party
 ||dyunhvev.com^$third-party
 ||easnviytengk.com^$third-party
@@ -4501,6 +4510,7 @@
 ||fokisduu.com^$third-party
 ||fpbmjwoebzby.com^$third-party
 ||fppupmqbydpk.com^$third-party
+||fpvfeyjrwlio.com^$third-party
 ||fqkcdhptlqma.com^$third-party
 ||fqmxwckinopg.com^$third-party
 ||fqovfxpsytxf.com^$third-party
@@ -4627,6 +4637,7 @@
 ||hyzncftkveum.com^$third-party
 ||hzskbnafzwsu.com^$third-party
 ||hztkbjdkaiwt.com^$third-party
+||iagvkdeienla.com^$third-party
 ||ibqmccuuhjqc.com^$third-party
 ||icafyriewzzrwxlxhtoeakmwroueywnwhmqmaxsqdntasgfvhc.com^$third-party
 ||icjeqbqdzhyx.com^$third-party
@@ -4641,6 +4652,7 @@
 ||igdfzixkdzxe.com^$third-party
 ||iglwibwbjxuoflrczfvpibhihwuqneyvmhzeqbmdmujmirdkae.com^$third-party
 ||igupodzh.com^$third-party
+||igyzmhqbihoi.com^$third-party
 ||ihqxhokndcfq.com^$third-party
 ||iibcejrrfhxh.com^$third-party
 ||iknctklddhoh.com^$third-party
@@ -4749,6 +4761,7 @@
 ||knslxwqgatnd.com^$third-party
 ||kplzvizvsqrh.com^$third-party
 ||kpnuqvpevotn.com^$third-party
+||kpsdnlprwclz.com^$third-party
 ||kqcflzvunhew.com^$third-party
 ||kqmjmrzjhmdn.com^$third-party
 ||kqsipdhvcejx.com^$third-party
@@ -4815,6 +4828,7 @@
 ||maboflgkaxqn.com^$third-party
 ||maxgirlgames.com^$third-party
 ||mbfvfdkawpoi.com^$third-party
+||mbgvhfotcqsj.com^$third-party
 ||mbvmecdlwlts.com^$third-party
 ||mdeaoowvqxma.com^$third-party
 ||medyagundem.com^$third-party
@@ -4829,6 +4843,7 @@
 ||mizmhwicqhprznhflygfnymqbmvwokewzlmymmvjodqlizwlrf.com^$third-party
 ||mjujcjfrgslf.com^$third-party
 ||mkmxovjaijti.com^$third-party
+||mkyzqyfschwd.com^$third-party
 ||mkzynqxqlcxk.com^$third-party
 ||mlbzafthbtsl.com^$third-party
 ||mlgrrqymdsyk.com^$third-party
@@ -4989,6 +5004,7 @@
 ||prggimadscvm.com^$third-party
 ||prqivgpcjxpp.com^$third-party
 ||prwlzpyschwi.com^$third-party
+||psdnlprwclz.com^$third-party
 ||pserhnmbbwexmbjderezswultfqlamugbqzsmyxwumgqwxuerl.com^$third-party
 ||pshcqtizgdlm.com^$third-party
 ||psmlgjalddqu.com^$third-party
@@ -5022,6 +5038,7 @@
 ||qijffgqsbkii.com^$third-party
 ||qiktwikahncl.com^$third-party
 ||qinsmmxvacuh.com^$third-party
+||qiqrguvdhcux.com^$third-party
 ||qiremmtynkae.com^$third-party
 ||qixlpaaeaspr.com^$third-party
 ||qjskosdsxanp.com^$third-party
@@ -5198,6 +5215,7 @@
 ||turyvfzreolc.com^$third-party
 ||twnrkedqefhv.com^$third-party
 ||txbvzcyfyyoy.com^$third-party
+||txyxoktogdcy.com^$third-party
 ||tyzfzrjaxxcg.com^$third-party
 ||tzjngascinro.com^$third-party
 ||uavqdzorwish.com^$third-party
@@ -5222,6 +5240,7 @@
 ||ujtyosgemtnx.com^$third-party
 ||ujyyciaedxqr.com^$third-party
 ||ukjzdydnveuc.com^$third-party
+||ulffbcunqnpv.com^$third-party
 ||ulpxnhiugynh.com^$third-party
 ||umboffikfkoc.com^$third-party
 ||umqsrvdg.com^$third-party
@@ -5443,6 +5462,7 @@
 ||yzygkqjhedpw.com^$third-party
 ||zacbwfgqvxan.com^$third-party
 ||zamjzpwgekeo.com^$third-party
+||zansceeifcmm.com^$third-party
 ||zbfncjtaiwngdsrxvykupflpibvbrewhemghxlwsdoluaztwyi.com^$third-party
 ||zbrkywjutuxu.com^$third-party
 ||zbtqpkimkjcr.com^$third-party
@@ -5695,8 +5715,10 @@
 ||rugistratuan.com^$third-party
 ||selectr.net^$third-party
 ||sfesd.net^$third-party
+||shoapinh.com^$third-party
 ||sightr.net^$third-party
 ||simusangr.com^$third-party
+||smethgiar.com^$third-party
 ||spamualfr.com^$third-party
 ||speandorf.net^$third-party
 ||spereminf.com^$third-party
@@ -5733,6 +5755,7 @@
 ||virsualr.com^$third-party
 ||vopdi.com^$third-party
 ||vuadiolgy.net^$third-party
+||vualawilk.com^$third-party
 ||waddr.com^$third-party
 ||wensdteuy.com^$third-party
 ||wolopiar.com^$third-party
