@@ -1,9 +1,8 @@
 # Shadowrocket Config
 
-this project convert [GfwList](https://github.com/gfwlist/gfwlist) for wall break and 
-~~[easylist_general_block](https://github.com/easylist/easylist) to Shadowrocket Config file~~
-[easylist_adservers](https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt),
-[easylist_thirdparty](https://github.com/easylist/easylist/blob/master/easylist/easylist_thirdparty.txt) for ad-block
+this project converts [GfwList](https://github.com/gfwlist/gfwlist) to a Shadowrocket config to break the GFW  and
+convert [easylist_adservers](https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt),
+[easylist_thirdparty](https://github.com/easylist/easylist/blob/master/easylist/easylist_thirdparty.txt) to Shadowrocket config to lock ads
 
 >* Convert gfwlist rules to ```DOMAIN-SUFFIX,rule,Proxy```
 >* Convert easylist rules to ```DOMAIN-SUFFIX,rule,REJECT```
