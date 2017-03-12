@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-03-05 14:24:01.503644
+# Shadowrocket: 2017-03-12 14:25:57.041520
 # Shadowrocket config file by Hayden
 
 [General]
@@ -6,7 +6,6 @@ bypass-system = true
 skip-proxy = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,localhost,*.local,e.crashlynatics.com
 bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.18.0.0/15,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,255.255.255.255/32
 dns-server =
-
 
 [Rule]
 DOMAIN-SUFFIX,2dbook.com,Proxy
@@ -500,6 +499,7 @@ DOMAIN-SUFFIX,recaptcha.net,Proxy
 DOMAIN-SUFFIX,redhotlabs.com,Proxy
 DOMAIN-SUFFIX,registry.google,Proxy
 DOMAIN-SUFFIX,schema.org,Proxy
+DOMAIN-SUFFIX,shattered.io,Proxy
 DOMAIN-SUFFIX,sipml5.org,Proxy
 DOMAIN-SUFFIX,stories.google,Proxy
 DOMAIN-SUFFIX,synergyse.com,Proxy
@@ -1909,6 +1909,7 @@ DOMAIN-SUFFIX,gohappy.com.tw,Proxy
 DOMAIN-SUFFIX,gokbayrak.com,Proxy
 DOMAIN-SUFFIX,goldbet.com,Proxy
 DOMAIN-SUFFIX,goldbetsports.com,Proxy
+DOMAIN-SUFFIX,goldeneyevault.com,Proxy
 DOMAIN-SUFFIX,goldenfrog.com,Proxy
 DOMAIN-SUFFIX,goldstep.net,Proxy
 DOMAIN-SUFFIX,goldwave.com,Proxy
@@ -2043,6 +2044,7 @@ DOMAIN-SUFFIX,getsmartlinks.com,Proxy
 DOMAIN-SUFFIX,git-scm.com,Proxy
 DOMAIN-SUFFIX,heqinglian.net,Proxy
 DOMAIN-SUFFIX,heungkongdiscuss.com,Proxy
+DOMAIN-SUFFIX,hexieshe.com,Proxy
 DOMAIN-SUFFIX,hexxeh.net,Proxy
 DOMAIN-SUFFIX,app.heywire.com,Proxy
 DOMAIN-SUFFIX,heyzo.com,Proxy
@@ -3152,7 +3154,9 @@ DOMAIN-SUFFIX,.picturedip.com,Proxy
 DOMAIN-SUFFIX,picturesocial.com,Proxy
 DOMAIN-SUFFIX,pin6.com,Proxy
 DOMAIN-SUFFIX,ping.fm,Proxy
+DOMAIN-SUFFIX,pinimg.com,Proxy
 DOMAIN-SUFFIX,pinoy-n.com,Proxy
+DOMAIN-SUFFIX,pinterest.com,Proxy
 DOMAIN-SUFFIX,piposay.com,Proxy
 DOMAIN-SUFFIX,piraattilahti.org,Proxy
 DOMAIN-SUFFIX,piring.com,Proxy
@@ -3356,6 +3360,7 @@ DOMAIN-SUFFIX,renyurenquan.org,Proxy
 DOMAIN-SUFFIX,certificate.revocationcheck.com,Proxy
 DOMAIN-SUFFIX,subacme.rerouted.org,Proxy
 DOMAIN-SUFFIX,reuters.com,Proxy
+DOMAIN-SUFFIX,reutersmedia.net,Proxy
 DOMAIN-SUFFIX,revleft.com,Proxy
 DOMAIN-SUFFIX,retweetist.com,Proxy
 DOMAIN-SUFFIX,retweetrank.com,Proxy
