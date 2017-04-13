@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /mV27zL4m0D6rERLu2Mz/A
+! Checksum: +wC75tciGwzvwEKuR5SgdA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 20 Mar 2017 21:25:21 -0400
+! Last Modified: Thu, 06 Apr 2017 21:47:18 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -43,6 +43,7 @@
 ||crossfire.co.kr
 ||d2pass.com
 ||darpa.mil
+||deezer.com
 ||desipro.de
 ||dish.com
 |http://img.dlsite.jp/
@@ -109,6 +110,7 @@ share.dmhy.org
 ||madonna-av.com
 ||mangafox.com
 ||mangafox.me
+||manta.com
 ||matome-plus.com
 ||matome-plus.net
 ||mattwilcox.net
@@ -192,7 +194,7 @@ share.dmhy.org
 174.142.105.153
 69.65.19.160
 
-!-------------Non-Latin Domain Names------------
+!----------------------IDN----------------------
 ||xn--4gq171p.com
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 
@@ -603,6 +605,7 @@ blogspot.com
 ||webrtc.org
 ||whatbrowser.org
 ||withgoogle.com
+||xn--ngstr-lra8j.com
 ||youtu.be
 .youtube.com
 ||youtube.com
@@ -638,7 +641,6 @@ blogspot.com
 .030buy.com
 .0rz.tw
 |http://0rz.tw
-||0to255.com
 1-apple.com.tw
 ||1-apple.com.tw
 .100ke.org
@@ -974,6 +976,7 @@ atgfw.org
 ||atdmt.com
 .atnext.com
 ||atnext.com
+ice.audionow.com
 avaaz.org
 ||avaaz.org
 !--||avast.com
@@ -1160,6 +1163,8 @@ bloomberg.de
 ||bloomfortune.com
 blueangellive.com
 .bmfinn.com
+.bnews.co
+||bnews.co
 ||bnrmetal.com
 boardreader.com/thread
 ||boardreader.com
@@ -2121,6 +2126,8 @@ fc2.com
 fc2blog.net
 |http://uygur.fc2web.com/
 video.fdbox.com
+.fdc64.de
+.fdc64.org
 .fdc89.jp
 ||fourface.nodesnoop.com
 !--feedbooks.mobi
@@ -3104,7 +3111,8 @@ hrweb.org
 ||htkou.net
 ||htmldog.com
 .hua-yue.net
-huaglad.com
+.huaglad.com
+||huaglad.com
 .huanghuagang.org
 ||huanghuagang.org
 .huangyiyu.com
@@ -3922,6 +3930,8 @@ multiupload.com
 ||mx981.com
 .my-formosa.com
 .my-proxy.com
+.my-private-network.co.uk
+||my-private-network.co.uk
 forum.my903.com
 .myactimes.com/actimes
 .myaudiocast.com
@@ -3948,14 +3958,14 @@ mycould.com/discuz
 .myfreecams.com
 .myfreepaysite.com
 .myfreshnet.com
+.myiphide.com
+||myiphide.com
 forum.mymaji.com
 mymediarom.com/files/box
 ||mymoe.moe
 ||mymusic.net.tw
 ||myparagliding.com
 ||mypopescu.com
-.my-private-network.co.uk
-||my-private-network.co.uk
 myradio.hk/podcast
 mysinablog.com
 .myspace.com
@@ -4355,6 +4365,7 @@ picturesocial.com
 .ping.fm
 ||ping.fm
 ||pinimg.com
+.pinkrod.com
 ||pinoy-n.com
 .pinterest.com
 ||pinterest.com
@@ -4498,6 +4509,7 @@ psblog.name
 ||psiphon.ca
 .psiphon3.com
 ||psiphon3.com
+.psiphontoday.com
 .ptt.cc
 ||ptt.cc
 .puffstore.com
@@ -6589,6 +6601,7 @@ taipei.gov.tw
 @@||dl.google.com
 @@||kh.google.com
 @@||fonts.googleapis.com
+@@||storage.googleapis.com
 @@||cn.gravatar.com
 @@||csi.gstatic.com
 @@||fonts.gstatic.com

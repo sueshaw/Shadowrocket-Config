@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-03-22 13:28:15.724518
+# Shadowrocket: 2017-04-13 14:42:18.754698
 # Shadowrocket config file by Hayden
 
 [General]
@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,static.comico.tw,Proxy
 DOMAIN-SUFFIX,crossfire.co.kr,Proxy
 DOMAIN-SUFFIX,d2pass.com,Proxy
 DOMAIN-SUFFIX,darpa.mil,Proxy
+DOMAIN-SUFFIX,deezer.com,Proxy
 DOMAIN-SUFFIX,desipro.de,Proxy
 DOMAIN-SUFFIX,dish.com,Proxy
 DOMAIN-SUFFIX,img.dlsite.jp,Proxy
@@ -91,6 +92,7 @@ DOMAIN-SUFFIX,macgamestore.com,Proxy
 DOMAIN-SUFFIX,madonna-av.com,Proxy
 DOMAIN-SUFFIX,mangafox.com,Proxy
 DOMAIN-SUFFIX,mangafox.me,Proxy
+DOMAIN-SUFFIX,manta.com,Proxy
 DOMAIN-SUFFIX,matome-plus.com,Proxy
 DOMAIN-SUFFIX,matome-plus.net,Proxy
 DOMAIN-SUFFIX,mattwilcox.net,Proxy
@@ -525,6 +527,7 @@ DOMAIN-SUFFIX,webmproject.org,Proxy
 DOMAIN-SUFFIX,webrtc.org,Proxy
 DOMAIN-SUFFIX,whatbrowser.org,Proxy
 DOMAIN-SUFFIX,withgoogle.com,Proxy
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Proxy
 DOMAIN-SUFFIX,youtu.be,Proxy
 DOMAIN-SUFFIX,youtube.com,Proxy
 DOMAIN-SUFFIX,youtube-nocookie.com,Proxy
@@ -537,7 +540,6 @@ DOMAIN-SUFFIX,naughtyamerica.com,Proxy
 DOMAIN-SUFFIX,v2ex.com,Proxy
 DOMAIN-SUFFIX,030buy.com,Proxy
 DOMAIN-SUFFIX,0rz.tw,Proxy
-DOMAIN-SUFFIX,0to255.com,Proxy
 DOMAIN-SUFFIX,1-apple.com.tw,Proxy
 DOMAIN-SUFFIX,100ke.org,Proxy
 DOMAIN-SUFFIX,1000giri.net,Proxy
@@ -800,6 +802,7 @@ DOMAIN-SUFFIX,atgfw.org,Proxy
 DOMAIN-SUFFIX,atlaspost.com,Proxy
 DOMAIN-SUFFIX,atdmt.com,Proxy
 DOMAIN-SUFFIX,atnext.com,Proxy
+DOMAIN-SUFFIX,ice.audionow.com,Proxy
 DOMAIN-SUFFIX,avaaz.org,Proxy
 DOMAIN-SUFFIX,avcity.tv,Proxy
 DOMAIN-SUFFIX,avcool.com,Proxy
@@ -939,6 +942,7 @@ DOMAIN-SUFFIX,bloomberg.de,Proxy
 DOMAIN-SUFFIX,bloomfortune.com,Proxy
 DOMAIN-SUFFIX,blueangellive.com,Proxy
 DOMAIN-SUFFIX,bmfinn.com,Proxy
+DOMAIN-SUFFIX,bnews.co,Proxy
 DOMAIN-SUFFIX,bnrmetal.com,Proxy
 DOMAIN-SUFFIX,boardreader.com,Proxy
 DOMAIN-SUFFIX,bod.asia,Proxy
@@ -1654,6 +1658,8 @@ DOMAIN-SUFFIX,fc2cn.com,Proxy
 DOMAIN-SUFFIX,fc2blog.net,Proxy
 DOMAIN-SUFFIX,uygur.fc2web.com,Proxy
 DOMAIN-SUFFIX,video.fdbox.com,Proxy
+DOMAIN-SUFFIX,fdc64.de,Proxy
+DOMAIN-SUFFIX,fdc64.org,Proxy
 DOMAIN-SUFFIX,fdc89.jp,Proxy
 DOMAIN-SUFFIX,fourface.nodesnoop.com,Proxy
 DOMAIN-SUFFIX,feelssh.com,Proxy
@@ -2832,6 +2838,7 @@ DOMAIN-SUFFIX,muzi.net,Proxy
 DOMAIN-SUFFIX,mx981.com,Proxy
 DOMAIN-SUFFIX,my-formosa.com,Proxy
 DOMAIN-SUFFIX,my-proxy.com,Proxy
+DOMAIN-SUFFIX,my-private-network.co.uk,Proxy
 DOMAIN-SUFFIX,forum.my903.com,Proxy
 DOMAIN-SUFFIX,myactimes.com,Proxy
 DOMAIN-SUFFIX,myaudiocast.com,Proxy
@@ -2854,13 +2861,13 @@ DOMAIN-SUFFIX,myforum.com.uk,Proxy
 DOMAIN-SUFFIX,myfreecams.com,Proxy
 DOMAIN-SUFFIX,myfreepaysite.com,Proxy
 DOMAIN-SUFFIX,myfreshnet.com,Proxy
+DOMAIN-SUFFIX,myiphide.com,Proxy
 DOMAIN-SUFFIX,forum.mymaji.com,Proxy
 DOMAIN-SUFFIX,mymediarom.com,Proxy
 DOMAIN-SUFFIX,mymoe.moe,Proxy
 DOMAIN-SUFFIX,mymusic.net.tw,Proxy
 DOMAIN-SUFFIX,myparagliding.com,Proxy
 DOMAIN-SUFFIX,mypopescu.com,Proxy
-DOMAIN-SUFFIX,my-private-network.co.uk,Proxy
 DOMAIN-SUFFIX,myradio.hk,Proxy
 DOMAIN-SUFFIX,mysinablog.com,Proxy
 DOMAIN-SUFFIX,myspace.com,Proxy
@@ -3184,6 +3191,7 @@ DOMAIN-SUFFIX,picturesocial.com,Proxy
 DOMAIN-SUFFIX,pin6.com,Proxy
 DOMAIN-SUFFIX,ping.fm,Proxy
 DOMAIN-SUFFIX,pinimg.com,Proxy
+DOMAIN-SUFFIX,pinkrod.com,Proxy
 DOMAIN-SUFFIX,pinoy-n.com,Proxy
 DOMAIN-SUFFIX,pinterest.com,Proxy
 DOMAIN-SUFFIX,piposay.com,Proxy
@@ -3297,6 +3305,7 @@ DOMAIN-SUFFIX,prozz.net,Proxy
 DOMAIN-SUFFIX,psblog.name,Proxy
 DOMAIN-SUFFIX,psiphon.ca,Proxy
 DOMAIN-SUFFIX,psiphon3.com,Proxy
+DOMAIN-SUFFIX,psiphontoday.com,Proxy
 DOMAIN-SUFFIX,ptt.cc,Proxy
 DOMAIN-SUFFIX,puffstore.com,Proxy
 DOMAIN-SUFFIX,puuko.com,Proxy
