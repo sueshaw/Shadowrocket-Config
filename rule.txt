@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-04-13 14:42:18.754698
+# Shadowrocket: 2017-04-24 17:22:05.326989
 # Shadowrocket config file by Hayden
 
 [General]
@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,deezer.com,Proxy
 DOMAIN-SUFFIX,desipro.de,Proxy
 DOMAIN-SUFFIX,dish.com,Proxy
 DOMAIN-SUFFIX,img.dlsite.jp,Proxy
+DOMAIN-SUFFIX,dm530.net,Proxy
 DOMAIN-SUFFIX,share.dmhy.org,Proxy
 DOMAIN-SUFFIX,dmm.co.jp,Proxy
 DOMAIN-SUFFIX,www.dmm.com,Proxy
@@ -79,6 +80,7 @@ DOMAIN-SUFFIX,javhuge.com,Proxy
 DOMAIN-SUFFIX,javlibrary.com,Proxy
 DOMAIN-SUFFIX,jcpenney.com,Proxy
 DOMAIN-SUFFIX,jims.net,Proxy
+DOMAIN-SUFFIX,jukujo-club.com,Proxy
 DOMAIN-SUFFIX,juliepost.com,Proxy
 DOMAIN-SUFFIX,kawaiikawaii.jp,Proxy
 DOMAIN-SUFFIX,kendatire.com,Proxy
@@ -157,6 +159,7 @@ DOMAIN-SUFFIX,vip-enterprise.com,Proxy
 DOMAIN-SUFFIX,viu.tv,Proxy
 DOMAIN-SUFFIX,ecsm.vs.com,Proxy
 DOMAIN-SUFFIX,wanz-factory.com,Proxy
+DOMAIN-SUFFIX,ssl.webpack.de,Proxy
 DOMAIN-SUFFIX,wheretowatch.com,Proxy
 DOMAIN-SUFFIX,wingamestore.com,Proxy
 DOMAIN-SUFFIX,wizcrafts.net,Proxy
@@ -339,6 +342,7 @@ DOMAIN-SUFFIX,zyns.com,Proxy
 DOMAIN-SUFFIX,zzux.com,Proxy
 DOMAIN-SUFFIX,d1b183sg0nvnuh.cloudfront.net,Proxy
 DOMAIN-SUFFIX,d1c37gjwa26taa.cloudfront.net,Proxy
+DOMAIN-SUFFIX,d3c33hcgiwev3.cloudfront.net,Proxy
 DOMAIN-SUFFIX,d3rhr7kgmtrq1v.cloudfront.net,Proxy
 DOMAIN-SUFFIX,3d-game.com,Proxy
 DOMAIN-SUFFIX,4irc.com,Proxy
@@ -804,6 +808,7 @@ DOMAIN-SUFFIX,atdmt.com,Proxy
 DOMAIN-SUFFIX,atnext.com,Proxy
 DOMAIN-SUFFIX,ice.audionow.com,Proxy
 DOMAIN-SUFFIX,avaaz.org,Proxy
+DOMAIN-SUFFIX,avbody.tv,Proxy
 DOMAIN-SUFFIX,avcity.tv,Proxy
 DOMAIN-SUFFIX,avcool.com,Proxy
 DOMAIN-SUFFIX,avdb.in,Proxy
@@ -893,6 +898,7 @@ DOMAIN-SUFFIX,beyondfirewall.com,Proxy
 DOMAIN-SUFFIX,bfnn.org,Proxy
 DOMAIN-SUFFIX,bfsh.hk,Proxy
 DOMAIN-SUFFIX,bgvpn.com,Proxy
+DOMAIN-SUFFIX,bianlei.com,Proxy
 DOMAIN-SUFFIX,biantailajiao.com,Proxy
 DOMAIN-SUFFIX,biantailajiao.in,Proxy
 DOMAIN-SUFFIX,biblesforamerica.org,Proxy
@@ -1613,6 +1619,7 @@ DOMAIN-SUFFIX,falundafa-dc.org,Proxy
 DOMAIN-SUFFIX,falundafa-florida.org,Proxy
 DOMAIN-SUFFIX,falundafa-nc.org,Proxy
 DOMAIN-SUFFIX,falundafa-pa.net,Proxy
+DOMAIN-SUFFIX,falundafa-sacramento.org,Proxy
 DOMAIN-SUFFIX,falun-ny.net,Proxy
 DOMAIN-SUFFIX,falundafaindia.org,Proxy
 DOMAIN-SUFFIX,falundafamuseum.org,Proxy
@@ -2471,6 +2478,7 @@ DOMAIN-SUFFIX,kagyuoffice.org,Proxy
 DOMAIN-SUFFIX,kagyuoffice.org.tw,Proxy
 DOMAIN-SUFFIX,kaiyuan.de,Proxy
 DOMAIN-SUFFIX,kakao.com,Proxy
+DOMAIN-SUFFIX,kalachakralugano.org,Proxy
 DOMAIN-SUFFIX,kankan.today,Proxy
 DOMAIN-SUFFIX,kannewyork.com,Proxy
 DOMAIN-SUFFIX,kanshifang.com,Proxy
@@ -3709,6 +3717,7 @@ DOMAIN-SUFFIX,sproutcore.com,Proxy
 DOMAIN-SUFFIX,sproxy.info,Proxy
 DOMAIN-SUFFIX,srocket.us,Proxy
 DOMAIN-SUFFIX,ss-link.com,Proxy
+DOMAIN-SUFFIX,ssglobal.me,Proxy
 DOMAIN-SUFFIX,ssh91.com,Proxy
 DOMAIN-SUFFIX,sspro.ml,Proxy
 DOMAIN-SUFFIX,sss.camp,Proxy
