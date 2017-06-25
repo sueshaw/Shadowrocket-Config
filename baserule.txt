@@ -9,7 +9,8 @@ dns-server =
 [Rule]
 DOMAIN-KEYWORD,google,Proxy
 
-
+DOMAIN-SUFFIX,telegram.org,Proxy
+DOMAIN-SUFFIX,telegram.me,Proxy
 IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,172.16.0.0/12,DIRECT
