@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-06-25 10:14:51.036686
+# Shadowrocket: 2017-06-25 10:43:59.139719
 # Shadowrocket config file by Hayden
 
 [General]
@@ -4851,7 +4851,8 @@ DOMAIN-SUFFIX,ntsna.gov.tw,Proxy
 DOMAIN-SUFFIX,taipei.gov.tw,Proxy
 DOMAIN-KEYWORD,google,Proxy
 
-
+DOMAIN-SUFFIX,telegram.org,Proxy
+DOMAIN-SUFFIX,telegram.me,Proxy
 IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,172.16.0.0/12,DIRECT
