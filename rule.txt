@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-06-02 19:53:18.967820
+# Shadowrocket: 2017-06-25 10:14:51.036686
 # Shadowrocket config file by Hayden
 
 [General]
@@ -381,6 +381,7 @@ DOMAIN-SUFFIX,fb.me,Proxy
 DOMAIN-SUFFIX,m.me,Proxy
 DOMAIN-SUFFIX,messenger.com,Proxy
 DOMAIN-SUFFIX,oculus.com,Proxy
+DOMAIN-SUFFIX,rocksdb.org,Proxy
 DOMAIN-SUFFIX,1e100.net,Proxy
 DOMAIN-SUFFIX,abc.xyz,Proxy
 DOMAIN-SUFFIX,admob.com,Proxy
@@ -390,6 +391,7 @@ DOMAIN-SUFFIX,ampproject.org,Proxy
 DOMAIN-SUFFIX,android.com,Proxy
 DOMAIN-SUFFIX,androidify.com,Proxy
 DOMAIN-SUFFIX,appspot.com,Proxy
+DOMAIN-SUFFIX,blog.google,Proxy
 DOMAIN-SUFFIX,blogspot.com,Proxy
 DOMAIN-SUFFIX,blogspot.hk,Proxy
 DOMAIN-SUFFIX,blogspot.jp,Proxy
@@ -405,8 +407,10 @@ DOMAIN-SUFFIX,creativelab5.com,Proxy
 DOMAIN-SUFFIX,data-vocabulary.org,Proxy
 DOMAIN-SUFFIX,deepmind.com,Proxy
 DOMAIN-SUFFIX,deja.com,Proxy
+DOMAIN-SUFFIX,design.google,Proxy
 DOMAIN-SUFFIX,digisfera.com,Proxy
 DOMAIN-SUFFIX,domains.google,Proxy
+DOMAIN-SUFFIX,environment.google,Proxy
 DOMAIN-SUFFIX,feedburner.com,Proxy
 DOMAIN-SUFFIX,g.co,Proxy
 DOMAIN-SUFFIX,gcr.io,Proxy
@@ -774,6 +778,7 @@ DOMAIN-SUFFIX,apkpure.com,Proxy
 DOMAIN-SUFFIX,aplusvpn.com,Proxy
 DOMAIN-SUFFIX,appdownloader.net,Proxy
 DOMAIN-SUFFIX,appledaily.com,Proxy
+DOMAIN-SUFFIX,appshopper.com,Proxy
 DOMAIN-SUFFIX,appsocks.net,Proxy
 DOMAIN-SUFFIX,appsto.re,Proxy
 DOMAIN-SUFFIX,archives.gov,Proxy
@@ -1972,6 +1977,7 @@ DOMAIN-SUFFIX,gotw.ca,Proxy
 DOMAIN-SUFFIX,grammaly.com,Proxy
 DOMAIN-SUFFIX,grandtrial.org,Proxy
 DOMAIN-SUFFIX,graphis.ne.jp,Proxy
+DOMAIN-SUFFIX,graphql.org,Proxy
 DOMAIN-SUFFIX,greatfirewall.biz,Proxy
 DOMAIN-SUFFIX,greatfirewallofchina.net,Proxy
 DOMAIN-SUFFIX,greatfirewallofchina.org,Proxy
@@ -2280,7 +2286,6 @@ DOMAIN-SUFFIX,ied2k.net,Proxy
 DOMAIN-SUFFIX,ienergy1.com,Proxy
 DOMAIN-SUFFIX,if.ttt,Proxy
 DOMAIN-SUFFIX,ifanqiang.com,Proxy
-DOMAIN-SUFFIX,ifanr.com,Proxy
 DOMAIN-SUFFIX,ifcss.org,Proxy
 DOMAIN-SUFFIX,ifjc.org,Proxy
 DOMAIN-SUFFIX,ift.tt,Proxy
@@ -4116,6 +4121,7 @@ DOMAIN-SUFFIX,tumutanzi.com,Proxy
 DOMAIN-SUFFIX,tumview.com,Proxy
 DOMAIN-SUFFIX,tunein.com,Proxy
 DOMAIN-SUFFIX,tunnelbear.com,Proxy
+DOMAIN-SUFFIX,tuo8.blue,Proxy
 DOMAIN-SUFFIX,tuo8.cc,Proxy
 DOMAIN-SUFFIX,tuo8.club,Proxy
 DOMAIN-SUFFIX,tuo8.fit,Proxy
@@ -4147,6 +4153,7 @@ DOMAIN-SUFFIX,tvider.com,Proxy
 DOMAIN-SUFFIX,tvmost.com.hk,Proxy
 DOMAIN-SUFFIX,tvplayvideos.com,Proxy
 DOMAIN-SUFFIX,tvunetworks.com,Proxy
+DOMAIN-SUFFIX,tw-blog.com,Proxy
 DOMAIN-SUFFIX,tw-npo.org,Proxy
 DOMAIN-SUFFIX,twaitter.com,Proxy
 DOMAIN-SUFFIX,twapperkeeper.com,Proxy

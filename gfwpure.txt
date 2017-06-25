@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 3kGlzvmfGJhghkBnvhCKPg
+! Checksum: qHB1h1PV/FZRAx1NMeYOqA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 16 May 2017 04:12:05 -0400
+! Last Modified: Fri, 23 Jun 2017 06:53:11 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -448,6 +448,7 @@ d3c33hcgiwev3.cloudfront.net
 ||m.me
 ||messenger.com
 ||oculus.com
+||rocksdb.org
 
 !!---Google---
 !###https://www.google.com/supported_domains###
@@ -462,6 +463,7 @@ d3c33hcgiwev3.cloudfront.net
 ||androidify.com
 .appspot.com
 ||appspot.com
+||blog.google
 blogspot.com
 /^https?:\/\/[^\/]+blogspot\.(.*)/
 .blogspot.hk
@@ -478,8 +480,10 @@ blogspot.com
 ||data-vocabulary.org
 ||deepmind.com
 ||deja.com
+||design.google
 ||digisfera.com
 ||domains.google
+||environment.google
 ||feedburner.com
 ||g.co
 ||gcr.io
@@ -941,6 +945,8 @@ apkpure.com
 !--||appannie.com
 .appdownloader.net/Android
 appledaily.com
+.appshopper.com
+|http://appshopper.com
 ||appsocks.net
 ||appsto.re
 ||archives.gov
@@ -1314,7 +1320,7 @@ canadameet.com
 |http://bbs.cantonese.asia/
 !--http://www.cantonese.asia/action-bbs.html
 .canyu.org
-|http://canyu.org
+||canyu.org
 .cao.im
 .caobian.info
 ||caobian.info
@@ -2620,6 +2626,7 @@ blog.goo.ne.jp/duck-tail_2009
 grandtrial.org
 .graphis.ne.jp
 ||graphis.ne.jp
+||graphql.org
 !--||s.gravatar.com
 greatfirewall.biz
 ||greatfirewallofchina.net
@@ -3224,7 +3231,6 @@ forum.idsam.com
 .ienergy1.com
 |http://if.ttt/
 ifanqiang.com
-.ifanr.com/857
 .ifcss.org
 ||ifcss.org
 ifjc.org
@@ -5541,6 +5547,8 @@ bbs.tuitui.info
 .tunein.com
 |http://tunein.com
 ||tunnelbear.com
+.tuo8.blue
+||tuo8.blue
 .tuo8.cc
 .tuo8.club
 ||tuo8.club
@@ -5593,6 +5601,8 @@ tvider.com
 .tvmost.com.hk
 .tvplayvideos.com
 ||tvunetworks.com
+.tw-blog.com
+|https://tw-blog.com
 .tw-npo.org
 .twaitter.com
 twapperkeeper.com

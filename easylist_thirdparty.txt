@@ -232,6 +232,7 @@
 ||augine.com/widget|$third-party
 ||autoprivileges.net/news/
 ||autotrader.ca/result/AutosAvailableListings.aspx?$third-party
+||autotrader.co.za/partners/$third-party
 ||awadhtimes.com^$third-party
 ||award.sitekeuring.net^
 ||awin1.com/cawshow.php$third-party
@@ -320,7 +321,7 @@
 ||bo-videos.s3.amazonaws.com^$third-party
 ||boago.com^*_Takeover_
 ||bollyrulez.net/media/adz/
-||booking.com/general.html?$domain=timeout.com
+||booking.com^$subdocument,domain=traveller24.com
 ||booking.com^*;tmpl=banner_
 ||bookingdragon.com^$subdocument,third-party
 ||bordernode.com/images/$third-party
@@ -596,6 +597,7 @@
 ||daterly.com/*.widget.php$third-party
 ||dawanda.com/widget/$third-party
 ||dbam.dashbida.com^
+||dbcdqp72lzmvj.cloudfront.net^
 ||dcdevtzxo4bb0.cloudfront.net^
 ||ddwht76d9jvfl.cloudfront.net^
 ||dealextreme.com/affiliate_upload/$third-party
@@ -674,6 +676,7 @@
 ||du2uh7rq0r0d3.cloudfront.net^
 ||duct5ntjian71.cloudfront.net^
 ||dunhilltraveldeals.com/iframes/$third-party
+||dv7t7qyvgyrt5.cloudfront.net^
 ||dvdfab.com/images/fabnewbanner/$third-party
 ||dvf2u7vwmkr5w.cloudfront.net^
 ||dvnafl0qtqz9k.cloudfront.net^
@@ -773,6 +776,7 @@
 ||firecenter.pl/banners/
 ||firstclass-download.com^$subdocument,third-party
 ||flagship.asp-host.co.uk^$third-party
+||flashx.tv/banner/
 ||flipchat.com/index.php?$third-party
 ||flipkart.com/affiliateWidget/$third-party
 ||flixcart.com/affiliate/$third-party
@@ -868,6 +872,7 @@
 ||googlesyndication.com/sadbundle/
 ||googlesyndication.com/safeframe/
 ||googlesyndication.com/simgad/
+||googlesyndication.com/sodar/
 ||googlesyndication.com^*/click_to_buy/$object-subrequest,third-party
 ||googlesyndication.com^*/domainpark.cgi?
 ||googlesyndication.com^*/googlevideoadslibraryas3.swf$object-subrequest,third-party
@@ -1265,6 +1270,7 @@
 ||oriongadgets.com^*/banners/
 ||osobnosti.cz/images/casharena_
 ||ouo.io/images/banners/
+||ouo.io^$script,third-party
 ||outdoorhub.com/js/_bookends.min.js
 ||overseasradio.com/affbanner.php?
 ||ovpn.to/ovpn.to/banner/
@@ -1472,6 +1478,7 @@
 ||server4.pro/images/banner.jpg
 ||serverjs.net/scripts/$third-party
 ||service.smscoin.com/js/sendpic.js
+||servicer.traffic-media.co^
 ||serving.portal.dmflex.com^$domain=thisdaylive.com
 ||settleships.com^$third-party
 ||sfcdn.in/sailfish/$script
@@ -1570,6 +1577,7 @@
 ||stats.sitesuite.org^
 ||stopadblock.info^$third-party
 ||storage.to/affiliate/
+||streaming.rtbiddingplatform.com^
 ||streamtheworld.com/ondemand/ars?type=preroll$object-subrequest
 ||streamtheworld.com/ondemand/creative?
 ||strikeadcdn.s3.amazonaws.com^$third-party
@@ -1678,14 +1686,13 @@
 ||tribktla.files.wordpress.com/*-639x125-sponsorship.jpg?
 ||tribwgnam.files.wordpress.com^*reskin2.
 ||tripadvisor.com/WidgetEmbed-*&partnerId=$domain=rbth.co.uk|rbth.com
-||tritondigital.com/lt?sid*&hasads=
-||tritondigital.com/ltflash.php?
 ||trivago.co.uk/uk/srv/$third-party
 ||tshirthell.com/img/affiliate_section/$third-party
 ||ttt.co.uk/TMConverter/$third-party
 ||turbobit.net/ref/$third-party
 ||turbobit.net/refers/$third-party
 ||turbotrafficsystem.com^*/banners/
+||turner.com^*/ads/
 ||turner.com^*/promos/
 ||twinplan.com^
 ||twivert.com/external/banner234x60.
@@ -1797,6 +1804,7 @@
 ||widgets.realestate.com.au^
 ||widgets.solaramerica.org^$third-party
 ||wildamaginations.com/mdm/banner/
+||windcdna.com/api/banner/
 ||winpalace.com/?affid=
 ||winsms.co.za/banner/
 ||wishlistproducts.com/affiliatetools/$third-party
@@ -1856,6 +1864,9 @@
 ||zip2save.com/widget.php?
 ||zmh.zope.net^$third-party
 ||zoomin.tv/video/*.flv$third-party,domain=twitch.tv
+! Google Hosted scripts
+||googleapis.com/qmftp/$script
+||googleapis.com/yieldlab/$script
 ! Used for VPN Warning ads
 ||trust.zone^$third-party
 ! Mobile
