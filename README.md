@@ -1,36 +1,37 @@
-# Shadowrocket Config
+# Shadowrocket 配置文件
 
-this project converts [GfwList](https://github.com/gfwlist/gfwlist) to a Shadowrocket config to break the GFW  and
-convert [easylist_adservers](https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt),
-[easylist_thirdparty](https://github.com/easylist/easylist/blob/master/easylist/easylist_thirdparty.txt) to Shadowrocket config to lock ads
+本项目是维护一个Shadowrocket配置文件
 
->* Convert gfwlist rules to ```DOMAIN-SUFFIX,rule,Proxy```
->* Convert easylist rules to ```DOMAIN-SUFFIX,rule,REJECT```
+其中翻墙部分规则是将[GfwList](https://github.com/gfwlist/gfwlist)转化而得来，屏蔽广告部分规则是根据[easylist_adservers](https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt)和
+[easylist_thirdparty](https://github.com/easylist/easylist/blob/master/easylist/easylist_thirdparty.txt)的规则转化而来
 
-## How to use
+>* gfwlist->  ```DOMAIN-SUFFIX,rule,Proxy```
+>* easylist-> ```DOMAIN-SUFFIX,rule,REJECT```
+
+## 如何使用项目
 
 ``` Python
 python main.py 
 ```
-to get lastest gfwlist config to ```rule.txt``` and ```rulewithad.txt```
+生成的规则存放在 ```rule.txt``` 和 ```rulewithad.txt```两个文件之中。第一个是单纯的翻墙配置文件，第二个在翻墙基础之上加入了屏蔽广告部分规则。
 
-## Shadowrocket Config only Wall-break
+## 使用翻墙的配置文件
 
-Open Shadowrocket and add config file from 
+打开Shadowrocket，添加配置文件，写入下面的链接
  
 url:  https://raw.githubusercontent.com/Hsiny/Shadowrocket-Config/master/rule.txt
 
-or scan the QR code below
+或者直接扫描下面的二维码
 
 ![QR code](proxy.png)
 
-## Shadowrocket Config Wall-break and Ad-block
+## 使用翻墙和屏蔽广告的配置文件
 
-Open Shadowrocket and add config file from 
+打开Shadowrocket，添加配置文件，写入下面的链接 
  
 url:  https://raw.githubusercontent.com/Hsiny/Shadowrocket-Config/master/rulewithad.txt
 
-or scan the QR code below
+或者直接扫描下面的二维码
 
 ![QR code](proxyandadblock.png)
 
