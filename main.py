@@ -59,14 +59,19 @@ def GetBlockRule(rule):
         return ""
     if rule.startswith('||'):
         rule=rule[2:]
+    if rule.endswith("\n"):
+        rule=rule[:-1]
+    if rule.endswith("^"):
+        rule = rule[:rule.index("^")]
     if "^" in rule:
-        rule=rule[:rule.index("^")]
+        if "third-party" in rule:
+            rule = rule[:rule.index("^")]
+        else:
+            return ""
     if "$" in rule:
         rule=rule[:rule.index("$")]
     if "/" in rule:
         return ""
-    if rule.endswith("\n"):
-        rule=rule[:-1]
     if rule in blockRule:
         return ""
     else:

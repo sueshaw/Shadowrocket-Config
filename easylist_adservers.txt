@@ -55,6 +55,7 @@
 ||2mdn.net^$~object-subrequest,third-party
 ||2xbpub.com^$third-party
 ||32b4oilo.com^$third-party
+||332-d.com^$third-party
 ||3393.com^$third-party
 ||33across.com^$third-party
 ||35.184.98.90^$third-party
@@ -139,6 +140,7 @@
 ||accelacomm.com^$third-party
 ||access-mc.com^$third-party
 ||accmgr.com^$third-party
+||accouncilist.com^$third-party
 ||accounts.pkr.com^$third-party
 ||accumulatork.com^$third-party
 ||accuserveadsystem.com^$third-party
@@ -294,6 +296,7 @@
 ||adglamour.net^$third-party
 ||adglare.net^$third-party
 ||adglare.org^$third-party
+||adgoi-1.net^$third-party
 ||adgoi.com^$third-party
 ||adgoi.mobi^$third-party
 ||adgorithms.com^$third-party
@@ -1806,6 +1809,7 @@
 ||ezadserver.net^$third-party
 ||ezmob.com^$third-party
 ||ezoic.net^$third-party
+||f-4560.com^$third-party
 ||f7oddtr.com^$third-party
 ||facebooker.top^$third-party
 ||faggrim.com^$third-party
