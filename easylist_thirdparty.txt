@@ -88,6 +88,7 @@
 ||ad.sensismediasmart.com.au^
 ||ad.sharethis.com^$third-party
 ||ad.smartclip.net^
+||ad.smartmediarep.com^$third-party
 ||ad.spielothek.so^
 ||ad.sponsoreo.com^$third-party
 ||ad.valuecalling.com^$third-party
@@ -288,6 +289,7 @@
 ||betting.betfair.com^$third-party
 ||betwaypartners.com/affiliate_media/$third-party
 ||bharatmatrimony.com/matrimoney/matrimoneybanners/$third-party
+||bidder.criteo.com^$third-party
 ||bidgo.ca^$subdocument,third-party
 ||bidorbuy.co.za/jsp/system/referral.jsp?
 ||bidorbuy.co.za/jsp/tradesearch/TradeFeedPreview.jsp?$third-party
@@ -421,6 +423,7 @@
 ||cloudbet.com/ad/
 ||cloudfront.net/?tid=
 ||cloudfront.net/dfpd.js
+||cloudfront.net/images/super-banner/$domain=buyandsellph.com
 ||cloudfront.net/nimblebuy/
 ||cloudfront.net/scripts/js3caf.js
 ||cloudfront.net/st.js
@@ -491,9 +494,11 @@
 ||d1gyluhoxet66h.cloudfront.net^
 ||d1i9kr6k34lyp.cloudfront.net^
 ||d1k74lgicilrr3.cloudfront.net^
+||d1mbgf0ge24riu.cloudfront.net^
 ||d1noellhv8fksc.cloudfront.net^
 ||d1pcttwib15k25.cloudfront.net^
 ||d1pdpbxj733bb1.cloudfront.net^
+||d1rguclfwp7nc8.cloudfront.net^
 ||d1spb7fplenrp4.cloudfront.net^
 ||d1vbm0eveofcle.cloudfront.net^
 ||d1wa9546y9kg0n.cloudfront.net/index.js
@@ -815,6 +820,7 @@
 ||fyiwashtenaw.com/remote_widget?
 ||fyygame.com/images/*.swf$third-party
 ||gadgetresearch.net^$subdocument,third-party
+||gadgets360cdn.com/shop/$domain=ndtv.com
 ||gamblingwages.com/images/$third-party
 ||gameduell.com/res/affiliate/
 ||gameorc.net/a.html
@@ -1882,6 +1888,7 @@
 ||demande.science^$third-party
 ||em0n.com/static.js$script,third-party
 ||mn0e.com/static.js$script,third-party
+||noadblock.net^$third-party
 ||onfocus.io^$third-party
 ||secretmedia.com^$third-party
 ||zeste.top^$third-party

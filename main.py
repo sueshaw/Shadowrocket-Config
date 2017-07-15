@@ -57,6 +57,8 @@ def GetBlockRule(rule):
     #rule=""
     if rule.startswith('!') or rule.startswith('-'):
         return ""
+    if "/" in rule:
+        return ""
     if rule.startswith('||'):
         rule=rule[2:]
     if rule.endswith("\n"):

@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-06-28 09:45:11.188367
+# Shadowrocket: 2017-07-15 20:58:32.935233
 # Shadowrocket config file by Hayden
 
 [General]
@@ -1019,7 +1019,6 @@ DOMAIN-SUFFIX,bullogger.com,Proxy
 DOMAIN-SUFFIX,bunbunhk.com,Proxy
 DOMAIN-SUFFIX,busayari.com,Proxy
 DOMAIN-SUFFIX,businessinsider.com,Proxy
-DOMAIN-SUFFIX,.businessinsider.com,Proxy
 DOMAIN-SUFFIX,www.businessinsider.com.au,Proxy
 DOMAIN-SUFFIX,businessweek.com,Proxy
 DOMAIN-SUFFIX,busu.org,Proxy
