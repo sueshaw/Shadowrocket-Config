@@ -23,7 +23,7 @@ url:  https://raw.githubusercontent.com/Hsiny/Shadowrocket-Config/master/rule.tx
 
 或者直接扫描下面的二维码
 
-![QR code](png\proxy.png)
+![QR code](png/proxy.png)
 
 ## 使用翻墙和屏蔽广告的配置文件
 
@@ -33,7 +33,7 @@ url:  https://raw.githubusercontent.com/Hsiny/Shadowrocket-Config/master/rulewit
 
 或者直接扫描下面的二维码
 
-![QR code](png\proxyandadblock.png)
+![QR code](png/proxyandadblock.png)
 
 
 ## To do
