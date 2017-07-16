@@ -1,3 +1,4 @@
+# Shadowrocket: 2017-07-16 21:56:12.910342
 # Shadowrocket config file by Hayden
 
 [General]
@@ -5493,6 +5494,7 @@ DOMAIN-SUFFIX,noadblock.net,REJECT
 DOMAIN-SUFFIX,onfocus.io,REJECT
 DOMAIN-SUFFIX,secretmedia.com,REJECT
 DOMAIN-SUFFIX,zeste.top,REJECT
+DOMAIN-SUFFIX,,REJECT
 DOMAIN-SUFFIX,007-gateway.com,REJECT
 DOMAIN-SUFFIX,04dn8g4f.space,REJECT
 DOMAIN-SUFFIX,0emn.com,REJECT
@@ -5911,6 +5913,7 @@ DOMAIN-SUFFIX,adoptim.com,REJECT
 DOMAIN-SUFFIX,adorika.com,REJECT
 DOMAIN-SUFFIX,adorika.net,REJECT
 DOMAIN-SUFFIX,adotic.com,REJECT
+DOMAIN-SUFFIX,adotmob.com,REJECT
 DOMAIN-SUFFIX,adotomy.com,REJECT
 DOMAIN-SUFFIX,adotube.com,REJECT
 DOMAIN-SUFFIX,adovida.com,REJECT
