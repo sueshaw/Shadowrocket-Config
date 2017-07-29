@@ -19,14 +19,14 @@ class SRConfig:
     __BlockList = []
 
     def __init__(self):
-        self.__downloadFile(self.__GFWListUrl,self.__DownloadFilePath+ self.__GFWListRuleFileName)
-        self.__downloadFiles(self.__BlockRulesUrls,self.__DownloadFilePath+ self.__BlockRuleFileName)
+        self.__downloadFile(self.__GFWListUrl, self.__DownloadFilePath + self.__GFWListRuleFileName)
+        self.__downloadFiles(self.__BlockRulesUrls, self.__DownloadFilePath + self.__BlockRuleFileName)
 
     def getRules(self):
 
         baseRules = open(self.__DownloadFilePath + self.__BaseRuleFileName)
-        proxyRules = self.__getProxyRules(self.__DownloadFilePath+self.__GFWListRuleFileName)
-        blockRules = self.__getBlockRules(self.__DownloadFilePath+self.__BlockRuleFileName)
+        proxyRules = self.__getProxyRules(self.__DownloadFilePath + self.__GFWListRuleFileName)
+        blockRules = self.__getBlockRules(self.__DownloadFilePath + self.__BlockRuleFileName)
 
         proxyFile = open(self.__OutputRuleName, 'w')
         proxyWithAdBlockFile = open(self.__OutputRuleWithAdBlockName, 'w')
@@ -56,7 +56,7 @@ class SRConfig:
             response = urllib.request.urlopen(url)
             data = response.read().decode("utf-8")
             writeData += data + "\n"
-        oFile = open( fileName, 'w')
+        oFile = open(fileName, 'w')
         oFile.write(writeData)
         oFile.close()
 
@@ -99,7 +99,7 @@ class SRConfig:
         blockRules = ""
         orignRules = open(fileName)
         for rule in orignRules:
-            newLine=self.__processBlockRule(rule)
+            newLine = self.__processBlockRule(rule)
             if newLine in self.__BlockList:
                 continue
             else:
