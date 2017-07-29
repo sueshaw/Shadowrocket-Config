@@ -1986,6 +1986,7 @@
 ||5gl1x9qc.com^$third-party
 ||600z.com^$third-party
 ||62.27.51.163^$third-party,domain=~adlive.de.ip
+||62b70ac32d4614b.com^$third-party
 ||63.225.61.4^$third-party
 ||64.20.60.123^$third-party
 ||67s6gxv28kin.com^$third-party
@@ -2032,6 +2033,7 @@
 ||abnad.net^$third-party
 ||aboutads.quantcast.com^$third-party
 ||abscontal.com^$third-party
+||absential.info^$third-party
 ||abtracker.us^$third-party
 ||accelacomm.com^$third-party
 ||access-mc.com^$third-party
@@ -2681,11 +2683,13 @@
 ||allopenclose.click^$third-party
 ||alloydigital.com^$third-party
 ||allyes.com^$third-party
+||almostle.info^$third-party
 ||alphabird.com^$third-party
 ||alphabirdnetwork.com^$third-party
 ||alphagodaddy.com^$third-party
 ||alternads.info^$third-party
 ||alternativeadverts.com^$third-party
+||althybesr.com^$third-party
 ||altitude-arena.com^$third-party
 ||altpubli.com^$third-party
 ||am-display.com^$third-party
@@ -2752,6 +2756,7 @@
 ||areasins.com^$third-party
 ||areasnap.com^$third-party
 ||arecio.work^$third-party
+||arrassley.info^$third-party
 ||arti-mediagroup.com^$third-party
 ||articulty.com^$third-party
 ||as-farm.com^$third-party
@@ -2759,6 +2764,7 @@
 ||asafesite.com^$third-party
 ||aseadnet.com^$third-party
 ||asklots.com^$third-party
+||aso1.net^$third-party
 ||asooda.com^$third-party
 ||asrety.com^$third-party
 ||assetize.com^$third-party
@@ -3053,6 +3059,7 @@
 ||c-planet.net^$third-party
 ||c13b2beea116e.com^$third-party
 ||c8.net.ua^$third-party
+||cabinsone.com^$third-party
 ||callmd5map.com^$third-party
 ||camleyads.info^$third-party
 ||campanja.com^$third-party
@@ -3116,6 +3123,7 @@
 ||chantly.info^$third-party
 ||chargeplatform.com^$third-party
 ||charltonmedia.com^$third-party
+||cheatre.info^$third-party
 ||checkapi.xyz^$third-party
 ||checkm8.com^$third-party
 ||checkmystats.com.au^$third-party
@@ -3237,6 +3245,7 @@
 ||comscore.com^$third-party
 ||conduit-banners.com^$third-party
 ||conduit-services.com^$third-party
+||conferentse.com^$third-party
 ||connatix.com^$third-party
 ||connectedads.net^$third-party
 ||connectignite.com^$third-party
@@ -3264,6 +3273,7 @@
 ||conyak.com^$third-party
 ||coolerads.com^$third-party
 ||coolmirage.com^$third-party
+||coolsite.club^$third-party
 ||coolyeti.info^$third-party
 ||copacet.com^$third-party
 ||cor-natty.com^$third-party
@@ -3335,6 +3345,7 @@
 ||curtisfrierson.com^$third-party
 ||cwkuki.com^$third-party
 ||cwtrackit.com^$third-party
+||cxmedia.co^$third-party
 ||cybmas.com^$third-party
 ||cygnus.com^$third-party
 ||czasnaherbate.info^$third-party
@@ -3593,6 +3604,7 @@
 ||duetads.com^$third-party
 ||duggiads.com^$third-party
 ||dumedia.ru^$third-party
+||duncanny.com^$third-party
 ||durnowar.com^$third-party
 ||durokuro.com^$third-party
 ||durtz.com^$third-party
@@ -3684,6 +3696,7 @@
 ||especifican.com^$third-party
 ||essayads.com^$third-party
 ||essaycoupons.com^$third-party
+||estantiale.com^$third-party
 ||estorest.com^$third-party
 ||et-code.ru^$third-party
 ||etah6wu.top^$third-party
@@ -3712,6 +3725,7 @@
 ||exitjunction.com^$third-party
 ||exoclick.com^$third-party
 ||exoneratedresignation.info^$third-party
+||exosrv.com^$third-party
 ||expebtu.com^$third-party
 ||explainidentifycoding.info^$third-party
 ||expocrack.com^$third-party
@@ -3742,6 +3756,7 @@
 ||fastates.net^$third-party
 ||fastclick.net^$third-party
 ||fasttracktech.biz^$third-party
+||fathern.info^$third-party
 ||fb-plus.com^$third-party
 ||fbgdc.com^$third-party
 ||fbsvu.com^$third-party
@@ -3943,6 +3958,7 @@
 ||gojoingscnow.com^$third-party
 ||gold-file.com^$third-party
 ||gold-good4u.com^$third-party
+||gonomy.info^$third-party
 ||goodadvert.ru^$third-party
 ||goodadvertising.info^$third-party
 ||goodluckblockingthis.com^$third-party
@@ -3965,6 +3981,7 @@
 ||granodiorite.com^$third-party
 ||grapeshot.co.uk^$third-party
 ||gratisnetwork.com^$third-party
+||greatedr.com^$third-party
 ||green-red.com^$third-party
 ||greenads.org^$third-party
 ||greenlabelppc.com^$third-party
@@ -3997,6 +4014,7 @@
 ||hanaprop.com^$third-party
 ||happilyswitching.net^$third-party
 ||harrenmedianetwork.com^$third-party
+||hasingham.com^$third-party
 ||hatagashira.com^$third-party
 ||havamedia.net^$third-party
 ||havetohave.com^$third-party
@@ -4271,6 +4289,7 @@
 ||jobtarget.com^$third-party
 ||joytocash.com^$third-party
 ||jque.net^$third-party
+||jqueryserver.com^$third-party
 ||js.cdn.ac^$third-party
 ||jscloud.org^$third-party
 ||jscount.com^$third-party
@@ -4311,6 +4330,7 @@
 ||keywordsconnect.com^$third-party
 ||kgidpryrz8u2v0rz37.com^$third-party
 ||kikuzip.com^$third-party
+||kilorama.com^$third-party
 ||kinley.com^$third-party
 ||kintokup.com^$third-party
 ||kiosked.com^$third-party
@@ -4344,6 +4364,7 @@
 ||laim.tv^$third-party
 ||lakequincy.com^$third-party
 ||lakidar.net^$third-party
+||lamalama.top^$third-party
 ||landelcut.com^$third-party
 ||langosh.biz^$third-party
 ||lanistaconcepts.com^$third-party
@@ -4383,6 +4404,7 @@
 ||letsgoshopping.tk^$third-party
 ||letysheeps.ru^$third-party
 ||levisites.com^$third-party
+||lexinget.info^$third-party
 ||lfstmedia.com^$third-party
 ||lgse.com^$third-party
 ||licantrum.com^$third-party
@@ -4713,6 +4735,7 @@
 ||nabbr.com^$third-party
 ||naganaga.lol^$third-party
 ||nagrande.com^$third-party
+||nameads.com^$third-party
 ||nanigans.com^$third-party
 ||nasdak.in^$third-party
 ||native-adserver.com^$third-party
@@ -4854,6 +4877,7 @@
 ||onclasrv.com^$third-party
 ||onclickads.net^$third-party
 ||onclickmax.com^$third-party
+||onclickpulse.com^$third-party
 ||onclkds.com^$third-party
 ||onedmp.com^$third-party
 ||onenetworkdirect.com^$third-party
@@ -4911,6 +4935,7 @@
 ||oskale.ru^$third-party
 ||ospreymedialp.com^$third-party
 ||osuq4jc.com^$third-party
+||othere.info^$third-party
 ||othersonline.com^$third-party
 ||ourbanners.net^$third-party
 ||ourunlimitedleads.com^$third-party
@@ -4988,6 +5013,7 @@
 ||perfectmarket.com^$third-party
 ||perfoormapp.info^$third-party
 ||performance-based.com^$third-party
+||performanceadexchange.com^$third-party
 ||performanceadvertising.mobi^$third-party
 ||performancetrack.info^$third-party
 ||performancingads.com^$third-party
@@ -5016,6 +5042,7 @@
 ||pip-pip-pop.com^$third-party
 ||pipeaota.com^$third-party
 ||pipsol.net^$third-party
+||pitally.info^$third-party
 ||piticlik.com^$third-party
 ||pivotalmedialabs.com^$third-party
 ||pivotrunner.com^$third-party
@@ -5143,6 +5170,8 @@
 ||propelllerads.com^$third-party
 ||propelplus.com^$third-party
 ||proper.io^$third-party
+||propgoservice.com^$third-party
+||propranok.com^$third-party
 ||prorentisol.com^$third-party
 ||prosperent.com^$third-party
 ||protally.net^$third-party
@@ -5189,6 +5218,7 @@
 ||puserving.com^$third-party
 ||push2check.com^$third-party
 ||pussl11.com^$third-party
+||pussl4.com^$third-party
 ||putrr2.com^$third-party
 ||putrr3.com^$third-party
 ||putrr4.com^$third-party
@@ -5321,6 +5351,7 @@
 ||revsci.net^$third-party
 ||rewardisement.com^$third-party
 ||rewardsaffiliates.com^$third-party
+||rewartific.com^$third-party
 ||rfgsi.com^$third-party
 ||rfihub.net^$third-party
 ||rhown.com^$third-party
@@ -5425,6 +5456,7 @@
 ||semanticrep.com^$third-party
 ||sendptp.com^$third-party
 ||senzapudore.net^$third-party
+||sepulchralconestogaleftover.com^$third-party
 ||sepyw.top^$third-party
 ||serialbay.com^$third-party
 ||seriend.com^$third-party
@@ -5614,6 +5646,7 @@
 ||statsmobi.com^$third-party
 ||stealthlockers.com^$third-party
 ||steepto.com^$third-party
+||stencef.com^$third-party
 ||step-step-go.com^$third-party
 ||stickcoinad.com^$third-party
 ||stickyadstv.com^$third-party
@@ -6608,11 +6641,13 @@
 ||belwrite.com^$third-party
 ||bip-bip-blip.com^$third-party
 ||bipwrite.com^$third-party
+||bororango.com^$third-party
 ||borotango.com^$third-party
 ||cap-cap-pop.com^$third-party
 ||catwrite.com^$third-party
 ||centwrite.com^$third-party
 ||cold-cold-freezing.com^$third-party
+||crickwrite.com^$third-party
 ||data-data-vac.com^$third-party
 ||del-del-ete.com^$third-party
 ||dit-dit-dot.com^$third-party
@@ -6636,12 +6671,14 @@
 ||parwrite.com^$third-party
 ||raz-raz-mataz.com^$third-party
 ||razwrite.com^$third-party
+||rick-rick-rob.com^$third-party
 ||tek-tek-trek.com^$third-party
 ||tic-tic-bam.com^$third-party
 ||tic-tic-toc.com^$third-party
 ||tin-tin-win.com^$third-party
 ||tlootas.org^$third-party
 ||tok-dan-host.com^$third-party
+||tororango.com^$third-party
 ||totifiquo.com^$third-party
 ||tur-tur-key.com^$third-party
 ||unoblotto.net^$third-party
@@ -9466,6 +9503,8 @@
 ||ziccardia.com^$third-party
 ||zomri.net^$third-party
 ||zrfrornn.net^$third-party
+! WebRTC adservers
+a.upnorma.com^$webrtc
 ! temporary workaround for Adblock Plus for Chrome bug #4599 (https://issues.adblockplus.org/ticket/4599)
 ||voodoo.com^$~stylesheet,third-party
 
