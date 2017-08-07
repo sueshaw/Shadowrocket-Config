@@ -466,6 +466,7 @@
 ||cruisesalefinder.co.nz/affiliates.html$third-party
 ||crunchyroll.com/awidget/$third-party
 ||cstv.com^*/sponsors/
+||ct.verticalhealth.net^
 ||cts.tradepub.com/cts4/?ptnr=*&tm=$third-party
 ||cursecdn.com/banner/
 ||cursecdn.com/shared-assets/current/anchor.js?id=$third-party
@@ -541,6 +542,7 @@
 ||d2omcicc3a4zlg.cloudfront.net^
 ||d2pgy8h4i30on1.cloudfront.net^
 ||d2plxos94peuwp.cloudfront.net^
+||d2pxbld8wrqyrk.cloudfront.net^
 ||d2qz7ofajpstv5.cloudfront.net^
 ||d2r359adnh3sfn.cloudfront.net^
 ||d2s64zaa9ua7uv.cloudfront.net^
@@ -1129,6 +1131,7 @@
 ||mb-hostservice.de/banner_
 ||mb.marathonbet.com^$third-party
 ||mb.zam.com^
+||mbid.advance.net^
 ||mcc.godaddy.com/park/$subdocument,third-party
 ||mcclatchyinteractive.com/creative/
 ||mdpcdn.com^*/gpt/
@@ -2211,6 +2214,7 @@
 ||adhostingsolutions.com^$third-party
 ||adhub.co.nz^$third-party
 ||adicate.com^$third-party
+||adicio.com^$third-party
 ||adigniter.org^$third-party
 ||adikteev.com^$third-party
 ||adimise.com^$third-party
@@ -2314,6 +2318,7 @@
 ||adnxs.com^$third-party
 ||adnxs.net^$third-party
 ||adnxs1.com^$third-party
+||adnxsid.com^$third-party
 ||adocean.pl^$third-party
 ||adohana.com^$third-party
 ||adomik.com^$third-party
@@ -2581,6 +2586,7 @@
 ||advrtice.com^$third-party
 ||advserver.xyz^$third-party
 ||advsnx.net^$third-party
+||adwalte.info^$third-party
 ||adwebster.com^$third-party
 ||adwires.com^$third-party
 ||adwordsservicapi.com^$third-party
@@ -2717,6 +2723,7 @@
 ||angege.com^$third-party
 ||angeinge.com^$third-party
 ||animits.com^$third-party
+||aniview.com^$third-party
 ||anonymousads.com^$third-party
 ||anrdoezrs.net/image-$third-party
 ||anrdoezrs.net/placeholder-$third-party
@@ -3009,6 +3016,7 @@
 ||brighteroption.com^$third-party
 ||brightshare.com^$third-party
 ||britiesee.info^$third-party
+||brkmd.com^$third-party
 ||broadstreetads.com^$third-party
 ||brokeloy.com^$third-party
 ||browsersfeedback.com^$third-party
@@ -3181,6 +3189,7 @@
 ||clickmon.co.kr^$third-party
 ||clickmyads.info^$third-party
 ||clicknano.com^$third-party
+||clicknerd.com^$third-party
 ||clickosmedia.com^$third-party
 ||clickpartoffon.xyz^$third-party
 ||clicks2count.com^$third-party
@@ -3253,6 +3262,7 @@
 ||connexity.net^$third-party
 ||connexplace.com^$third-party
 ||connextra.com^$third-party
+||consivenu.com^$third-party
 ||construment.com^$third-party
 ||consumergenepool.com^$third-party
 ||contadd.com^$third-party
@@ -3270,6 +3280,7 @@
 ||contextweb.com^$third-party
 ||contribusourcesyndication.com^$third-party
 ||contried.com^$third-party
+||controllis.info^$third-party
 ||conyak.com^$third-party
 ||coolerads.com^$third-party
 ||coolmirage.com^$third-party
@@ -3393,6 +3404,7 @@
 ||defeatural.com^$third-party
 ||definitial.com^$third-party
 ||deguiste.com^$third-party
+||dehardward.com^$third-party
 ||dehtale.ru^$third-party
 ||deletemer.online^$third-party
 ||deliberatelyvirtuallyshared.xyz^$third-party
@@ -4047,6 +4059,7 @@
 ||hiplair.com^$third-party
 ||histians.com^$third-party
 ||histock.info^$third-party
+||historest.com^$third-party
 ||hit-now.com^$third-party
 ||hits.sys.lv^$third-party
 ||hitwastedgarden.com^$third-party
@@ -4082,6 +4095,7 @@
 ||hover.in^$third-party
 ||hoverr.co^$third-party
 ||hoverr.media^$third-party
+||howevert.info^$third-party
 ||howtodoblog.com^$third-party
 ||hplose.de^$third-party
 ||hsslx.com^$third-party
@@ -4257,6 +4271,7 @@
 ||izeads.com^$third-party
 ||jacquarter.com^$third-party
 ||jadcenter.com^$third-party
+||jandolav.com^$third-party
 ||jango.com^$third-party
 ||jangonetwork.com^$third-party
 ||jarvinzo.com^$popup
@@ -4680,6 +4695,7 @@
 ||morgdm.ru^$third-party
 ||moritava.com^$third-party
 ||moselats.com^$third-party
+||motominer.com^$third-party
 ||mottnow.com^$third-party
 ||movad.net^$third-party
 ||mozcloud.net^$third-party
@@ -4990,6 +5006,7 @@
 ||pas-rahav.com^$third-party
 ||passionfruitads.com^$third-party
 ||passive-earner.com^$third-party
+||patiland.co^$third-party
 ||pautaspr.com^$third-party
 ||pay-click.ru^$third-party
 ||paydotcom.com^$third-party
@@ -5008,6 +5025,7 @@
 ||penuma.com^$third-party
 ||pepperjamnetwork.com^$third-party
 ||percularity.com^$third-party
+||peredest.com^$third-party
 ||perfb.com^$third-party
 ||perfcreatives.com^$third-party
 ||perfectmarket.com^$third-party
@@ -5086,6 +5104,7 @@
 ||polydarth.com^$third-party
 ||pontypriddcrick.com^$third-party
 ||poolnoodle.tech^$third-party
+||pop-rev.com^$third-party
 ||popads.net^$third-party
 ||popadscdn.net^$third-party
 ||popcash.net^$third-party
@@ -5133,6 +5152,7 @@
 ||ppctrck.com^$third-party
 ||ppcwebspy.com^$third-party
 ||ppsearcher.ru^$third-party
+||practively.com^$third-party
 ||prebid.org^$third-party
 ||precisionclick.com^$third-party
 ||predictad.com^$third-party
@@ -5172,6 +5192,7 @@
 ||proper.io^$third-party
 ||propgoservice.com^$third-party
 ||propranok.com^$third-party
+||propvideo.net^$third-party
 ||prorentisol.com^$third-party
 ||prosperent.com^$third-party
 ||protally.net^$third-party
@@ -5302,6 +5323,7 @@
 ||reduxmediagroup.com^$third-party
 ||reelcentric.com^$third-party
 ||refban.com^$third-party
+||refbanners.website^$third-party
 ||referback.com^$third-party
 ||referralargumentationnetwork.info^$third-party
 ||regardensa.com^$third-party
@@ -5371,6 +5393,7 @@
 ||rnmd.net^$third-party
 ||robocat.me^$third-party
 ||rocketier.net^$third-party
+||rocketyield.com^$third-party
 ||rogueaffiliatesystem.com^$third-party
 ||roicharger.com^$third-party
 ||roirocket.com^$third-party
@@ -5409,6 +5432,7 @@
 ||safecllc.com^$third-party
 ||safelistextreme.com^$third-party
 ||sakura-traffic.com^$third-party
+||salarity.info^$third-party
 ||salesnleads.com^$third-party
 ||saltamendors.com^$third-party
 ||salvador24.com^$third-party
@@ -5452,6 +5476,8 @@
 ||sekindo.com^$third-party
 ||selectablemedia.com^$third-party
 ||sellhealth.com^$third-party
+||sellously.info^$third-party
+||selloweb.com^$third-party
 ||selsin.net^$third-party
 ||semanticrep.com^$third-party
 ||sendptp.com^$third-party
@@ -5952,6 +5978,7 @@
 ||underdog.media^$third-party
 ||undertone.com^$third-party
 ||undousun.com^$third-party
+||unhardward.com^$third-party
 ||unicast.com^$third-party
 ||unitethecows.com^$third-party
 ||universityofinternetscience.com^$third-party
@@ -6051,6 +6078,7 @@
 ||viewivo.com^$third-party
 ||vihub.ru^$third-party
 ||vindicosuite.com^$third-party
+||vinterrals.info^$third-party
 ||vipquesting.com^$third-party
 ||viralmediatech.com^$third-party
 ||visiads.com^$third-party
@@ -6095,6 +6123,8 @@
 ||wagershare.com^$third-party
 ||wahoha.com^$third-party
 ||wallacemaloneymindanao.info^$third-party
+||walternsa.com^$third-party
+||walternse.com^$third-party
 ||wamnetwork.com^$third-party
 ||wangfenxi.com^$third-party
 ||waploft.cc^$third-party
@@ -6655,6 +6685,8 @@
 ||ditwrite.com^$third-party
 ||dogwrite.com^$third-party
 ||erniphiq.com^$third-party
+||garo-garo-osh.com^$third-party
+||garowrite.com^$third-party
 ||givingsol.com^$third-party
 ||glo-glo-oom.com^$third-party
 ||hash-hash-tag.com^$third-party
@@ -7204,6 +7236,7 @@
 ||dhmhdiozqbnq.com^$third-party
 ||dhomixidnkas.com^$third-party
 ||dhsztvyjwcmk.com^$third-party
+||difyt-m-tlb.co^$third-party
 ||disbkzufvqhk.com^$third-party
 ||ditouyldfqgt.com^$third-party
 ||diysqcbfyuru.com^$third-party

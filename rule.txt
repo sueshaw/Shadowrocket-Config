@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-07-29 10:34:51.418026
+# Shadowrocket: 2017-08-07 22:35:19.620867
 # Shadowrocket config file by Hayden
 
 [General]
@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,alien-ufos.com,Proxy
 DOMAIN-SUFFIX,altrec.com,Proxy
 DOMAIN-SUFFIX,arena.taipei,Proxy
 DOMAIN-SUFFIX,asianspiss.com,Proxy
+DOMAIN-SUFFIX,assimp.org,Proxy
 DOMAIN-SUFFIX,athenaeizou.com,Proxy
 DOMAIN-SUFFIX,azubu.tv,Proxy
 DOMAIN-SUFFIX,banorte.com,Proxy
@@ -33,6 +34,7 @@ DOMAIN-SUFFIX,static.comico.tw,Proxy
 DOMAIN-SUFFIX,crossfire.co.kr,Proxy
 DOMAIN-SUFFIX,d2pass.com,Proxy
 DOMAIN-SUFFIX,darpa.mil,Proxy
+DOMAIN-SUFFIX,dawangidc.com,Proxy
 DOMAIN-SUFFIX,deezer.com,Proxy
 DOMAIN-SUFFIX,desipro.de,Proxy
 DOMAIN-SUFFIX,dish.com,Proxy
@@ -172,10 +174,13 @@ DOMAIN-SUFFIX,ssl.webpack.de,Proxy
 DOMAIN-SUFFIX,wheretowatch.com,Proxy
 DOMAIN-SUFFIX,wingamestore.com,Proxy
 DOMAIN-SUFFIX,wizcrafts.net,Proxy
+DOMAIN-SUFFIX,vod.wwe.com,Proxy
 DOMAIN-SUFFIX,xfinity.com,Proxy
 DOMAIN-SUFFIX,ytn.co.kr,Proxy
 DOMAIN-SUFFIX,zattoo.com,Proxy
 DOMAIN-SUFFIX,zozotown.com,Proxy
+DOMAIN-SUFFIX,14.102.250.18,Proxy
+DOMAIN-SUFFIX,14.102.250.19,Proxy
 DOMAIN-SUFFIX,50.7.31.230:8898,Proxy
 DOMAIN-SUFFIX,174.142.105.153,Proxy
 DOMAIN-SUFFIX,69.65.19.160,Proxy
@@ -413,6 +418,7 @@ DOMAIN-SUFFIX,chromium.org,Proxy
 DOMAIN-SUFFIX,com.google,Proxy
 DOMAIN-SUFFIX,creativelab5.com,Proxy
 DOMAIN-SUFFIX,data-vocabulary.org,Proxy
+DOMAIN-SUFFIX,debug.com,Proxy
 DOMAIN-SUFFIX,deepmind.com,Proxy
 DOMAIN-SUFFIX,deja.com,Proxy
 DOMAIN-SUFFIX,design.google,Proxy
@@ -574,7 +580,10 @@ DOMAIN-SUFFIX,1688.com.au,Proxy
 DOMAIN-SUFFIX,173ng.com,Proxy
 DOMAIN-SUFFIX,177pic.info,Proxy
 DOMAIN-SUFFIX,17t17p.com,Proxy
+DOMAIN-SUFFIX,18board.com,Proxy
+DOMAIN-SUFFIX,18board.info,Proxy
 DOMAIN-SUFFIX,18onlygirls.com,Proxy
+DOMAIN-SUFFIX,18p2p.com,Proxy
 DOMAIN-SUFFIX,18virginsex.com,Proxy
 DOMAIN-SUFFIX,1949er.org,Proxy
 DOMAIN-SUFFIX,zhao.1984.city,Proxy
@@ -1313,6 +1322,7 @@ DOMAIN-SUFFIX,crocotube.com,Proxy
 DOMAIN-SUFFIX,crossthewall.net,Proxy
 DOMAIN-SUFFIX,csdparty.com,Proxy
 DOMAIN-SUFFIX,csuchen.de,Proxy
+DOMAIN-SUFFIX,csw.org.uk,Proxy
 DOMAIN-SUFFIX,ctao.org,Proxy
 DOMAIN-SUFFIX,ctfriend.net,Proxy
 DOMAIN-SUFFIX,ctitv.com.tw,Proxy
@@ -1555,6 +1565,7 @@ DOMAIN-SUFFIX,enanyang.my,Proxy
 DOMAIN-SUFFIX,enewstree.com,Proxy
 DOMAIN-SUFFIX,enfal.de,Proxy
 DOMAIN-SUFFIX,chinese.engadget.com,Proxy
+DOMAIN-SUFFIX,engagedaily.org,Proxy
 DOMAIN-SUFFIX,englishforeveryone.org,Proxy
 DOMAIN-SUFFIX,englishfromengland.co.uk,Proxy
 DOMAIN-SUFFIX,englishpen.org,Proxy
@@ -1768,11 +1779,10 @@ DOMAIN-SUFFIX,franklc.com,Proxy
 DOMAIN-SUFFIX,freakshare.com,Proxy
 DOMAIN-SUFFIX,free4u.com.ar,Proxy
 DOMAIN-SUFFIX,free-gate.org,Proxy
+DOMAIN-SUFFIX,free-hada-now.org,Proxy
+DOMAIN-SUFFIX,free-proxy.cz,Proxy
 DOMAIN-SUFFIX,free.fr,Proxy
-DOMAIN-SUFFIX,allonlinux.free.fr,Proxy
-DOMAIN-SUFFIX,dimitrik.free.fr,Proxy
 DOMAIN-SUFFIX,kineox.free.fr,Proxy
-DOMAIN-SUFFIX,puttycm.free.fr,Proxy
 DOMAIN-SUFFIX,freealim.com,Proxy
 DOMAIN-SUFFIX,whitebear.freebearblog.org,Proxy
 DOMAIN-SUFFIX,freebrowser.org,Proxy
@@ -1783,7 +1793,6 @@ DOMAIN-SUFFIX,freedomsherald.org,Proxy
 DOMAIN-SUFFIX,freefq.com,Proxy
 DOMAIN-SUFFIX,freefuckvids.com,Proxy
 DOMAIN-SUFFIX,freegao.com,Proxy
-DOMAIN-SUFFIX,free-hada-now.org,Proxy
 DOMAIN-SUFFIX,freeilhamtohti.org,Proxy
 DOMAIN-SUFFIX,freekwonpyong.org,Proxy
 DOMAIN-SUFFIX,saveliuxiaobo.com,Proxy
@@ -2314,6 +2323,7 @@ DOMAIN-SUFFIX,igvita.com,Proxy
 DOMAIN-SUFFIX,ihakka.net,Proxy
 DOMAIN-SUFFIX,ihao.org,Proxy
 DOMAIN-SUFFIX,iicns.com,Proxy
+DOMAIN-SUFFIX,ikstar.com,Proxy
 DOMAIN-SUFFIX,illusionfactory.com,Proxy
 DOMAIN-SUFFIX,ilove80.be,Proxy
 DOMAIN-SUFFIX,im.tv,Proxy
@@ -2374,6 +2384,7 @@ DOMAIN-SUFFIX,iportal.me,Proxy
 DOMAIN-SUFFIX,ippotv.com,Proxy
 DOMAIN-SUFFIX,ipredator.se,Proxy
 DOMAIN-SUFFIX,iptv.com.tw,Proxy
+DOMAIN-SUFFIX,iptvbin.com,Proxy
 DOMAIN-SUFFIX,ipvanish.com,Proxy
 DOMAIN-SUFFIX,iredmail.org,Proxy
 DOMAIN-SUFFIX,chinese.irib.ir,Proxy
@@ -4180,6 +4191,7 @@ DOMAIN-SUFFIX,tw-npo.org,Proxy
 DOMAIN-SUFFIX,twaitter.com,Proxy
 DOMAIN-SUFFIX,twapperkeeper.com,Proxy
 DOMAIN-SUFFIX,twaud.io,Proxy
+DOMAIN-SUFFIX,twavi.com,Proxy
 DOMAIN-SUFFIX,twbbs.net.tw,Proxy
 DOMAIN-SUFFIX,twbbs.org,Proxy
 DOMAIN-SUFFIX,twbbs.tw,Proxy
@@ -4189,6 +4201,7 @@ DOMAIN-SUFFIX,tweepml.org,Proxy
 DOMAIN-SUFFIX,tweetbackup.com,Proxy
 DOMAIN-SUFFIX,tweetboard.com,Proxy
 DOMAIN-SUFFIX,tweetboner.biz,Proxy
+DOMAIN-SUFFIX,tweetcs.com,Proxy
 DOMAIN-SUFFIX,tweetdeck.com,Proxy
 DOMAIN-SUFFIX,deck.ly,Proxy
 DOMAIN-SUFFIX,mtw.tl,Proxy
