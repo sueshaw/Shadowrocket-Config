@@ -1188,7 +1188,6 @@
 ||movie4all.co^$third-party
 ||mozo-widgets.f2.com.au^
 ||mp3ix.com^$third-party
-||mps.nbcuni.com^
 ||mrc.org/sites/default/files/uploads/images/Collusion_Banner
 ||mrc.org^*/Collusion_Banner300x250.jpg
 ||mrc.org^*/take-over-charlotte300x250.gif
@@ -1390,6 +1389,7 @@
 ||pubexchange.com/module/*-prod$third-party
 ||pubexchange.com/modules/display/$script,third-party
 ||public.porn.fr^$third-party
+||pubportal.brkmd.com^
 ||pubs.hiddennetwork.com^
 ||puntersparadise.com.au/banners/
 ||purevpn.com/affiliates/
@@ -2214,7 +2214,6 @@
 ||adhostingsolutions.com^$third-party
 ||adhub.co.nz^$third-party
 ||adicate.com^$third-party
-||adicio.com^$third-party
 ||adigniter.org^$third-party
 ||adikteev.com^$third-party
 ||adimise.com^$third-party
@@ -3016,7 +3015,6 @@
 ||brighteroption.com^$third-party
 ||brightshare.com^$third-party
 ||britiesee.info^$third-party
-||brkmd.com^$third-party
 ||broadstreetads.com^$third-party
 ||brokeloy.com^$third-party
 ||browsersfeedback.com^$third-party
@@ -6774,7 +6772,6 @@
 ||fanaticalfly.com^$third-party
 ||flavordecision.com^$third-party
 ||foamybox.com^$third-party
-||functionalclam.com^$third-party
 ||ga87z2o.com^$third-party
 ||illustriousoatmeal.com^$third-party
 ||inatye.com^$third-party
