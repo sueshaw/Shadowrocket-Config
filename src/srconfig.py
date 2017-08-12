@@ -8,8 +8,12 @@ class SRConfig:
     __GFWListRuleFileName = "gfw.txt"
     __BlockRuleFileName = "block.txt"
     __BaseRuleFileName = "baserule.txt"
+    __RankRuleFileName = "rank.txt"
     __OutputRuleName = "..\\rule.txt"
+    __OutputSimplifyRuleName = "..\\simplifyrule.txt"
     __OutputRuleWithAdBlockName = "..\\rulewithad.txt"
+
+    __SimplifyLength = 2000
 
     __GFWListUrl = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
     __BlockRulesUrls = ["https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt",
@@ -17,6 +21,7 @@ class SRConfig:
 
     __ProxyList = []
     __BlockList = []
+    __SimplifyList = []
 
     def __init__(self):
         self.__downloadFile(self.__GFWListUrl, self.__DownloadFilePath + self.__GFWListRuleFileName)
@@ -27,21 +32,30 @@ class SRConfig:
         baseRules = open(self.__DownloadFilePath + self.__BaseRuleFileName)
         proxyRules = self.__getProxyRules(self.__DownloadFilePath + self.__GFWListRuleFileName)
         blockRules = self.__getBlockRules(self.__DownloadFilePath + self.__BlockRuleFileName)
+        simplfyRules = self.__getSimplifyRules(self.__DownloadFilePath + self.__RankRuleFileName)
 
         proxyFile = open(self.__OutputRuleName, 'w')
         proxyWithAdBlockFile = open(self.__OutputRuleWithAdBlockName, 'w')
+        proxySimplifyFile = open(self.__OutputSimplifyRuleName, 'w')
 
         proxyFile.write("# Shadowrocket: " + str(datetime.datetime.now()) + "\n")
         proxyWithAdBlockFile.write("# Shadowrocket: " + str(datetime.datetime.now()) + "\n")
+        proxySimplifyFile.write("# Shadowrocket: " + str(datetime.datetime.now()) + "\n")
+
         for line in baseRules:
             proxyFile.write(line)
             proxyWithAdBlockFile.write(line)
+            proxySimplifyFile.write(line)
+
             if line == "[Rule]\n":
                 proxyFile.write(proxyRules)
                 proxyWithAdBlockFile.write(proxyRules)
                 proxyWithAdBlockFile.write(blockRules)
+                proxySimplifyFile.write(simplfyRules)
+
         proxyFile.close()
         proxyWithAdBlockFile.close()
+        proxySimplifyFile.close()
 
     def __downloadFile(self, fileUrl, fileName):
         response = urllib.request.urlopen(fileUrl)
@@ -73,6 +87,21 @@ class SRConfig:
             if newLine != "":
                 proxyRules += newLine + "\n"
         return proxyRules
+
+    def __getSimplifyRules(self, fileName):
+        simplifyRules = ""
+        cnt = 0
+        f = open(fileName).readlines()
+        for line in f:
+            domain = line.split(" ")[0]
+            rank = line.split(" ")[1]
+            if rank != '-1\n':
+                rule = "DOMAIN-SUFFIX," + domain + ",Proxy"
+                simplifyRules += rule + "\n"
+                cnt = cnt + 1
+                if cnt > self.__SimplifyLength:
+                    return simplifyRules
+        return simplifyRules
 
     def __processProxyRule(self, rule):
         if rule.startswith('!') or rule.startswith('[') or rule.startswith('@') or rule.startswith('/'):

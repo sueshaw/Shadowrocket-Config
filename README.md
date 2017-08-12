@@ -13,7 +13,20 @@
 ``` Python
 python main.py 
 ```
+**UPDATE：新增精简版，精简版将gfwlist中的规则按照域名的alexa全球排名来排序，然后写入其中排名靠前的2000个网站，去除了不经常访问的网站，规则量少因此相对省电。如果没有特殊需求的，强烈推荐使用这个规则**
+
+
 生成的规则存放在 ```rule.txt``` 和 ```rulewithad.txt```两个文件之中。第一个是单纯的翻墙配置文件，第二个在翻墙基础之上加入了屏蔽广告部分规则。
+
+## 使用精简版
+
+打开Shadowrocket，添加配置文件，写入下面的链接
+
+url:  https://raw.githubusercontent.com/Hsiny/Shadowrocket-Config/master/simplifyrule.txt
+
+或者直接扫描下面的二维码
+
+![QR code](png/simplify.png)
 
 ## 使用翻墙的配置文件
 
