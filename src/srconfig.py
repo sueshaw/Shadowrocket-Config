@@ -1,17 +1,17 @@
 import base64
 import datetime
 import urllib.request
-
+import os
 
 class SRConfig:
-    __DownloadFilePath = "..\\third_party\\"
+    __DownloadFilePath = os.path.join("third_party",os.pardir)
     __GFWListRuleFileName = "gfw.txt"
     __BlockRuleFileName = "block.txt"
     __BaseRuleFileName = "baserule.txt"
     __RankRuleFileName = "rank.txt"
-    __OutputRuleName = "..\\rule.txt"
-    __OutputSimplifyRuleName = "..\\simplifyrule.txt"
-    __OutputRuleWithAdBlockName = "..\\rulewithad.txt"
+    __OutputRuleName = os.path.join("rule.txt",os.pardir)
+    __OutputSimplifyRuleName = os.path.join("simplifyrule.txt",os.pardir)
+    __OutputRuleWithAdBlockName = os.path.join("rulewithad.txt",os.pardir)
 
     __SimplifyLength = 2000
 
