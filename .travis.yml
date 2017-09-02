@@ -14,5 +14,6 @@ after_script:
  - git config user.email "yangxinhust@hotmail.com"
  - git add -A
  - git commit -m "Dayly Update"
+ - git remote rm origin
  - git remote add origin https://Hsiny:${GH_TOKEN}@github.com/Hsiny/Shadowrocket-Config.git
  - git push --quiet --set-upstream origin travis
