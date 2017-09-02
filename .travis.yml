@@ -13,6 +13,6 @@ after_script:
  - git config user.name "hayden"
  - git config user.email "yangxinhust@hotmail.com"
  - git add -A
- - git commit -m "Dayil Update"
- - git remote add master https://${GH_TOKEN}@github.com:Hsiny/Shadowrocket-Config.git
- - git push --quiet --set-upstream origin master
+ - git commit -m "Dayly Update"
+ - git remote add travis https://${GH_TOKEN}@github.com:Hsiny/Shadowrocket-Config.git
+ - git push --quiet --set-upstream origin travis
