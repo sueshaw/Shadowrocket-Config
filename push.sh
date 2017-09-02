@@ -6,5 +6,5 @@ git remote rm origin
 git remote add origin https://Hsiny:${TT}@github.com/Hsiny/Shadowrocket-Config.git
 git add -A
 git commit -m "Dayly Update $TRAVIS_BUILD_NUMBER pushed [skip ci] "
-git push -fq origin master
+git push origin master
 echo -e "Done\n ${TT}"
