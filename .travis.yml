@@ -9,11 +9,6 @@ install:
 script:
  - python src/srconfig.py
 
-after_script:
- - git config user.name "hayden"
- - git config user.email "yangxinhust@hotmail.com"
- - git remote rm origin
- - git remote add origin https://Hsiny:${GH_TOKEN}@github.com/Hsiny/Shadowrocket-Config.git
- - git add -f .
- - git commit -m "Dayly Update by CI [skip ci]"
- - git push -fq origin master
+after_success:
+ - chmod +x ./push.sh
+ - ./push.sh
