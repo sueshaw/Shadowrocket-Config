@@ -6,16 +6,19 @@ import re
 import base64
 import time
 import random
+import os
+
 
 class Rank:
     def __init__(self):
+        sep = os.sep
         self.__session = requests.session()
-        self.rank_path = '..\\third_party\\rank.txt'
+        self.rank_path = '..' + sep + 'third_party' + sep + 'rank.txt'
         self.headers = {
             'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36"
         }
         self.rank_dict = {}
-        self.main_rank_dict={}
+        self.main_rank_dict = {}
         self.__rules = []
         self.__read_rank()
 
@@ -92,20 +95,21 @@ class Rank:
             f = open(self.rank_path, 'a')
             f.write("%s %s\n" % (website, rank))
             f.close()
+
     def sort(self):
-        f=open(self.rank_path,'w')
-        new_dict= sorted(self.rank_dict.items(), key=lambda d: int(d[1]))
+        f = open(self.rank_path, 'w')
+        new_dict = sorted(self.rank_dict.items(), key=lambda d: int(d[1]))
         for item in new_dict:
-            f.write("%s %s\n"%(item[0],item[1]))
+            f.write("%s %s\n" % (item[0], item[1]))
         f.close()
-        print ("ok")
+        print("ok")
+
 
 if __name__ == "__main__":
     rk = Rank()
     # rn = rk.get_rank("baidu.com")
-    #rk.get_gfw_webite()
-    #rk.process()
-    #rk.sort()
-    #rk.clear_by_host()
-    #rk.sort()
-
+    # rk.get_gfw_webite()
+    # rk.process()
+    # rk.sort()
+    # rk.clear_by_host()
+    # rk.sort()
