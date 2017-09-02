@@ -6,14 +6,14 @@ import os
 
 class SRConfig:
     sep = os.sep
-    __DownloadFilePath = ".." + sep + "third_party" + sep
+    __DownloadFilePath = "third_party" + sep
     __GFWListRuleFileName = "gfw.txt"
     __BlockRuleFileName = "block.txt"
     __BaseRuleFileName = "baserule.txt"
     __RankRuleFileName = "rank.txt"
-    __OutputRuleName = ".." + sep + "rule.txt"
-    __OutputSimplifyRuleName = ".." + sep + "simplifyrule.txt"
-    __OutputRuleWithAdBlockName = ".." + sep + "rulewithad.txt"
+    __OutputRuleName = "rule.txt"
+    __OutputSimplifyRuleName = "simplifyrule.txt"
+    __OutputRuleWithAdBlockName = "rulewithad.txt"
 
     __SimplifyLength = 2000
 

@@ -13,7 +13,7 @@ class Rank:
     def __init__(self):
         sep = os.sep
         self.__session = requests.session()
-        self.rank_path = '..' + sep + 'third_party' + sep + 'rank.txt'
+        self.rank_path = 'third_party' + sep + 'rank.txt'
         self.headers = {
             'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36"
         }
