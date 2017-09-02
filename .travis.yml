@@ -1,7 +1,7 @@
 language: python
 
 install:
- - pip install urllib
+ - pip install requests
 
 script:
  - python src/srconfig.py
