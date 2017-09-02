@@ -1,5 +1,6 @@
 # Shadowrocket 配置文件
 
+
 本项目是维护一个Shadowrocket配置文件
 
 其中翻墙部分规则是将[GfwList](https://github.com/gfwlist/gfwlist)转化而得来，屏蔽广告部分规则是根据[easylist_adservers](https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt)和
