@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-09-09 00:00:02.732218
+# Shadowrocket: 2017-09-10 00:00:02.801356
 # Shadowrocket config file by Hayden
 
 [General]
@@ -55,7 +55,6 @@ DOMAIN-SUFFIX,financetwitter.com,Proxy
 DOMAIN-SUFFIX,findmima.com,Proxy
 DOMAIN-SUFFIX,flipboard.com,Proxy
 DOMAIN-SUFFIX,flitto.com,Proxy
-DOMAIN-SUFFIX,www.ftchinese.com,Proxy
 DOMAIN-SUFFIX,funkyimg.com,Proxy
 DOMAIN-SUFFIX,fxnetworks.com,Proxy
 DOMAIN-SUFFIX,g-area.org,Proxy
@@ -1872,6 +1871,7 @@ DOMAIN-SUFFIX,frontlinedefenders.org,Proxy
 DOMAIN-SUFFIX,frootvpn.com,Proxy
 DOMAIN-SUFFIX,fscked.org,Proxy
 DOMAIN-SUFFIX,fsurf.com,Proxy
+DOMAIN-SUFFIX,www.ftchinese.com,Proxy
 DOMAIN-SUFFIX,ftchinese.com,Proxy
 DOMAIN-SUFFIX,ftv.com.tw,Proxy
 DOMAIN-SUFFIX,fucd.com,Proxy
@@ -1967,6 +1967,7 @@ DOMAIN-SUFFIX,ggssl.com,Proxy
 DOMAIN-SUFFIX,ghost.org,Proxy
 DOMAIN-SUFFIX,ghostpath.com,Proxy
 DOMAIN-SUFFIX,ghut.org,Proxy
+DOMAIN-SUFFIX,giantessnight.com,Proxy
 DOMAIN-SUFFIX,gifree.com,Proxy
 DOMAIN-SUFFIX,giga-web.jp,Proxy
 DOMAIN-SUFFIX,tw.gigacircle.com,Proxy
@@ -6087,6 +6088,7 @@ DOMAIN-SUFFIX,adprotected.com,REJECT
 DOMAIN-SUFFIX,adprovi.de,REJECT
 DOMAIN-SUFFIX,adprs.net,REJECT
 DOMAIN-SUFFIX,adpushup.com,REJECT
+DOMAIN-SUFFIX,adqic.com,REJECT
 DOMAIN-SUFFIX,adquantix.com,REJECT
 DOMAIN-SUFFIX,adquest3d.com,REJECT
 DOMAIN-SUFFIX,adrcdn.com,REJECT
