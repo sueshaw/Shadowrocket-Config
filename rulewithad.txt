@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-09-13 00:00:03.256445
+# Shadowrocket: 2017-09-14 00:00:02.951333
 # Shadowrocket config file by Hayden
 
 [General]
@@ -191,6 +191,7 @@ DOMAIN-SUFFIX,50.7.31.230:8898,Proxy
 DOMAIN-SUFFIX,174.142.105.153,Proxy
 DOMAIN-SUFFIX,69.65.19.160,Proxy
 DOMAIN-SUFFIX,xn--4gq171p.com,Proxy
+DOMAIN-SUFFIX,xn--i2ru8q2qg.com,Proxy
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,Proxy
 DOMAIN-SUFFIX,.s3.amazonaws.com,Proxy
 DOMAIN-SUFFIX,china-mmm.jp.net,Proxy
@@ -575,9 +576,20 @@ DOMAIN-SUFFIX,youtubeeducation.com,Proxy
 DOMAIN-SUFFIX,youtubegaming.com,Proxy
 DOMAIN-SUFFIX,ytimg.com,Proxy
 DOMAIN-SUFFIX,zynamics.com,Proxy
-DOMAIN-SUFFIX,kat.cr,Proxy
 DOMAIN-SUFFIX,naughtyamerica.com,Proxy
 DOMAIN-SUFFIX,v2ex.com,Proxy
+DOMAIN-SUFFIX,gov.taipei,Proxy
+DOMAIN-SUFFIX,gov.tw,Proxy
+DOMAIN-SUFFIX,archives.gov.tw,Proxy
+DOMAIN-SUFFIX,tacc.cwb.gov.tw,Proxy
+DOMAIN-SUFFIX,immigration.gov.tw,Proxy
+DOMAIN-SUFFIX,itaiwan.gov.tw,Proxy
+DOMAIN-SUFFIX,mjib.gov.tw,Proxy
+DOMAIN-SUFFIX,nsc.gov.tw,Proxy
+DOMAIN-SUFFIX,ntbna.gov.tw,Proxy
+DOMAIN-SUFFIX,ntsna.gov.tw,Proxy
+DOMAIN-SUFFIX,taipei.gov.tw,Proxy
+DOMAIN-SUFFIX,thb.gov.tw,Proxy
 DOMAIN-SUFFIX,030buy.com,Proxy
 DOMAIN-SUFFIX,0rz.tw,Proxy
 DOMAIN-SUFFIX,1-apple.com.tw,Proxy
@@ -1087,6 +1099,7 @@ DOMAIN-SUFFIX,calgarychinese.ca,Proxy
 DOMAIN-SUFFIX,calgarychinese.com,Proxy
 DOMAIN-SUFFIX,calgarychinese.net,Proxy
 DOMAIN-SUFFIX,blog.calibre-ebook.com,Proxy
+DOMAIN-SUFFIX,google.calstate.edu,Proxy
 DOMAIN-SUFFIX,falun.caltech.edu,Proxy
 DOMAIN-SUFFIX,its.caltech.edu,Proxy
 DOMAIN-SUFFIX,cam4.com,Proxy
@@ -1096,6 +1109,7 @@ DOMAIN-SUFFIX,camfrog.com,Proxy
 DOMAIN-SUFFIX,cams.com,Proxy
 DOMAIN-SUFFIX,cams.org.sg,Proxy
 DOMAIN-SUFFIX,canadameet.com,Proxy
+DOMAIN-SUFFIX,canalporno.com,Proxy
 DOMAIN-SUFFIX,bbs.cantonese.asia,Proxy
 DOMAIN-SUFFIX,canyu.org,Proxy
 DOMAIN-SUFFIX,cao.im,Proxy
@@ -3902,6 +3916,7 @@ DOMAIN-SUFFIX,student.tw,Proxy
 DOMAIN-SUFFIX,studentsforafreetibet.org,Proxy
 DOMAIN-SUFFIX,stumbleupon.com,Proxy
 DOMAIN-SUFFIX,stupidvideos.com,Proxy
+DOMAIN-SUFFIX,successfn.com,Proxy
 DOMAIN-SUFFIX,panamapapers.sueddeutsche.de,Proxy
 DOMAIN-SUFFIX,sugarsync.com,Proxy
 DOMAIN-SUFFIX,sugobbs.com,Proxy
@@ -4480,6 +4495,7 @@ DOMAIN-SUFFIX,vcfbuilder.org,Proxy
 DOMAIN-SUFFIX,velkaepocha.sk,Proxy
 DOMAIN-SUFFIX,venbbs.com,Proxy
 DOMAIN-SUFFIX,venchina.com,Proxy
+DOMAIN-SUFFIX,venetianmacao.com,Proxy
 DOMAIN-SUFFIX,veoh.com,Proxy
 DOMAIN-SUFFIX,mysite.verizon.net,Proxy
 DOMAIN-SUFFIX,vermonttibet.org,Proxy
@@ -4853,6 +4869,7 @@ DOMAIN-SUFFIX,yasukuni.or.jp,Proxy
 DOMAIN-SUFFIX,yayabay.com,Proxy
 DOMAIN-SUFFIX,ydy.com,Proxy
 DOMAIN-SUFFIX,yeahteentube.com,Proxy
+DOMAIN-SUFFIX,yecl.net,Proxy
 DOMAIN-SUFFIX,yeelou.com,Proxy
 DOMAIN-SUFFIX,yeeyi.com,Proxy
 DOMAIN-SUFFIX,yegle.net,Proxy
@@ -4861,7 +4878,7 @@ DOMAIN-SUFFIX,yes123.com.tw,Proxy
 DOMAIN-SUFFIX,yesasia.com,Proxy
 DOMAIN-SUFFIX,yesasia.com.hk,Proxy
 DOMAIN-SUFFIX,yes-news.com,Proxy
-DOMAIN-SUFFIX,yecl.net,Proxy
+DOMAIN-SUFFIX,yespornplease.com,Proxy
 DOMAIN-SUFFIX,yhcw.net,Proxy
 DOMAIN-SUFFIX,yibada.com,Proxy
 DOMAIN-SUFFIX,yibaochina.com,Proxy
@@ -4979,14 +4996,6 @@ DOMAIN-SUFFIX,q%3DTriangle,Proxy
 DOMAIN-SUFFIX,ultrareach,Proxy
 DOMAIN-SUFFIX,ultrasurf,Proxy
 DOMAIN-SUFFIX,zhengjian,Proxy
-DOMAIN-SUFFIX,gov.tw,Proxy
-DOMAIN-SUFFIX,tacc.cwb.gov.tw,Proxy
-DOMAIN-SUFFIX,immigration.gov.tw,Proxy
-DOMAIN-SUFFIX,mjib.gov.tw,Proxy
-DOMAIN-SUFFIX,nsc.gov.tw,Proxy
-DOMAIN-SUFFIX,ntbna.gov.tw,Proxy
-DOMAIN-SUFFIX,ntsna.gov.tw,Proxy
-DOMAIN-SUFFIX,taipei.gov.tw,Proxy
 DOMAIN-SUFFIX,104.197.10.19,REJECT
 DOMAIN-SUFFIX,104.197.10.88,REJECT
 DOMAIN-SUFFIX,104.197.127.140,REJECT
