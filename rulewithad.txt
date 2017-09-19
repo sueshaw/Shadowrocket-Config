@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-09-18 00:00:02.683237
+# Shadowrocket: 2017-09-19 00:00:03.236083
 # Shadowrocket config file by Hayden
 
 [General]
@@ -194,6 +194,8 @@ DOMAIN-SUFFIX,xn--4gq171p.com,Proxy
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com,Proxy
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,Proxy
 DOMAIN-SUFFIX,.s3.amazonaws.com,Proxy
+DOMAIN-SUFFIX,agro.hk,Proxy
+DOMAIN-SUFFIX,pixiv.net,Proxy
 DOMAIN-SUFFIX,china-mmm.jp.net,Proxy
 DOMAIN-SUFFIX,lsxszzg.com,Proxy
 DOMAIN-SUFFIX,china-mmm.net,Proxy
@@ -975,6 +977,7 @@ DOMAIN-SUFFIX,bit.ly,Proxy
 DOMAIN-SUFFIX,bitcointalk.org,Proxy
 DOMAIN-SUFFIX,bitshare.com,Proxy
 DOMAIN-SUFFIX,bitsnoop.com,Proxy
+DOMAIN-SUFFIX,bitvise.com,Proxy
 DOMAIN-SUFFIX,bizhat.com,Proxy
 DOMAIN-SUFFIX,bl-doujinsouko.com,Proxy
 DOMAIN-SUFFIX,bjnewlife.org,Proxy
