@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-09-19 00:00:03.236083
+# Shadowrocket: 2017-09-20 00:00:03.269669
 # Shadowrocket config file by Hayden
 
 [General]
@@ -5467,6 +5467,7 @@ DOMAIN-SUFFIX,networkice.com,REJECT
 DOMAIN-SUFFIX,news-whistleout.s3.amazonaws.com,REJECT
 DOMAIN-SUFFIX,news.fark.com,REJECT
 DOMAIN-SUFFIX,news.retire.ly,REJECT
+DOMAIN-SUFFIX,news.smi2.ru,REJECT
 DOMAIN-SUFFIX,novadune.com,REJECT
 DOMAIN-SUFFIX,numb.hotshare.biz,REJECT
 DOMAIN-SUFFIX,o2live.com,REJECT
