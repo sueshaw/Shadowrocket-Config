@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-09-21 00:00:03.827416
+# Shadowrocket: 2017-09-22 00:00:02.712573
 # Shadowrocket config file by Hayden
 
 [General]
@@ -154,6 +154,7 @@ DOMAIN-SUFFIX,shutterstock.com,Proxy
 DOMAIN-SUFFIX,slacker.com,Proxy
 DOMAIN-SUFFIX,sm-miracle.com,Proxy
 DOMAIN-SUFFIX,spotify.com,Proxy
+DOMAIN-SUFFIX,spreadshirt.es,Proxy
 DOMAIN-SUFFIX,springboardplatform.com,Proxy
 DOMAIN-SUFFIX,sprite.org,Proxy
 DOMAIN-SUFFIX,superokayama.com,Proxy
@@ -191,6 +192,7 @@ DOMAIN-SUFFIX,50.7.31.230:8898,Proxy
 DOMAIN-SUFFIX,174.142.105.153,Proxy
 DOMAIN-SUFFIX,69.65.19.160,Proxy
 DOMAIN-SUFFIX,xn--4gq171p.com,Proxy
+DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org,Proxy
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com,Proxy
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,Proxy
 DOMAIN-SUFFIX,.s3.amazonaws.com,Proxy
@@ -200,6 +202,7 @@ DOMAIN-SUFFIX,china-mmm.jp.net,Proxy
 DOMAIN-SUFFIX,lsxszzg.com,Proxy
 DOMAIN-SUFFIX,china-mmm.net,Proxy
 DOMAIN-SUFFIX,china-mmm.sa.com,Proxy
+DOMAIN-SUFFIX,allowed.org,Proxy
 DOMAIN-SUFFIX,now.im,Proxy
 DOMAIN-SUFFIX,amazon.com,Proxy
 DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com,Proxy
@@ -460,7 +463,7 @@ DOMAIN-SUFFIX,google.az,Proxy
 DOMAIN-SUFFIX,google.ba,Proxy
 DOMAIN-SUFFIX,google.be,Proxy
 DOMAIN-SUFFIX,google.bg,Proxy
-DOMAIN-SUFFIX,google.cat,Proxy
+DOMAIN-SUFFIX,google.ca,Proxy
 DOMAIN-SUFFIX,google.cd,Proxy
 DOMAIN-SUFFIX,google.ci,Proxy
 DOMAIN-SUFFIX,google.co.id,Proxy
@@ -592,6 +595,7 @@ DOMAIN-SUFFIX,ntbna.gov.tw,Proxy
 DOMAIN-SUFFIX,ntsna.gov.tw,Proxy
 DOMAIN-SUFFIX,taipei.gov.tw,Proxy
 DOMAIN-SUFFIX,thb.gov.tw,Proxy
+DOMAIN-SUFFIX,kinmen.org.tw,Proxy
 DOMAIN-SUFFIX,030buy.com,Proxy
 DOMAIN-SUFFIX,0rz.tw,Proxy
 DOMAIN-SUFFIX,1-apple.com.tw,Proxy
@@ -2166,7 +2170,6 @@ DOMAIN-SUFFIX,hentaivideoworld.com,Proxy
 DOMAIN-SUFFIX,getcloudapp.com,Proxy
 DOMAIN-SUFFIX,cl.ly,Proxy
 DOMAIN-SUFFIX,getsmartlinks.com,Proxy
-DOMAIN-SUFFIX,git-scm.com,Proxy
 DOMAIN-SUFFIX,heqinglian.net,Proxy
 DOMAIN-SUFFIX,heungkongdiscuss.com,Proxy
 DOMAIN-SUFFIX,hexieshe.com,Proxy
@@ -2774,7 +2777,6 @@ DOMAIN-SUFFIX,luxebc.com,Proxy
 DOMAIN-SUFFIX,lvhai.org,Proxy
 DOMAIN-SUFFIX,lvv2.com,Proxy
 DOMAIN-SUFFIX,lyfhk.net,Proxy
-DOMAIN-SUFFIX,m-team.cc,Proxy
 DOMAIN-SUFFIX,macrovpn.com,Proxy
 DOMAIN-SUFFIX,macts.com.tw,Proxy
 DOMAIN-SUFFIX,mad-ar.ch,Proxy
@@ -3128,6 +3130,7 @@ DOMAIN-SUFFIX,ntdtv.ru,Proxy
 DOMAIN-SUFFIX,ntdtvla.com,Proxy
 DOMAIN-SUFFIX,ntrfun.com,Proxy
 DOMAIN-SUFFIX,cbs.ntu.edu.tw,Proxy
+DOMAIN-SUFFIX,media.nu.nl,Proxy
 DOMAIN-SUFFIX,nubiles.net,Proxy
 DOMAIN-SUFFIX,nuexpo.com,Proxy
 DOMAIN-SUFFIX,nukistream.com,Proxy
@@ -3371,6 +3374,7 @@ DOMAIN-SUFFIX,pokerstars.net,Proxy
 DOMAIN-SUFFIX,zh.pokerstrategy.com,Proxy
 DOMAIN-SUFFIX,politicalchina.org,Proxy
 DOMAIN-SUFFIX,politicalconsultation.org,Proxy
+DOMAIN-SUFFIX,poloniex.com,Proxy
 DOMAIN-SUFFIX,polymerhk.com,Proxy
 DOMAIN-SUFFIX,popo.tw,Proxy
 DOMAIN-SUFFIX,popvote.hk,Proxy
@@ -4588,6 +4592,7 @@ DOMAIN-SUFFIX,vpnworldwide.com,Proxy
 DOMAIN-SUFFIX,vporn.com,Proxy
 DOMAIN-SUFFIX,vpser.net,Proxy
 DOMAIN-SUFFIX,vraiesagesse.net,Proxy
+DOMAIN-SUFFIX,vrmtr.com,Proxy
 DOMAIN-SUFFIX,vtunnel.com,Proxy
 DOMAIN-SUFFIX,vuku.cc,Proxy
 DOMAIN-SUFFIX,lists.w3.org,Proxy
@@ -4840,6 +4845,7 @@ DOMAIN-SUFFIX,xyy69.info,Proxy
 DOMAIN-SUFFIX,page.bid.yahoo.com,Proxy
 DOMAIN-SUFFIX,tw.bid.yahoo.com,Proxy
 DOMAIN-SUFFIX,blogs.yahoo.co.jp,Proxy
+DOMAIN-SUFFIX,search.yahoo.co.jp,Proxy
 DOMAIN-SUFFIX,buy.yahoo.com.tw,Proxy
 DOMAIN-SUFFIX,hk.yahoo.com,Proxy
 DOMAIN-SUFFIX,hk.knowledge.yahoo.com,Proxy
@@ -5095,6 +5101,7 @@ DOMAIN-SUFFIX,affiliates.picaboocorp.com,REJECT
 DOMAIN-SUFFIX,affiliatesmedia.sbobet.com,REJECT
 DOMAIN-SUFFIX,affiliation.filestube.com,REJECT
 DOMAIN-SUFFIX,affiliation.fotovista.com,REJECT
+DOMAIN-SUFFIX,affiliationjs.s3.amazonaws.com,REJECT
 DOMAIN-SUFFIX,affutdmedia.com,REJECT
 DOMAIN-SUFFIX,afimg.liveperson.com,REJECT
 DOMAIN-SUFFIX,agenda.complex.com,REJECT
@@ -8867,6 +8874,7 @@ DOMAIN-SUFFIX,pulsemgr.com,REJECT
 DOMAIN-SUFFIX,purpleflag.net,REJECT
 DOMAIN-SUFFIX,puserving.com,REJECT
 DOMAIN-SUFFIX,push2check.com,REJECT
+DOMAIN-SUFFIX,pussl10.com,REJECT
 DOMAIN-SUFFIX,pussl11.com,REJECT
 DOMAIN-SUFFIX,pussl4.com,REJECT
 DOMAIN-SUFFIX,putrr2.com,REJECT
@@ -9555,6 +9563,7 @@ DOMAIN-SUFFIX,truesecurejump.com,REJECT
 DOMAIN-SUFFIX,truex.com,REJECT
 DOMAIN-SUFFIX,trustx.org,REJECT
 DOMAIN-SUFFIX,trygen.co.uk,REJECT
+DOMAIN-SUFFIX,trymynewspirit.com,REJECT
 DOMAIN-SUFFIX,trzi30ic.com,REJECT
 DOMAIN-SUFFIX,ttzmedia.com,REJECT
 DOMAIN-SUFFIX,tubberlo.com,REJECT
