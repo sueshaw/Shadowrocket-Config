@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-09-22 00:00:02.712573
+# Shadowrocket: 2017-09-23 00:00:02.786581
 # Shadowrocket config file by Hayden
 
 [General]
@@ -6346,6 +6346,7 @@ DOMAIN-SUFFIX,adxcore.com,REJECT
 DOMAIN-SUFFIX,adxion.com,REJECT
 DOMAIN-SUFFIX,adxpose.com,REJECT
 DOMAIN-SUFFIX,adxpower.com,REJECT
+DOMAIN-SUFFIX,adxprts.com,REJECT
 DOMAIN-SUFFIX,adyoulike.com,REJECT
 DOMAIN-SUFFIX,adyoz.com,REJECT
 DOMAIN-SUFFIX,adz.co.zw,REJECT
