@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-09-23 00:00:02.786581
+# Shadowrocket: 2017-09-24 00:00:02.828009
 # Shadowrocket config file by Hayden
 
 [General]
@@ -5580,6 +5580,7 @@ DOMAIN-SUFFIX,syndicate.payloadz.com,REJECT
 DOMAIN-SUFFIX,syndication.jsadapi.com,REJECT
 DOMAIN-SUFFIX,syndication1.viraladnetwork.net,REJECT
 DOMAIN-SUFFIX,tag.regieci.com,REJECT
+DOMAIN-SUFFIX,tags.sprizzy.com,REJECT
 DOMAIN-SUFFIX,tags2.adshell.net,REJECT
 DOMAIN-SUFFIX,tap.more-results.net,REJECT
 DOMAIN-SUFFIX,thebigchair.com.au,REJECT
@@ -5805,6 +5806,7 @@ DOMAIN-SUFFIX,accumulatork.com,REJECT
 DOMAIN-SUFFIX,accuserveadsystem.com,REJECT
 DOMAIN-SUFFIX,acf-webmaster.net,REJECT
 DOMAIN-SUFFIX,acronym.com,REJECT
+DOMAIN-SUFFIX,acrossiblel.info,REJECT
 DOMAIN-SUFFIX,actiondesk.com,REJECT
 DOMAIN-SUFFIX,activedancer.com,REJECT
 DOMAIN-SUFFIX,ad-back.net,REJECT
@@ -6054,6 +6056,7 @@ DOMAIN-SUFFIX,adnet.vn,REJECT
 DOMAIN-SUFFIX,adnetworkme.com,REJECT
 DOMAIN-SUFFIX,adnetworkperformance.com,REJECT
 DOMAIN-SUFFIX,adnext.fr,REJECT
+DOMAIN-SUFFIX,adnext.org,REJECT
 DOMAIN-SUFFIX,adngin.com,REJECT
 DOMAIN-SUFFIX,adnigma.com,REJECT
 DOMAIN-SUFFIX,adnimation.com,REJECT
@@ -7388,6 +7391,7 @@ DOMAIN-SUFFIX,explainidentifycoding.info,REJECT
 DOMAIN-SUFFIX,expocrack.com,REJECT
 DOMAIN-SUFFIX,expogrim.com,REJECT
 DOMAIN-SUFFIX,exponential.com,REJECT
+DOMAIN-SUFFIX,expresided.info,REJECT
 DOMAIN-SUFFIX,expresswebtraffic.com,REJECT
 DOMAIN-SUFFIX,extend.tv,REJECT
 DOMAIN-SUFFIX,extra33.com,REJECT
@@ -7593,6 +7597,7 @@ DOMAIN-SUFFIX,gitload.site,REJECT
 DOMAIN-SUFFIX,giu9aab.bid,REJECT
 DOMAIN-SUFFIX,gklmedia.com,REJECT
 DOMAIN-SUFFIX,glaswall.online,REJECT
+DOMAIN-SUFFIX,gleaminist.com,REJECT
 DOMAIN-SUFFIX,glical.com,REJECT
 DOMAIN-SUFFIX,global-success-club.net,REJECT
 DOMAIN-SUFFIX,globaladmedia.com,REJECT
@@ -7813,6 +7818,7 @@ DOMAIN-SUFFIX,impressiondesk.com,REJECT
 DOMAIN-SUFFIX,impressionperformance.biz,REJECT
 DOMAIN-SUFFIX,impressionvalue.mobi,REJECT
 DOMAIN-SUFFIX,in-appadvertising.com,REJECT
+DOMAIN-SUFFIX,inadequal.com,REJECT
 DOMAIN-SUFFIX,incentaclick.com,REJECT
 DOMAIN-SUFFIX,incloak.com,REJECT
 DOMAIN-SUFFIX,incomeliberation.com,REJECT
@@ -8659,6 +8665,7 @@ DOMAIN-SUFFIX,peelawaymaker.com,REJECT
 DOMAIN-SUFFIX,peemee.com,REJECT
 DOMAIN-SUFFIX,peer39.com,REJECT
 DOMAIN-SUFFIX,peer39.net,REJECT
+DOMAIN-SUFFIX,pejqoq4cafo3bg9yqqqtk5e6s6.com,REJECT
 DOMAIN-SUFFIX,penuma.com,REJECT
 DOMAIN-SUFFIX,pepperjamnetwork.com,REJECT
 DOMAIN-SUFFIX,percularity.com,REJECT
@@ -8877,6 +8884,7 @@ DOMAIN-SUFFIX,puserving.com,REJECT
 DOMAIN-SUFFIX,push2check.com,REJECT
 DOMAIN-SUFFIX,pussl10.com,REJECT
 DOMAIN-SUFFIX,pussl11.com,REJECT
+DOMAIN-SUFFIX,pussl28.com,REJECT
 DOMAIN-SUFFIX,pussl4.com,REJECT
 DOMAIN-SUFFIX,putrr2.com,REJECT
 DOMAIN-SUFFIX,putrr3.com,REJECT
@@ -9286,6 +9294,7 @@ DOMAIN-SUFFIX,srv.yavli.com,REJECT
 DOMAIN-SUFFIX,srx.com.sg,REJECT
 DOMAIN-SUFFIX,ssl-services.com,REJECT
 DOMAIN-SUFFIX,ssl2anyone4.com,REJECT
+DOMAIN-SUFFIX,ssl4anyone5.com,REJECT
 DOMAIN-SUFFIX,sslboost.com,REJECT
 DOMAIN-SUFFIX,sslcheckerapi.com,REJECT
 DOMAIN-SUFFIX,sta-ads.com,REJECT

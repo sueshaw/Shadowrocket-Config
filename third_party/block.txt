@@ -1626,6 +1626,7 @@
 ||syndication1.viraladnetwork.net^
 ||taboola.com^$domain=scoopwhoop.com
 ||tag.regieci.com^$third-party
+||tags.sprizzy.com^
 ||tags2.adshell.net^
 ||take2.co.za/misc/bannerscript.php?
 ||takeover.bauermedia.co.uk^$~stylesheet
@@ -2052,6 +2053,7 @@
 ||accuserveadsystem.com^$third-party
 ||acf-webmaster.net^$third-party
 ||acronym.com^$third-party
+||acrossiblel.info^$third-party
 ||actiondesk.com^$third-party
 ||activedancer.com^$third-party
 ||ad-back.net^$third-party
@@ -2311,6 +2313,7 @@
 ||adnetworkme.com^$third-party
 ||adnetworkperformance.com^$third-party
 ||adnext.fr^$third-party
+||adnext.org^$third-party
 ||adngin.com^$third-party
 ||adnigma.com^$third-party
 ||adnimation.com^$third-party
@@ -3748,6 +3751,7 @@
 ||expocrack.com^$third-party
 ||expogrim.com^$third-party
 ||exponential.com^$third-party
+||expresided.info^$third-party
 ||expresswebtraffic.com^$third-party
 ||extend.tv^$third-party
 ||extra33.com^$third-party
@@ -3953,6 +3957,7 @@
 ||giu9aab.bid^$third-party
 ||gklmedia.com^$third-party
 ||glaswall.online^$third-party
+||gleaminist.com^$third-party
 ||glical.com^$third-party
 ||global-success-club.net^$third-party
 ||globaladmedia.com^$third-party
@@ -4175,6 +4180,7 @@
 ||impressionperformance.biz^$third-party
 ||impressionvalue.mobi^$third-party
 ||in-appadvertising.com^$third-party
+||inadequal.com^$third-party
 ||incentaclick.com^$third-party
 ||incloak.com^$third-party
 ||incomeliberation.com^$third-party
@@ -5030,6 +5036,7 @@
 ||peemee.com^$third-party
 ||peer39.com^$third-party
 ||peer39.net^$third-party
+||pejqoq4cafo3bg9yqqqtk5e6s6.com^$third-party
 ||penuma.com^$third-party
 ||pepperjamnetwork.com^$third-party
 ||percularity.com^$third-party
@@ -5248,6 +5255,7 @@
 ||push2check.com^$third-party
 ||pussl10.com^$third-party
 ||pussl11.com^$third-party
+||pussl28.com^$third-party
 ||pussl4.com^$third-party
 ||putrr2.com^$third-party
 ||putrr3.com^$third-party
@@ -5659,6 +5667,7 @@
 ||srx.com.sg^$third-party
 ||ssl-services.com^$third-party
 ||ssl2anyone4.com^$third-party
+||ssl4anyone5.com^$third-party
 ||sslboost.com^$third-party
 ||sslcheckerapi.com^$third-party
 ||sta-ads.com^$third-party
