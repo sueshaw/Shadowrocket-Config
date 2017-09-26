@@ -444,6 +444,7 @@
 ||complexmedianetwork.com/js/cmnUNT.js
 ||comx-computers.co.za/banners/$third-party
 ||conduit.com//banners/$third-party
+||connect.facebook.net^*/fbevents.js$third-party
 ||connect.summit.co.uk^
 ||connectok.com/brightcove/?$domain=newsok.com
 ||consolpub.com/weatherwindow/
@@ -4326,6 +4327,7 @@
 ||jsretra.com^$third-party
 ||jssearch.net^$third-party
 ||jtrakk.com^$third-party
+||jubna.com^$third-party
 ||judicated.com^$third-party
 ||juiceadv.com^$third-party
 ||juiceadv.net^$third-party
@@ -6693,8 +6695,10 @@
 ||belwrite.com^$third-party
 ||bip-bip-blip.com^$third-party
 ||bipwrite.com^$third-party
+||bit-bork-boodle.com^$third-party
 ||bob-bob-bobble.com^$third-party
 ||bobblewrite.com^$third-party
+||boodlewrite.com^$third-party
 ||bororango.com^$third-party
 ||borotango.com^$third-party
 ||cap-cap-pop.com^$third-party

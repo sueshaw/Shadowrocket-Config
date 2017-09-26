@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-09-25 00:00:02.790613
+# Shadowrocket: 2017-09-26 00:00:02.900791
 # Shadowrocket config file by Hayden
 
 [General]
@@ -7983,6 +7983,7 @@ DOMAIN-SUFFIX,jsfeedadsget.com,REJECT
 DOMAIN-SUFFIX,jsretra.com,REJECT
 DOMAIN-SUFFIX,jssearch.net,REJECT
 DOMAIN-SUFFIX,jtrakk.com,REJECT
+DOMAIN-SUFFIX,jubna.com,REJECT
 DOMAIN-SUFFIX,judicated.com,REJECT
 DOMAIN-SUFFIX,juiceadv.com,REJECT
 DOMAIN-SUFFIX,juiceadv.net,REJECT
@@ -10300,8 +10301,10 @@ DOMAIN-SUFFIX,bandelcot.com,REJECT
 DOMAIN-SUFFIX,belwrite.com,REJECT
 DOMAIN-SUFFIX,bip-bip-blip.com,REJECT
 DOMAIN-SUFFIX,bipwrite.com,REJECT
+DOMAIN-SUFFIX,bit-bork-boodle.com,REJECT
 DOMAIN-SUFFIX,bob-bob-bobble.com,REJECT
 DOMAIN-SUFFIX,bobblewrite.com,REJECT
+DOMAIN-SUFFIX,boodlewrite.com,REJECT
 DOMAIN-SUFFIX,bororango.com,REJECT
 DOMAIN-SUFFIX,borotango.com,REJECT
 DOMAIN-SUFFIX,cap-cap-pop.com,REJECT
