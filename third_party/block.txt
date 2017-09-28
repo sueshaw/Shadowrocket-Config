@@ -2612,7 +2612,7 @@
 ||adyoz.com^$third-party
 ||adz.co.zw^$third-party
 ||adzbazar.com^$third-party
-||adzerk.net^$third-party
+||adzerk.net^$third-party,domain=~strava.com
 ||adzhub.com^$third-party
 ||adziff.com^$third-party
 ||adzintext.com^$third-party
@@ -6220,7 +6220,7 @@
 ||worthathousandwords.com^$third-party
 ||worthyadvertising.com^$third-party
 ||ws-gateway.com^$third-party
-||wsp.mgid.com^$third-party
+||wsp.mgid.com^
 ||wulium.com^$third-party
 ||wurea.com^$third-party
 ||wwbn.com^$third-party
