@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-09-29 00:00:03.324826
+# Shadowrocket: 2017-09-30 00:00:03.139561
 # Shadowrocket config file by Hayden
 
 [General]
@@ -5731,6 +5731,7 @@ DOMAIN-SUFFIX,2beon.co.kr,REJECT
 DOMAIN-SUFFIX,2d4c3870.info,REJECT
 DOMAIN-SUFFIX,2d4c3872.info,REJECT
 DOMAIN-SUFFIX,2dpt.com,REJECT
+DOMAIN-SUFFIX,2leep.com,REJECT
 DOMAIN-SUFFIX,2mdn.info,REJECT
 DOMAIN-SUFFIX,2mdn.net,REJECT
 DOMAIN-SUFFIX,2xbpub.com,REJECT
@@ -7084,7 +7085,6 @@ DOMAIN-SUFFIX,cpmaffiliation.com,REJECT
 DOMAIN-SUFFIX,cpmleader.com,REJECT
 DOMAIN-SUFFIX,cpmmedia.net,REJECT
 DOMAIN-SUFFIX,cpmrocket.com,REJECT
-DOMAIN-SUFFIX,cpmstar.com,REJECT
 DOMAIN-SUFFIX,cpmtree.com,REJECT
 DOMAIN-SUFFIX,cpuim.com,REJECT
 DOMAIN-SUFFIX,cpulaptop.com,REJECT
@@ -8098,6 +8098,7 @@ DOMAIN-SUFFIX,ligadx.com,REJECT
 DOMAIN-SUFFIX,ligational.com,REJECT
 DOMAIN-SUFFIX,lightad.co.kr,REJECT
 DOMAIN-SUFFIX,lightningcast.net,REJECT
+DOMAIN-SUFFIX,likecontrol.com,REJECT
 DOMAIN-SUFFIX,linicom.co.il,REJECT
 DOMAIN-SUFFIX,linicom.co.uk,REJECT
 DOMAIN-SUFFIX,linkbuddies.com,REJECT
@@ -8673,6 +8674,7 @@ DOMAIN-SUFFIX,partypoker.com,REJECT
 DOMAIN-SUFFIX,pas-rahav.com,REJECT
 DOMAIN-SUFFIX,passionfruitads.com,REJECT
 DOMAIN-SUFFIX,passive-earner.com,REJECT
+DOMAIN-SUFFIX,patecrafts.com,REJECT
 DOMAIN-SUFFIX,patiland.co,REJECT
 DOMAIN-SUFFIX,pautaspr.com,REJECT
 DOMAIN-SUFFIX,pay-click.ru,REJECT
@@ -8908,6 +8910,7 @@ DOMAIN-SUFFIX,puserving.com,REJECT
 DOMAIN-SUFFIX,push2check.com,REJECT
 DOMAIN-SUFFIX,pussl10.com,REJECT
 DOMAIN-SUFFIX,pussl11.com,REJECT
+DOMAIN-SUFFIX,pussl13.com,REJECT
 DOMAIN-SUFFIX,pussl28.com,REJECT
 DOMAIN-SUFFIX,pussl4.com,REJECT
 DOMAIN-SUFFIX,putrr2.com,REJECT
@@ -9467,6 +9470,7 @@ DOMAIN-SUFFIX,theodosium.com,REJECT
 DOMAIN-SUFFIX,thepiratereactor.net,REJECT
 DOMAIN-SUFFIX,thewebgemnetwork.com,REJECT
 DOMAIN-SUFFIX,thewheelof.com,REJECT
+DOMAIN-SUFFIX,thisiswaldo.com,REJECT
 DOMAIN-SUFFIX,thoseads.com,REJECT
 DOMAIN-SUFFIX,thoughtleadr.com,REJECT
 DOMAIN-SUFFIX,thoughtsondance.info,REJECT
