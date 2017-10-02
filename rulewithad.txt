@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-01 00:00:03.235242
+# Shadowrocket: 2017-10-02 00:00:02.669049
 # Shadowrocket config file by Hayden
 
 [General]
@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,beeg.com,Proxy
 DOMAIN-SUFFIX,global.bing.com,Proxy
 DOMAIN-SUFFIX,bloombergview.com,Proxy
 DOMAIN-SUFFIX,boysmaster.com,Proxy
+DOMAIN-SUFFIX,bynet.co.il,Proxy
 DOMAIN-SUFFIX,carfax.com,Proxy
 DOMAIN-SUFFIX,casinobellini.com,Proxy
 DOMAIN-SUFFIX,centauro.com.br,Proxy
@@ -93,6 +94,7 @@ DOMAIN-SUFFIX,kendatire.com,Proxy
 DOMAIN-SUFFIX,khatrimaza.org,Proxy
 DOMAIN-SUFFIX,kkbox.com,Proxy
 DOMAIN-SUFFIX,leisurepro.com,Proxy
+DOMAIN-SUFFIX,lifemiles.com,Proxy
 DOMAIN-SUFFIX,longtoes.com,Proxy
 DOMAIN-SUFFIX,lovetvshow.com,Proxy
 DOMAIN-SUFFIX,www.m-sport.co.uk,Proxy
@@ -783,6 +785,7 @@ DOMAIN-SUFFIX,alliance.org.hk,Proxy
 DOMAIN-SUFFIX,allinfa.com,Proxy
 DOMAIN-SUFFIX,alljackpotscasino.com,Proxy
 DOMAIN-SUFFIX,allmovie.com,Proxy
+DOMAIN-SUFFIX,almasdarnews.com,Proxy
 DOMAIN-SUFFIX,alphaporno.com,Proxy
 DOMAIN-SUFFIX,alternate-tools.com,Proxy
 DOMAIN-SUFFIX,alternativeto.net,Proxy
@@ -2632,6 +2635,7 @@ DOMAIN-SUFFIX,keycdn.com,Proxy
 DOMAIN-SUFFIX,khabdha.org,Proxy
 DOMAIN-SUFFIX,khmusic.com.tw,Proxy
 DOMAIN-SUFFIX,kichiku-doujinko.com,Proxy
+DOMAIN-SUFFIX,kik.com,Proxy
 DOMAIN-SUFFIX,bbs.kimy.com.tw,Proxy
 DOMAIN-SUFFIX,kindleren.com,Proxy
 DOMAIN-SUFFIX,www.kindleren.com,Proxy
@@ -4054,6 +4058,7 @@ DOMAIN-SUFFIX,teck.in,Proxy
 DOMAIN-SUFFIX,teeniefuck.net,Proxy
 DOMAIN-SUFFIX,teensinasia.com,Proxy
 DOMAIN-SUFFIX,telecomspace.com,Proxy
+DOMAIN-SUFFIX,telegram.dog,Proxy
 DOMAIN-SUFFIX,telegram.org,Proxy
 DOMAIN-SUFFIX,telegramdownload.com,Proxy
 DOMAIN-SUFFIX,telegraph.co.uk,Proxy
@@ -4698,6 +4703,7 @@ DOMAIN-SUFFIX,whatblocked.com,Proxy
 DOMAIN-SUFFIX,wheatseeds.org,Proxy
 DOMAIN-SUFFIX,wheelockslatin.com,Proxy
 DOMAIN-SUFFIX,whippedass.com,Proxy
+DOMAIN-SUFFIX,whoer.net,Proxy
 DOMAIN-SUFFIX,whotalking.com,Proxy
 DOMAIN-SUFFIX,whylover.com,Proxy
 DOMAIN-SUFFIX,whyx.org,Proxy
@@ -8754,6 +8760,7 @@ DOMAIN-SUFFIX,plexop.net,REJECT
 DOMAIN-SUFFIX,pllddc.com,REJECT
 DOMAIN-SUFFIX,plocap.com,REJECT
 DOMAIN-SUFFIX,plopx.com,REJECT
+DOMAIN-SUFFIX,plufdsa.com,REJECT
 DOMAIN-SUFFIX,plugerr.com,REJECT
 DOMAIN-SUFFIX,plugs.co,REJECT
 DOMAIN-SUFFIX,plusfind.net,REJECT
