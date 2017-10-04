@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-03 00:00:02.863139
+# Shadowrocket: 2017-10-04 00:00:02.836789
 # Shadowrocket config file by Hayden
 
 [General]
@@ -5565,6 +5565,7 @@ DOMAIN-SUFFIX,roia.hutchmedia.com,REJECT
 DOMAIN-SUFFIX,rotabanner.kulichki.net,REJECT
 DOMAIN-SUFFIX,rotator.tradetracker.net,REJECT
 DOMAIN-SUFFIX,rover.ebay.com,REJECT
+DOMAIN-SUFFIX,rsasearch.co.za,REJECT
 DOMAIN-SUFFIX,rtax.criteo.com,REJECT
 DOMAIN-SUFFIX,rya.rockyou.com,REJECT
 DOMAIN-SUFFIX,s-yoolk-banner-assets.yoolk.com,REJECT
