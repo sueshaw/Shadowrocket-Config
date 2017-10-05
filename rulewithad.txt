@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-04 00:00:02.836789
+# Shadowrocket: 2017-10-05 00:00:02.914339
 # Shadowrocket config file by Hayden
 
 [General]
@@ -163,6 +163,7 @@ DOMAIN-SUFFIX,superokayama.com,Proxy
 DOMAIN-SUFFIX,superpages.com,Proxy
 DOMAIN-SUFFIX,swagbucks.com,Proxy
 DOMAIN-SUFFIX,switch1.jp,Proxy
+DOMAIN-SUFFIX,t.me,Proxy
 DOMAIN-SUFFIX,tapanwap.com,Proxy
 DOMAIN-SUFFIX,target.com,Proxy
 DOMAIN-SUFFIX,thebodyshop-usa.com,Proxy
@@ -1375,8 +1376,8 @@ DOMAIN-SUFFIX,coolncute.com,Proxy
 DOMAIN-SUFFIX,corumcollege.com,Proxy
 DOMAIN-SUFFIX,cos-moe.com,Proxy
 DOMAIN-SUFFIX,cosplayjav.pl,Proxy
-DOMAIN-SUFFIX,couchdbwiki.com,Proxy
 DOMAIN-SUFFIX,cotweet.com,Proxy
+DOMAIN-SUFFIX,coursehero.com,Proxy
 DOMAIN-SUFFIX,cpj.org,Proxy
 DOMAIN-SUFFIX,cq99.us,Proxy
 DOMAIN-SUFFIX,crackle.com,Proxy
@@ -1666,6 +1667,7 @@ DOMAIN-SUFFIX,epochweekly.com,Proxy
 DOMAIN-SUFFIX,eporner.com,Proxy
 DOMAIN-SUFFIX,equinenow.com,Proxy
 DOMAIN-SUFFIX,erabaru.net,Proxy
+DOMAIN-SUFFIX,eracom.com.tw,Proxy
 DOMAIN-SUFFIX,eraysoft.com.tr,Proxy
 DOMAIN-SUFFIX,erepublik.com,Proxy
 DOMAIN-SUFFIX,erights.net,Proxy
@@ -3698,6 +3700,7 @@ DOMAIN-SUFFIX,sesawe.net,Proxy
 DOMAIN-SUFFIX,sesawe.org,Proxy
 DOMAIN-SUFFIX,sethwklein.net,Proxy
 DOMAIN-SUFFIX,setn.com,Proxy
+DOMAIN-SUFFIX,settv.com.tw,Proxy
 DOMAIN-SUFFIX,forum.setty.com.tw,Proxy
 DOMAIN-SUFFIX,sevenload.com,Proxy
 DOMAIN-SUFFIX,sex.com,Proxy
@@ -4228,6 +4231,7 @@ DOMAIN-SUFFIX,toonel.net,Proxy
 DOMAIN-SUFFIX,top81.ws,Proxy
 DOMAIN-SUFFIX,topnews.in,Proxy
 DOMAIN-SUFFIX,torguard.net,Proxy
+DOMAIN-SUFFIX,top.tv,Proxy
 DOMAIN-SUFFIX,topshareware.com,Proxy
 DOMAIN-SUFFIX,topsy.com,Proxy
 DOMAIN-SUFFIX,toptip.ca,Proxy
@@ -4801,6 +4805,7 @@ DOMAIN-SUFFIX,wuguoguang.com,Proxy
 DOMAIN-SUFFIX,wujie.net,Proxy
 DOMAIN-SUFFIX,wujieliulan.com,Proxy
 DOMAIN-SUFFIX,wukangrui.net,Proxy
+DOMAIN-SUFFIX,wuw.red,Proxy
 DOMAIN-SUFFIX,wwitv.com,Proxy
 DOMAIN-SUFFIX,wzyboy.im,Proxy
 DOMAIN-SUFFIX,x-berry.com,Proxy
@@ -7814,6 +7819,7 @@ DOMAIN-SUFFIX,ifmnwi.club,REJECT
 DOMAIN-SUFFIX,iframe.mediaplazza.com,REJECT
 DOMAIN-SUFFIX,ifyoublockthisvideotoo.club,REJECT
 DOMAIN-SUFFIX,igameunion.com,REJECT
+DOMAIN-SUFFIX,igligan.info,REJECT
 DOMAIN-SUFFIX,igloohq.com,REJECT
 DOMAIN-SUFFIX,ignitioninstaller.com,REJECT
 DOMAIN-SUFFIX,iicheewi.com,REJECT
@@ -7933,6 +7939,7 @@ DOMAIN-SUFFIX,ipredictive.com,REJECT
 DOMAIN-SUFFIX,iproblet.com,REJECT
 DOMAIN-SUFFIX,ipromote.com,REJECT
 DOMAIN-SUFFIX,ipsowrite.com,REJECT
+DOMAIN-SUFFIX,irboga.info,REJECT
 DOMAIN-SUFFIX,isapi.solutions,REJECT
 DOMAIN-SUFFIX,islationa.com,REJECT
 DOMAIN-SUFFIX,isohits.com,REJECT
@@ -8167,6 +8174,7 @@ DOMAIN-SUFFIX,lushcrush.com,REJECT
 DOMAIN-SUFFIX,luxadv.com,REJECT
 DOMAIN-SUFFIX,luxbetaffiliates.com.au,REJECT
 DOMAIN-SUFFIX,luxup.ru,REJECT
+DOMAIN-SUFFIX,lvodomi.info,REJECT
 DOMAIN-SUFFIX,lx2rv.com,REJECT
 DOMAIN-SUFFIX,lzjl.com,REJECT
 DOMAIN-SUFFIX,m1.fwmrm.net,REJECT
@@ -8380,6 +8388,7 @@ DOMAIN-SUFFIX,mpnrs.com,REJECT
 DOMAIN-SUFFIX,mpression.net,REJECT
 DOMAIN-SUFFIX,mprezchc.com,REJECT
 DOMAIN-SUFFIX,mpuls.ru,REJECT
+DOMAIN-SUFFIX,mrelko.com,REJECT
 DOMAIN-SUFFIX,mrperfect.in,REJECT
 DOMAIN-SUFFIX,msads.net,REJECT
 DOMAIN-SUFFIX,msypr.com,REJECT
@@ -9654,6 +9663,7 @@ DOMAIN-SUFFIX,ukulelead.com,REJECT
 DOMAIN-SUFFIX,ulife17yeter.com,REJECT
 DOMAIN-SUFFIX,ultimategracelessness.info,REJECT
 DOMAIN-SUFFIX,umamdmo.com,REJECT
+DOMAIN-SUFFIX,umekana.ru,REJECT
 DOMAIN-SUFFIX,unanimis.co.uk,REJECT
 DOMAIN-SUFFIX,underclick.ru,REJECT
 DOMAIN-SUFFIX,underdog.media,REJECT
@@ -9812,6 +9822,7 @@ DOMAIN-SUFFIX,wat.ipowerapps.com,REJECT
 DOMAIN-SUFFIX,watchfree.flv.in,REJECT
 DOMAIN-SUFFIX,watchnowlive.eu,REJECT
 DOMAIN-SUFFIX,wateristian.com,REJECT
+DOMAIN-SUFFIX,waveview.info,REJECT
 DOMAIN-SUFFIX,waycash.net,REJECT
 DOMAIN-SUFFIX,waymp.com,REJECT
 DOMAIN-SUFFIX,wbptqzmv.com,REJECT
@@ -9900,6 +9911,7 @@ DOMAIN-SUFFIX,xjfjx8hw.com,REJECT
 DOMAIN-SUFFIX,xmasdom.com,REJECT
 DOMAIN-SUFFIX,xmaswrite.com,REJECT
 DOMAIN-SUFFIX,xmlconfig.ltassrv.com,REJECT
+DOMAIN-SUFFIX,xoalt.com,REJECT
 DOMAIN-SUFFIX,xpanama.net,REJECT
 DOMAIN-SUFFIX,xs.mochiads.com,REJECT
 DOMAIN-SUFFIX,xtcie.com,REJECT

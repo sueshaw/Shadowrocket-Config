@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-04 00:00:02.836753
+# Shadowrocket: 2017-10-05 00:00:02.914302
 # Shadowrocket config file by Hayden
 
 [General]
@@ -163,6 +163,7 @@ DOMAIN-SUFFIX,superokayama.com,Proxy
 DOMAIN-SUFFIX,superpages.com,Proxy
 DOMAIN-SUFFIX,swagbucks.com,Proxy
 DOMAIN-SUFFIX,switch1.jp,Proxy
+DOMAIN-SUFFIX,t.me,Proxy
 DOMAIN-SUFFIX,tapanwap.com,Proxy
 DOMAIN-SUFFIX,target.com,Proxy
 DOMAIN-SUFFIX,thebodyshop-usa.com,Proxy
@@ -1375,8 +1376,8 @@ DOMAIN-SUFFIX,coolncute.com,Proxy
 DOMAIN-SUFFIX,corumcollege.com,Proxy
 DOMAIN-SUFFIX,cos-moe.com,Proxy
 DOMAIN-SUFFIX,cosplayjav.pl,Proxy
-DOMAIN-SUFFIX,couchdbwiki.com,Proxy
 DOMAIN-SUFFIX,cotweet.com,Proxy
+DOMAIN-SUFFIX,coursehero.com,Proxy
 DOMAIN-SUFFIX,cpj.org,Proxy
 DOMAIN-SUFFIX,cq99.us,Proxy
 DOMAIN-SUFFIX,crackle.com,Proxy
@@ -1666,6 +1667,7 @@ DOMAIN-SUFFIX,epochweekly.com,Proxy
 DOMAIN-SUFFIX,eporner.com,Proxy
 DOMAIN-SUFFIX,equinenow.com,Proxy
 DOMAIN-SUFFIX,erabaru.net,Proxy
+DOMAIN-SUFFIX,eracom.com.tw,Proxy
 DOMAIN-SUFFIX,eraysoft.com.tr,Proxy
 DOMAIN-SUFFIX,erepublik.com,Proxy
 DOMAIN-SUFFIX,erights.net,Proxy
@@ -3698,6 +3700,7 @@ DOMAIN-SUFFIX,sesawe.net,Proxy
 DOMAIN-SUFFIX,sesawe.org,Proxy
 DOMAIN-SUFFIX,sethwklein.net,Proxy
 DOMAIN-SUFFIX,setn.com,Proxy
+DOMAIN-SUFFIX,settv.com.tw,Proxy
 DOMAIN-SUFFIX,forum.setty.com.tw,Proxy
 DOMAIN-SUFFIX,sevenload.com,Proxy
 DOMAIN-SUFFIX,sex.com,Proxy
@@ -4228,6 +4231,7 @@ DOMAIN-SUFFIX,toonel.net,Proxy
 DOMAIN-SUFFIX,top81.ws,Proxy
 DOMAIN-SUFFIX,topnews.in,Proxy
 DOMAIN-SUFFIX,torguard.net,Proxy
+DOMAIN-SUFFIX,top.tv,Proxy
 DOMAIN-SUFFIX,topshareware.com,Proxy
 DOMAIN-SUFFIX,topsy.com,Proxy
 DOMAIN-SUFFIX,toptip.ca,Proxy
@@ -4801,6 +4805,7 @@ DOMAIN-SUFFIX,wuguoguang.com,Proxy
 DOMAIN-SUFFIX,wujie.net,Proxy
 DOMAIN-SUFFIX,wujieliulan.com,Proxy
 DOMAIN-SUFFIX,wukangrui.net,Proxy
+DOMAIN-SUFFIX,wuw.red,Proxy
 DOMAIN-SUFFIX,wwitv.com,Proxy
 DOMAIN-SUFFIX,wzyboy.im,Proxy
 DOMAIN-SUFFIX,x-berry.com,Proxy
