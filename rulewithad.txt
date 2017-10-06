@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-05 00:00:02.914339
+# Shadowrocket: 2017-10-06 00:00:03.147640
 # Shadowrocket config file by Hayden
 
 [General]
@@ -7819,7 +7819,6 @@ DOMAIN-SUFFIX,ifmnwi.club,REJECT
 DOMAIN-SUFFIX,iframe.mediaplazza.com,REJECT
 DOMAIN-SUFFIX,ifyoublockthisvideotoo.club,REJECT
 DOMAIN-SUFFIX,igameunion.com,REJECT
-DOMAIN-SUFFIX,igligan.info,REJECT
 DOMAIN-SUFFIX,igloohq.com,REJECT
 DOMAIN-SUFFIX,ignitioninstaller.com,REJECT
 DOMAIN-SUFFIX,iicheewi.com,REJECT
@@ -7939,7 +7938,6 @@ DOMAIN-SUFFIX,ipredictive.com,REJECT
 DOMAIN-SUFFIX,iproblet.com,REJECT
 DOMAIN-SUFFIX,ipromote.com,REJECT
 DOMAIN-SUFFIX,ipsowrite.com,REJECT
-DOMAIN-SUFFIX,irboga.info,REJECT
 DOMAIN-SUFFIX,isapi.solutions,REJECT
 DOMAIN-SUFFIX,islationa.com,REJECT
 DOMAIN-SUFFIX,isohits.com,REJECT
@@ -8174,7 +8172,6 @@ DOMAIN-SUFFIX,lushcrush.com,REJECT
 DOMAIN-SUFFIX,luxadv.com,REJECT
 DOMAIN-SUFFIX,luxbetaffiliates.com.au,REJECT
 DOMAIN-SUFFIX,luxup.ru,REJECT
-DOMAIN-SUFFIX,lvodomi.info,REJECT
 DOMAIN-SUFFIX,lx2rv.com,REJECT
 DOMAIN-SUFFIX,lzjl.com,REJECT
 DOMAIN-SUFFIX,m1.fwmrm.net,REJECT
@@ -10345,6 +10342,8 @@ DOMAIN-SUFFIX,dogwrite.com,REJECT
 DOMAIN-SUFFIX,erniphiq.com,REJECT
 DOMAIN-SUFFIX,garo-garo-osh.com,REJECT
 DOMAIN-SUFFIX,garowrite.com,REJECT
+DOMAIN-SUFFIX,ge-ge-force.com,REJECT
+DOMAIN-SUFFIX,gefwrite.com,REJECT
 DOMAIN-SUFFIX,givingsol.com,REJECT
 DOMAIN-SUFFIX,glo-glo-oom.com,REJECT
 DOMAIN-SUFFIX,hash-hash-tag.com,REJECT
@@ -13089,6 +13088,46 @@ DOMAIN-SUFFIX,z4pick.com,REJECT
 DOMAIN-SUFFIX,ziccardia.com,REJECT
 DOMAIN-SUFFIX,zomri.net,REJECT
 DOMAIN-SUFFIX,zrfrornn.net,REJECT
+DOMAIN-SUFFIX,adalgo.info,REJECT
+DOMAIN-SUFFIX,ahvawat.info,REJECT
+DOMAIN-SUFFIX,asinole.info,REJECT
+DOMAIN-SUFFIX,asmosi.info,REJECT
+DOMAIN-SUFFIX,berkuri.info,REJECT
+DOMAIN-SUFFIX,chakryzh.info,REJECT
+DOMAIN-SUFFIX,depodub.info,REJECT
+DOMAIN-SUFFIX,eldogal.info,REJECT
+DOMAIN-SUFFIX,endile.info,REJECT
+DOMAIN-SUFFIX,estocaf.info,REJECT
+DOMAIN-SUFFIX,exwazar.info,REJECT
+DOMAIN-SUFFIX,hranere.info,REJECT
+DOMAIN-SUFFIX,igligan.info,REJECT
+DOMAIN-SUFFIX,iltevo.info,REJECT
+DOMAIN-SUFFIX,irboga.info,REJECT
+DOMAIN-SUFFIX,khimsaba.info,REJECT
+DOMAIN-SUFFIX,khonosta.info,REJECT
+DOMAIN-SUFFIX,loronap.info,REJECT
+DOMAIN-SUFFIX,lvodomi.info,REJECT
+DOMAIN-SUFFIX,medlero.info,REJECT
+DOMAIN-SUFFIX,milyeda.info,REJECT
+DOMAIN-SUFFIX,movlaba.info,REJECT
+DOMAIN-SUFFIX,moydato.info,REJECT
+DOMAIN-SUFFIX,nekopod.info,REJECT
+DOMAIN-SUFFIX,nimatey.info,REJECT
+DOMAIN-SUFFIX,nycvetu.info,REJECT
+DOMAIN-SUFFIX,obzatop.info,REJECT
+DOMAIN-SUFFIX,okvari.info,REJECT
+DOMAIN-SUFFIX,okvedvo.info,REJECT
+DOMAIN-SUFFIX,omsama.info,REJECT
+DOMAIN-SUFFIX,onatozo.info,REJECT
+DOMAIN-SUFFIX,otmonog.info,REJECT
+DOMAIN-SUFFIX,pistoma.info,REJECT
+DOMAIN-SUFFIX,rabela.info,REJECT
+DOMAIN-SUFFIX,shiloso.info,REJECT
+DOMAIN-SUFFIX,siwbori.info,REJECT
+DOMAIN-SUFFIX,tralifa.info,REJECT
+DOMAIN-SUFFIX,tupho.info,REJECT
+DOMAIN-SUFFIX,yaramol.info,REJECT
+DOMAIN-SUFFIX,zhinkichi.info,REJECT
 DOMAIN-SUFFIX,voodoo.com,REJECT
 DOMAIN-KEYWORD,google,Proxy
 
