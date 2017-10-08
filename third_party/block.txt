@@ -2008,6 +2008,7 @@
 ||778669.com^$third-party
 ||78.138.126.253^$third-party
 ||78.140.131.214^
+||78tdd75.com^$third-party
 ||7insight.com^$third-party
 ||7pud.com^$third-party
 ||7search.com^$third-party
@@ -2165,6 +2166,7 @@
 ||addaim.com^$third-party
 ||addelive.com^$third-party
 ||addiply.com^$third-party
+||addkt.com^$third-party
 ||addoer.com^$third-party
 ||addroid.com^$third-party
 ||addynamics.eu^$third-party
@@ -6354,7 +6356,9 @@
 ||zidae.com^$third-party
 ||ziffdavis.com^$third-party
 ||zipropyl.com^$third-party
+||zisboombah.net^$third-party
 ||zjk24.com^$third-party
+||zm232.com^$third-party
 ||znaptag.com^$third-party
 ||zoglafi.info^$third-party
 ||zompmedia.com^$third-party
