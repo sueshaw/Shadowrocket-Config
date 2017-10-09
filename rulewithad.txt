@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-08 00:00:02.579635
+# Shadowrocket: 2017-10-09 00:00:02.712893
 # Shadowrocket config file by Hayden
 
 [General]
@@ -125,6 +125,7 @@ DOMAIN-SUFFIX,nflximg.net,Proxy
 DOMAIN-SUFFIX,nflxext.com,Proxy
 DOMAIN-SUFFIX,nflxso.net,Proxy
 DOMAIN-SUFFIX,nflxvideo.net,Proxy
+DOMAIN-SUFFIX,nic.gov,Proxy
 DOMAIN-SUFFIX,mo.nightlife141.com,Proxy
 DOMAIN-SUFFIX,nordstrom.com,Proxy
 DOMAIN-SUFFIX,nordstromimage.com,Proxy
@@ -5003,7 +5004,6 @@ DOMAIN-SUFFIX,book.zi5.me,Proxy
 DOMAIN-SUFFIX,ziddu.com,Proxy
 DOMAIN-SUFFIX,zillionk.com,Proxy
 DOMAIN-SUFFIX,zinio.com,Proxy
-DOMAIN-SUFFIX,ziplib.com,Proxy
 DOMAIN-SUFFIX,ziporn.com,Proxy
 DOMAIN-SUFFIX,zkaip.com,Proxy
 DOMAIN-SUFFIX,realforum.zkiz.com,Proxy
@@ -5841,6 +5841,7 @@ DOMAIN-SUFFIX,accounts.pkr.com,REJECT
 DOMAIN-SUFFIX,accumulatork.com,REJECT
 DOMAIN-SUFFIX,accuserveadsystem.com,REJECT
 DOMAIN-SUFFIX,acf-webmaster.net,REJECT
+DOMAIN-SUFFIX,acknowinge.info,REJECT
 DOMAIN-SUFFIX,acronym.com,REJECT
 DOMAIN-SUFFIX,acrossiblel.info,REJECT
 DOMAIN-SUFFIX,actiondesk.com,REJECT
@@ -5958,6 +5959,7 @@ DOMAIN-SUFFIX,adengage.com,REJECT
 DOMAIN-SUFFIX,adespresso.com,REJECT
 DOMAIN-SUFFIX,adexc.net,REJECT
 DOMAIN-SUFFIX,adexchange.io,REJECT
+DOMAIN-SUFFIX,adexchangegate.com,REJECT
 DOMAIN-SUFFIX,adexchangeprediction.com,REJECT
 DOMAIN-SUFFIX,adexcite.com,REJECT
 DOMAIN-SUFFIX,adexprt.com,REJECT
@@ -6125,6 +6127,7 @@ DOMAIN-SUFFIX,adovida.com,REJECT
 DOMAIN-SUFFIX,adowner.net,REJECT
 DOMAIN-SUFFIX,adpacks.com,REJECT
 DOMAIN-SUFFIX,adparlor.com,REJECT
+DOMAIN-SUFFIX,adpass.co.uk,REJECT
 DOMAIN-SUFFIX,adpath.mobi,REJECT
 DOMAIN-SUFFIX,adpay.com,REJECT
 DOMAIN-SUFFIX,adpays.net,REJECT
@@ -6730,6 +6733,7 @@ DOMAIN-SUFFIX,binlayer.com,REJECT
 DOMAIN-SUFFIX,binlayer.de,REJECT
 DOMAIN-SUFFIX,biskerando.com,REJECT
 DOMAIN-SUFFIX,bitads.net,REJECT
+DOMAIN-SUFFIX,bitcoadz.io,REJECT
 DOMAIN-SUFFIX,bitcoinadvertisers.com,REJECT
 DOMAIN-SUFFIX,bitfalcon.tv,REJECT
 DOMAIN-SUFFIX,bittads.com,REJECT
@@ -6842,6 +6846,7 @@ DOMAIN-SUFFIX,buyflood.com,REJECT
 DOMAIN-SUFFIX,buyorselltnhomes.com,REJECT
 DOMAIN-SUFFIX,buysellads.com,REJECT
 DOMAIN-SUFFIX,buyt.in,REJECT
+DOMAIN-SUFFIX,buzzadexchange.com,REJECT
 DOMAIN-SUFFIX,buzzcity.net,REJECT
 DOMAIN-SUFFIX,buzzparadise.com,REJECT
 DOMAIN-SUFFIX,bwinpartypartners.com,REJECT
@@ -7607,6 +7612,7 @@ DOMAIN-SUFFIX,genericsteps.com,REJECT
 DOMAIN-SUFFIX,genesismedia.com,REJECT
 DOMAIN-SUFFIX,geniad.net,REJECT
 DOMAIN-SUFFIX,genieessp.com,REJECT
+DOMAIN-SUFFIX,geniusdisplay.com,REJECT
 DOMAIN-SUFFIX,genotba.online,REJECT
 DOMAIN-SUFFIX,genovesetacet.com,REJECT
 DOMAIN-SUFFIX,genusaceracousticophobia.com,REJECT
@@ -8221,6 +8227,7 @@ DOMAIN-SUFFIX,mathads.com,REJECT
 DOMAIN-SUFFIX,matiro.com,REJECT
 DOMAIN-SUFFIX,maudau.com,REJECT
 DOMAIN-SUFFIX,maxcorpmedia.com,REJECT
+DOMAIN-SUFFIX,maxonclick.com,REJECT
 DOMAIN-SUFFIX,maxserving.com,REJECT
 DOMAIN-SUFFIX,mb01.com,REJECT
 DOMAIN-SUFFIX,mb102.com,REJECT
@@ -8921,6 +8928,7 @@ DOMAIN-SUFFIX,pullcdn.top,REJECT
 DOMAIN-SUFFIX,pulpyads.com,REJECT
 DOMAIN-SUFFIX,pulse360.com,REJECT
 DOMAIN-SUFFIX,pulsemgr.com,REJECT
+DOMAIN-SUFFIX,pulseonclick.com,REJECT
 DOMAIN-SUFFIX,purpleflag.net,REJECT
 DOMAIN-SUFFIX,puserving.com,REJECT
 DOMAIN-SUFFIX,push2check.com,REJECT
@@ -9157,6 +9165,7 @@ DOMAIN-SUFFIX,secure-softwaremanager.com,REJECT
 DOMAIN-SUFFIX,securesoft.info,REJECT
 DOMAIN-SUFFIX,securewebsiteaccess.com,REJECT
 DOMAIN-SUFFIX,securitain.com,REJECT
+DOMAIN-SUFFIX,secursors.com,REJECT
 DOMAIN-SUFFIX,sedoparking.com,REJECT
 DOMAIN-SUFFIX,seductionprofits.com,REJECT
 DOMAIN-SUFFIX,seegamese.com,REJECT
@@ -9725,6 +9734,7 @@ DOMAIN-SUFFIX,velmedia.net,REJECT
 DOMAIN-SUFFIX,velti.com,REJECT
 DOMAIN-SUFFIX,vemba.com,REJECT
 DOMAIN-SUFFIX,vendexo.com,REJECT
+DOMAIN-SUFFIX,venturead.com,REJECT
 DOMAIN-SUFFIX,venusbux.com,REJECT
 DOMAIN-SUFFIX,veoxa.com,REJECT
 DOMAIN-SUFFIX,verata.xyz,REJECT
@@ -9911,7 +9921,6 @@ DOMAIN-SUFFIX,xmasdom.com,REJECT
 DOMAIN-SUFFIX,xmaswrite.com,REJECT
 DOMAIN-SUFFIX,xmlconfig.ltassrv.com,REJECT
 DOMAIN-SUFFIX,xoalt.com,REJECT
-DOMAIN-SUFFIX,xpanama.net,REJECT
 DOMAIN-SUFFIX,xs.mochiads.com,REJECT
 DOMAIN-SUFFIX,xtcie.com,REJECT
 DOMAIN-SUFFIX,xtendadvert.com,REJECT
@@ -9949,6 +9958,7 @@ DOMAIN-SUFFIX,yieldmanager.com,REJECT
 DOMAIN-SUFFIX,yieldmanager.net,REJECT
 DOMAIN-SUFFIX,yieldoptimizer.com,REJECT
 DOMAIN-SUFFIX,yieldselect.com,REJECT
+DOMAIN-SUFFIX,yieldtraffic.com,REJECT
 DOMAIN-SUFFIX,yieldx.com,REJECT
 DOMAIN-SUFFIX,yiq6p.com,REJECT
 DOMAIN-SUFFIX,yjxuda0oi.com,REJECT

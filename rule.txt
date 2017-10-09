@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-08 00:00:02.579600
+# Shadowrocket: 2017-10-09 00:00:02.712845
 # Shadowrocket config file by Hayden
 
 [General]
@@ -125,6 +125,7 @@ DOMAIN-SUFFIX,nflximg.net,Proxy
 DOMAIN-SUFFIX,nflxext.com,Proxy
 DOMAIN-SUFFIX,nflxso.net,Proxy
 DOMAIN-SUFFIX,nflxvideo.net,Proxy
+DOMAIN-SUFFIX,nic.gov,Proxy
 DOMAIN-SUFFIX,mo.nightlife141.com,Proxy
 DOMAIN-SUFFIX,nordstrom.com,Proxy
 DOMAIN-SUFFIX,nordstromimage.com,Proxy
@@ -5003,7 +5004,6 @@ DOMAIN-SUFFIX,book.zi5.me,Proxy
 DOMAIN-SUFFIX,ziddu.com,Proxy
 DOMAIN-SUFFIX,zillionk.com,Proxy
 DOMAIN-SUFFIX,zinio.com,Proxy
-DOMAIN-SUFFIX,ziplib.com,Proxy
 DOMAIN-SUFFIX,ziporn.com,Proxy
 DOMAIN-SUFFIX,zkaip.com,Proxy
 DOMAIN-SUFFIX,realforum.zkiz.com,Proxy
