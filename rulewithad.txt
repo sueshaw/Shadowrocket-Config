@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-09 00:00:02.712893
+# Shadowrocket: 2017-10-10 00:00:03.175097
 # Shadowrocket config file by Hayden
 
 [General]
@@ -167,6 +167,8 @@ DOMAIN-SUFFIX,switch1.jp,Proxy
 DOMAIN-SUFFIX,t.me,Proxy
 DOMAIN-SUFFIX,tapanwap.com,Proxy
 DOMAIN-SUFFIX,target.com,Proxy
+DOMAIN-SUFFIX,updates.tdesktop.com,Proxy
+DOMAIN-SUFFIX,telegram.me,Proxy
 DOMAIN-SUFFIX,thebodyshop-usa.com,Proxy
 DOMAIN-SUFFIX,tma.co.jp,Proxy
 DOMAIN-SUFFIX,tracfone.com,Proxy
@@ -1366,6 +1368,7 @@ DOMAIN-SUFFIX,commentshk.com,Proxy
 DOMAIN-SUFFIX,communistcrimes.org,Proxy
 DOMAIN-SUFFIX,communitychoicecu.com,Proxy
 DOMAIN-SUFFIX,compileheart.com,Proxy
+DOMAIN-SUFFIX,conoha.jp,Proxy
 DOMAIN-SUFFIX,contactmagazine.net,Proxy
 DOMAIN-SUFFIX,convio.net,Proxy
 DOMAIN-SUFFIX,coobay.com,Proxy
@@ -2460,6 +2463,7 @@ DOMAIN-SUFFIX,internetfreedom.org,Proxy
 DOMAIN-SUFFIX,internetpopculture.com,Proxy
 DOMAIN-SUFFIX,inxian.com,Proxy
 DOMAIN-SUFFIX,ipalter.com,Proxy
+DOMAIN-SUFFIX,ipfire.org,Proxy
 DOMAIN-SUFFIX,iphone4hongkong.com,Proxy
 DOMAIN-SUFFIX,iphonehacks.com,Proxy
 DOMAIN-SUFFIX,iphonetaiwan.org,Proxy
@@ -2615,6 +2619,7 @@ DOMAIN-SUFFIX,kalachakralugano.org,Proxy
 DOMAIN-SUFFIX,kankan.today,Proxy
 DOMAIN-SUFFIX,kannewyork.com,Proxy
 DOMAIN-SUFFIX,kanshifang.com,Proxy
+DOMAIN-SUFFIX,kantie.org,Proxy
 DOMAIN-SUFFIX,kanzhongguo.com,Proxy
 DOMAIN-SUFFIX,kanzhongguo.eu,Proxy
 DOMAIN-SUFFIX,kaotic.com,Proxy
@@ -3514,6 +3519,7 @@ DOMAIN-SUFFIX,python.com.tw,Proxy
 DOMAIN-SUFFIX,pythonhackers.com,Proxy
 DOMAIN-SUFFIX,qanote.com,Proxy
 DOMAIN-SUFFIX,qgirl.com.tw,Proxy
+DOMAIN-SUFFIX,qiandao.today,Proxy
 DOMAIN-SUFFIX,qi-gong.me,Proxy
 DOMAIN-SUFFIX,qidian.ca,Proxy
 DOMAIN-SUFFIX,qienkuen.org,Proxy
@@ -6766,6 +6772,7 @@ DOMAIN-SUFFIX,bnrs.it,REJECT
 DOMAIN-SUFFIX,bnserving.com,REJECT
 DOMAIN-SUFFIX,bogads.com,REJECT
 DOMAIN-SUFFIX,bokroet.com,REJECT
+DOMAIN-SUFFIX,bondinra.com,REJECT
 DOMAIN-SUFFIX,bonusfapturbo.com,REJECT
 DOMAIN-SUFFIX,bonzai.ad,REJECT
 DOMAIN-SUFFIX,boo-box.com,REJECT
@@ -7710,6 +7717,7 @@ DOMAIN-SUFFIX,gynax.com,REJECT
 DOMAIN-SUFFIX,h-images.net,REJECT
 DOMAIN-SUFFIX,h12-media.com,REJECT
 DOMAIN-SUFFIX,h6y654wgfdhd.com,REJECT
+DOMAIN-SUFFIX,haggilder.com,REJECT
 DOMAIN-SUFFIX,halfpriceozarks.com,REJECT
 DOMAIN-SUFFIX,hallucius.com,REJECT
 DOMAIN-SUFFIX,halogennetwork.com,REJECT
@@ -10375,6 +10383,7 @@ DOMAIN-SUFFIX,parwrite.com,REJECT
 DOMAIN-SUFFIX,raz-raz-mataz.com,REJECT
 DOMAIN-SUFFIX,razwrite.com,REJECT
 DOMAIN-SUFFIX,rick-rick-rob.com,REJECT
+DOMAIN-SUFFIX,sel-sel-fie.com,REJECT
 DOMAIN-SUFFIX,tek-tek-trek.com,REJECT
 DOMAIN-SUFFIX,tic-tic-bam.com,REJECT
 DOMAIN-SUFFIX,tic-tic-toc.com,REJECT

@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-09 00:00:02.712845
+# Shadowrocket: 2017-10-10 00:00:03.175059
 # Shadowrocket config file by Hayden
 
 [General]
@@ -167,6 +167,8 @@ DOMAIN-SUFFIX,switch1.jp,Proxy
 DOMAIN-SUFFIX,t.me,Proxy
 DOMAIN-SUFFIX,tapanwap.com,Proxy
 DOMAIN-SUFFIX,target.com,Proxy
+DOMAIN-SUFFIX,updates.tdesktop.com,Proxy
+DOMAIN-SUFFIX,telegram.me,Proxy
 DOMAIN-SUFFIX,thebodyshop-usa.com,Proxy
 DOMAIN-SUFFIX,tma.co.jp,Proxy
 DOMAIN-SUFFIX,tracfone.com,Proxy
@@ -1366,6 +1368,7 @@ DOMAIN-SUFFIX,commentshk.com,Proxy
 DOMAIN-SUFFIX,communistcrimes.org,Proxy
 DOMAIN-SUFFIX,communitychoicecu.com,Proxy
 DOMAIN-SUFFIX,compileheart.com,Proxy
+DOMAIN-SUFFIX,conoha.jp,Proxy
 DOMAIN-SUFFIX,contactmagazine.net,Proxy
 DOMAIN-SUFFIX,convio.net,Proxy
 DOMAIN-SUFFIX,coobay.com,Proxy
@@ -2460,6 +2463,7 @@ DOMAIN-SUFFIX,internetfreedom.org,Proxy
 DOMAIN-SUFFIX,internetpopculture.com,Proxy
 DOMAIN-SUFFIX,inxian.com,Proxy
 DOMAIN-SUFFIX,ipalter.com,Proxy
+DOMAIN-SUFFIX,ipfire.org,Proxy
 DOMAIN-SUFFIX,iphone4hongkong.com,Proxy
 DOMAIN-SUFFIX,iphonehacks.com,Proxy
 DOMAIN-SUFFIX,iphonetaiwan.org,Proxy
@@ -2615,6 +2619,7 @@ DOMAIN-SUFFIX,kalachakralugano.org,Proxy
 DOMAIN-SUFFIX,kankan.today,Proxy
 DOMAIN-SUFFIX,kannewyork.com,Proxy
 DOMAIN-SUFFIX,kanshifang.com,Proxy
+DOMAIN-SUFFIX,kantie.org,Proxy
 DOMAIN-SUFFIX,kanzhongguo.com,Proxy
 DOMAIN-SUFFIX,kanzhongguo.eu,Proxy
 DOMAIN-SUFFIX,kaotic.com,Proxy
@@ -3514,6 +3519,7 @@ DOMAIN-SUFFIX,python.com.tw,Proxy
 DOMAIN-SUFFIX,pythonhackers.com,Proxy
 DOMAIN-SUFFIX,qanote.com,Proxy
 DOMAIN-SUFFIX,qgirl.com.tw,Proxy
+DOMAIN-SUFFIX,qiandao.today,Proxy
 DOMAIN-SUFFIX,qi-gong.me,Proxy
 DOMAIN-SUFFIX,qidian.ca,Proxy
 DOMAIN-SUFFIX,qienkuen.org,Proxy
