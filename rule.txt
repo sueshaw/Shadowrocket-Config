@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-10 00:00:03.175059
+# Shadowrocket: 2017-10-11 00:00:02.618198
 # Shadowrocket config file by Hayden
 
 [General]
@@ -164,11 +164,8 @@ DOMAIN-SUFFIX,superokayama.com,Proxy
 DOMAIN-SUFFIX,superpages.com,Proxy
 DOMAIN-SUFFIX,swagbucks.com,Proxy
 DOMAIN-SUFFIX,switch1.jp,Proxy
-DOMAIN-SUFFIX,t.me,Proxy
 DOMAIN-SUFFIX,tapanwap.com,Proxy
 DOMAIN-SUFFIX,target.com,Proxy
-DOMAIN-SUFFIX,updates.tdesktop.com,Proxy
-DOMAIN-SUFFIX,telegram.me,Proxy
 DOMAIN-SUFFIX,thebodyshop-usa.com,Proxy
 DOMAIN-SUFFIX,tma.co.jp,Proxy
 DOMAIN-SUFFIX,tracfone.com,Proxy
@@ -589,6 +586,12 @@ DOMAIN-SUFFIX,youtubegaming.com,Proxy
 DOMAIN-SUFFIX,ytimg.com,Proxy
 DOMAIN-SUFFIX,zynamics.com,Proxy
 DOMAIN-SUFFIX,naughtyamerica.com,Proxy
+DOMAIN-SUFFIX,t.me,Proxy
+DOMAIN-SUFFIX,updates.tdesktop.com,Proxy
+DOMAIN-SUFFIX,telegram.dog,Proxy
+DOMAIN-SUFFIX,telegram.me,Proxy
+DOMAIN-SUFFIX,telegram.org,Proxy
+DOMAIN-SUFFIX,telegramdownload.com,Proxy
 DOMAIN-SUFFIX,v2ex.com,Proxy
 DOMAIN-SUFFIX,gov.taipei,Proxy
 DOMAIN-SUFFIX,gov.tw,Proxy
@@ -2999,6 +3002,7 @@ DOMAIN-SUFFIX,my-proxy.com,Proxy
 DOMAIN-SUFFIX,my-private-network.co.uk,Proxy
 DOMAIN-SUFFIX,forum.my903.com,Proxy
 DOMAIN-SUFFIX,myactimes.com,Proxy
+DOMAIN-SUFFIX,myanniu.com,Proxy
 DOMAIN-SUFFIX,myaudiocast.com,Proxy
 DOMAIN-SUFFIX,myav.com.tw,Proxy
 DOMAIN-SUFFIX,mybbs.us,Proxy
@@ -4068,9 +4072,6 @@ DOMAIN-SUFFIX,teck.in,Proxy
 DOMAIN-SUFFIX,teeniefuck.net,Proxy
 DOMAIN-SUFFIX,teensinasia.com,Proxy
 DOMAIN-SUFFIX,telecomspace.com,Proxy
-DOMAIN-SUFFIX,telegram.dog,Proxy
-DOMAIN-SUFFIX,telegram.org,Proxy
-DOMAIN-SUFFIX,telegramdownload.com,Proxy
 DOMAIN-SUFFIX,telegraph.co.uk,Proxy
 DOMAIN-SUFFIX,tenacy.com,Proxy
 DOMAIN-SUFFIX,tenzinpalmo.com,Proxy
