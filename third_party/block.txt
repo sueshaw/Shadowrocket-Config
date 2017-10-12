@@ -4050,6 +4050,7 @@
 ||halogennetwork.com^$third-party
 ||halpeperglagedokkei.info^$third-party
 ||hanaprop.com^$third-party
+||hanlowu.info^$third-party
 ||happilyswitching.net^$third-party
 ||harrenmedianetwork.com^$third-party
 ||hasingham.com^$third-party
@@ -5129,6 +5130,7 @@
 ||pmpubs.com^$third-party
 ||pmsrvr.com^$third-party
 ||pnoss.com^$third-party
+||pnsandbox.com^$third-party
 ||pointclicktrack.com^$third-party
 ||pointroll.com^$third-party
 ||points2shop.com^$third-party
@@ -5700,6 +5702,7 @@
 ||stabletrappeddevote.info^$third-party
 ||stackadapt.com^$third-party
 ||stackattacka.com^$third-party
+||stagingjobshq.com^$third-party
 ||stalesplit.com^$third-party
 ||standartads.com^$third-party
 ||star-advertising.com^$third-party
@@ -6297,6 +6300,7 @@
 ||yceml.net^$third-party
 ||yeabble.com^$third-party
 ||yellads.com^$third-party
+||yellowacorn.net^$third-party
 ||yellowmango.eu^$third-party
 ||yepoints.net^$third-party
 ||yes-messenger.com^$third-party
