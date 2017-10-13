@@ -4198,6 +4198,7 @@
 ||in-appadvertising.com^$third-party
 ||inadequal.com^$third-party
 ||incentaclick.com^$third-party
+||inclk.com^$third-party
 ||incloak.com^$third-party
 ||incomeliberation.com^$third-party
 ||increas.eu^$third-party
@@ -4355,6 +4356,7 @@
 ||jumpelead.com^$third-party
 ||jumptap.com^$third-party
 ||jursp.com^$third-party
+||justpremium.com^$third-party
 ||justrelevant.com^$third-party
 ||jwaavsze.com^$third-party
 ||jyvtidkx.com^$third-party

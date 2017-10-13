@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-12 00:00:02.424419
+# Shadowrocket: 2017-10-13 00:00:02.546138
 # Shadowrocket config file by Hayden
 
 [General]
@@ -200,7 +200,9 @@ DOMAIN-SUFFIX,.s3.amazonaws.com,Proxy
 DOMAIN-SUFFIX,agro.hk,Proxy
 DOMAIN-SUFFIX,boomssr.com,Proxy
 DOMAIN-SUFFIX,line-scdn.net,Proxy
+DOMAIN-SUFFIX,jiji.com,Proxy
 DOMAIN-SUFFIX,pixiv.net,Proxy
+DOMAIN-SUFFIX,i.lithium.com,Proxy
 DOMAIN-SUFFIX,china-mmm.jp.net,Proxy
 DOMAIN-SUFFIX,lsxszzg.com,Proxy
 DOMAIN-SUFFIX,china-mmm.net,Proxy
@@ -592,6 +594,7 @@ DOMAIN-SUFFIX,waymo.com,Proxy
 DOMAIN-SUFFIX,webmproject.org,Proxy
 DOMAIN-SUFFIX,webrtc.org,Proxy
 DOMAIN-SUFFIX,whatbrowser.org,Proxy
+DOMAIN-SUFFIX,widevine.com,Proxy
 DOMAIN-SUFFIX,withgoogle.com,Proxy
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Proxy
 DOMAIN-SUFFIX,youtu.be,Proxy
@@ -655,6 +658,7 @@ DOMAIN-SUFFIX,thb.gov.tw,Proxy
 DOMAIN-SUFFIX,tipo.gov.tw,Proxy
 DOMAIN-SUFFIX,wda.gov.tw,Proxy
 DOMAIN-SUFFIX,kinmen.org.tw,Proxy
+DOMAIN-SUFFIX,data.flurry.com,Proxy
 DOMAIN-SUFFIX,page.bid.yahoo.com,Proxy
 DOMAIN-SUFFIX,tw.bid.yahoo.com,Proxy
 DOMAIN-SUFFIX,blogs.yahoo.co.jp,Proxy
@@ -1049,6 +1053,7 @@ DOMAIN-SUFFIX,bignews.org,Proxy
 DOMAIN-SUFFIX,bigsound.org,Proxy
 DOMAIN-SUFFIX,billypan.com,Proxy
 DOMAIN-SUFFIX,billywr.com,Proxy
+DOMAIN-SUFFIX,binux.me,Proxy
 DOMAIN-SUFFIX,bipic.net,Proxy
 DOMAIN-SUFFIX,bit.do,Proxy
 DOMAIN-SUFFIX,bit.ly,Proxy
@@ -3766,6 +3771,7 @@ DOMAIN-SUFFIX,shadowsky.xyz,Proxy
 DOMAIN-SUFFIX,shadowsocks.asia,Proxy
 DOMAIN-SUFFIX,www.shadowsocks.com,Proxy
 DOMAIN-SUFFIX,shadowsocks.com,Proxy
+DOMAIN-SUFFIX,shadowsocks.com.hk,Proxy
 DOMAIN-SUFFIX,shadowsocks.org,Proxy
 DOMAIN-SUFFIX,shadowsocks-r.com,Proxy
 DOMAIN-SUFFIX,cn.shafaqna.com,Proxy
@@ -4350,6 +4356,8 @@ DOMAIN-SUFFIX,tuzaijidi.com,Proxy
 DOMAIN-SUFFIX,.tuzaijidi.com,Proxy
 DOMAIN-SUFFIX,tw01.org,Proxy
 DOMAIN-SUFFIX,tumblr.com,Proxy
+DOMAIN-SUFFIX,cosmic.monar.ch,Proxy
+DOMAIN-SUFFIX,slutmoonbeam.com,Proxy
 DOMAIN-SUFFIX,blog.soylent.com,Proxy
 DOMAIN-SUFFIX,tv.com,Proxy
 DOMAIN-SUFFIX,tvants.com,Proxy
@@ -4389,6 +4397,7 @@ DOMAIN-SUFFIX,tweettunnel.com,Proxy
 DOMAIN-SUFFIX,tweetwally.com,Proxy
 DOMAIN-SUFFIX,tweetymail.com,Proxy
 DOMAIN-SUFFIX,twelve.today,Proxy
+DOMAIN-SUFFIX,tweez.net,Proxy
 DOMAIN-SUFFIX,twftp.org,Proxy
 DOMAIN-SUFFIX,twibase.com,Proxy
 DOMAIN-SUFFIX,twibble.de,Proxy
@@ -4638,7 +4647,7 @@ DOMAIN-SUFFIX,vpngate.net,Proxy
 DOMAIN-SUFFIX,vpngratis.net,Proxy
 DOMAIN-SUFFIX,vpnhq.com,Proxy
 DOMAIN-SUFFIX,vpnmaster.com,Proxy
-DOMAIN-SUFFIX,zh.vpnmentor.com,Proxy
+DOMAIN-SUFFIX,vpnmentor.com,Proxy
 DOMAIN-SUFFIX,vpninja.net,Proxy
 DOMAIN-SUFFIX,vpnintouch.com,Proxy
 DOMAIN-SUFFIX,vpnintouch.net,Proxy
