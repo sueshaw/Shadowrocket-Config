@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-13 00:00:02.546138
+# Shadowrocket: 2017-10-14 00:00:02.598109
 # Shadowrocket config file by Hayden
 
 [General]
@@ -458,6 +458,7 @@ DOMAIN-SUFFIX,chromestatus.com,Proxy
 DOMAIN-SUFFIX,chromium.org,Proxy
 DOMAIN-SUFFIX,com.google,Proxy
 DOMAIN-SUFFIX,creativelab5.com,Proxy
+DOMAIN-SUFFIX,crrev.com,Proxy
 DOMAIN-SUFFIX,data-vocabulary.org,Proxy
 DOMAIN-SUFFIX,debug.com,Proxy
 DOMAIN-SUFFIX,deepmind.com,Proxy

@@ -1737,6 +1737,7 @@
 ||urtig.net/scripts/js3caf.js
 ||usenet.pw^$third-party
 ||usenetbucket.com^*-banner/
+||userscloud.com/images/banners/
 ||usersfiles.com/images/72890UF.png
 ||usfine.com/images/sty_img/usfine.gif
 ||ussearch.com/preview/banner/
@@ -2699,6 +2700,8 @@
 ||alchemysocial.com^$third-party
 ||alfynetwork.com^$third-party
 ||algovid.com^$third-party
+||alibestru.ru^$third-party
+||alibestru3.ru^$third-party
 ||alikelys.com^$third-party
 ||alimama.com^$third-party
 ||alipromo.com^$third-party
@@ -2917,6 +2920,7 @@
 ||best5ex.com^$third-party
 ||bestarmour4u.work^$third-party
 ||bestcasinopartner.com^$third-party
+||bestcontentsoftware.top^$third-party
 ||bestdeals.ws^$third-party
 ||bestfindsite.com^$third-party
 ||bestforexpartners.com^$third-party
@@ -3734,6 +3738,7 @@
 ||et-code.ru^$third-party
 ||etah6wu.top^$third-party
 ||etargetnet.com^$third-party
+||etcodes.com^$third-party
 ||etgdta.com^$third-party
 ||etmanly.ru^$third-party
 ||etology.com^$third-party
