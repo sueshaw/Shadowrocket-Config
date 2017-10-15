@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-14 00:00:02.598109
+# Shadowrocket: 2017-10-15 00:00:02.722221
 # Shadowrocket config file by Hayden
 
 [General]
@@ -2786,6 +2786,7 @@ DOMAIN-SUFFIX,libertytimes.com.tw,Proxy
 DOMAIN-SUFFIX,blogs.libraryinformationtechnology.com,Proxy
 DOMAIN-SUFFIX,lidecheng.com,Proxy
 DOMAIN-SUFFIX,lighten.org.tw,Proxy
+DOMAIN-SUFFIX,lightnovel.cn,Proxy
 DOMAIN-SUFFIX,limiao.net,Proxy
 DOMAIN-SUFFIX,linkuswell.com,Proxy
 DOMAIN-SUFFIX,abitno.linpie.com,Proxy
@@ -3122,6 +3123,7 @@ DOMAIN-SUFFIX,ndr.de,Proxy
 DOMAIN-SUFFIX,ned.org,Proxy
 DOMAIN-SUFFIX,nekoslovakia.net,Proxy
 DOMAIN-SUFFIX,nepusoku.com,Proxy
+DOMAIN-SUFFIX,net-fits.pro,Proxy
 DOMAIN-SUFFIX,bbs.netbig.com,Proxy
 DOMAIN-SUFFIX,netbirds.com,Proxy
 DOMAIN-SUFFIX,netcolony.com,Proxy
