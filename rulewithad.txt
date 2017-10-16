@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-15 00:00:02.722283
+# Shadowrocket: 2017-10-16 00:00:02.410076
 # Shadowrocket config file by Hayden
 
 [General]
@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,.i-scmp.com,Proxy
 DOMAIN-SUFFIX,ilovelongtoes.com,Proxy
 DOMAIN-SUFFIX,imgmega.com,Proxy
 DOMAIN-SUFFIX,imgur.com,Proxy
+DOMAIN-SUFFIX,imlive.com,Proxy
 DOMAIN-SUFFIX,javhub.net,Proxy
 DOMAIN-SUFFIX,javhuge.com,Proxy
 DOMAIN-SUFFIX,javlibrary.com,Proxy
@@ -1027,6 +1028,7 @@ DOMAIN-SUFFIX,berlintwitterwall.com,Proxy
 DOMAIN-SUFFIX,berm.co.nz,Proxy
 DOMAIN-SUFFIX,bestforchina.org,Proxy
 DOMAIN-SUFFIX,bestgore.com,Proxy
+DOMAIN-SUFFIX,bestpornstardb.com,Proxy
 DOMAIN-SUFFIX,bestvpn.com,Proxy
 DOMAIN-SUFFIX,bestvpnanalysis.com,Proxy
 DOMAIN-SUFFIX,bestvpnserver.com,Proxy
@@ -2481,7 +2483,6 @@ DOMAIN-SUFFIX,www.imdb.com,Proxy
 DOMAIN-SUFFIX,imdb.com,Proxy
 DOMAIN-SUFFIX,img.ly,Proxy
 DOMAIN-SUFFIX,imkev.com,Proxy
-DOMAIN-SUFFIX,imlive.com,Proxy
 DOMAIN-SUFFIX,immoral.jp,Proxy
 DOMAIN-SUFFIX,impact.org.au,Proxy
 DOMAIN-SUFFIX,impp.mn,Proxy
@@ -2638,6 +2639,7 @@ DOMAIN-SUFFIX,joeedelman.com,Proxy
 DOMAIN-SUFFIX,journalchretien.net,Proxy
 DOMAIN-SUFFIX,journalofdemocracy.org,Proxy
 DOMAIN-SUFFIX,joymiihub.com,Proxy
+DOMAIN-SUFFIX,joyourself.com,Proxy
 DOMAIN-SUFFIX,jpopforum.net,Proxy
 DOMAIN-SUFFIX,jubushoushen.com,Proxy
 DOMAIN-SUFFIX,juhuaren.com,Proxy
@@ -2776,6 +2778,7 @@ DOMAIN-SUFFIX,blog.lester850.info,Proxy
 DOMAIN-SUFFIX,lesoir.be,Proxy
 DOMAIN-SUFFIX,letou.com,Proxy
 DOMAIN-SUFFIX,letscorp.net,Proxy
+DOMAIN-SUFFIX,cdn.assets.lfpcontent.com,Proxy
 DOMAIN-SUFFIX,lhakar.org,Proxy
 DOMAIN-SUFFIX,lhasocialwork.org,Proxy
 DOMAIN-SUFFIX,liangyou.net,Proxy
@@ -3291,6 +3294,7 @@ DOMAIN-SUFFIX,demo.opera-mini.net,Proxy
 DOMAIN-SUFFIX,www.orchidbbs.com,Proxy
 DOMAIN-SUFFIX,organcare.org.tw,Proxy
 DOMAIN-SUFFIX,organharvestinvestigation.net,Proxy
+DOMAIN-SUFFIX,orgasm.com,Proxy
 DOMAIN-SUFFIX,orgfree.com,Proxy
 DOMAIN-SUFFIX,orient-doll.com,Proxy
 DOMAIN-SUFFIX,orientaldaily.com.my,Proxy
@@ -4275,6 +4279,7 @@ DOMAIN-SUFFIX,toodoc.com,Proxy
 DOMAIN-SUFFIX,toonel.net,Proxy
 DOMAIN-SUFFIX,top81.ws,Proxy
 DOMAIN-SUFFIX,topnews.in,Proxy
+DOMAIN-SUFFIX,toppornsites.com,Proxy
 DOMAIN-SUFFIX,torguard.net,Proxy
 DOMAIN-SUFFIX,top.tv,Proxy
 DOMAIN-SUFFIX,topshareware.com,Proxy
@@ -4532,6 +4537,7 @@ DOMAIN-SUFFIX,upload4u.info,Proxy
 DOMAIN-SUFFIX,uploaded.net,Proxy
 DOMAIN-SUFFIX,uploaded.to,Proxy
 DOMAIN-SUFFIX,uploadstation.com,Proxy
+DOMAIN-SUFFIX,upmedia.mg,Proxy
 DOMAIN-SUFFIX,upornia.com,Proxy
 DOMAIN-SUFFIX,uproxy.org,Proxy
 DOMAIN-SUFFIX,tor.cn.uptodown.com,Proxy
@@ -6620,6 +6626,7 @@ DOMAIN-SUFFIX,aunmdhxrco.com,REJECT
 DOMAIN-SUFFIX,auspipe.com,REJECT
 DOMAIN-SUFFIX,auto-im.com,REJECT
 DOMAIN-SUFFIX,auto-insurance-quotes-compare.com,REJECT
+DOMAIN-SUFFIX,automatad.com,REJECT
 DOMAIN-SUFFIX,automatedtraffic.com,REJECT
 DOMAIN-SUFFIX,automateyourlist.com,REJECT
 DOMAIN-SUFFIX,avads.co.uk,REJECT
