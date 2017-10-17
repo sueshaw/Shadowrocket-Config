@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-16 00:00:02.410076
+# Shadowrocket: 2017-10-17 00:00:02.575122
 # Shadowrocket config file by Hayden
 
 [General]
@@ -429,14 +429,17 @@ DOMAIN-SUFFIX,facebook.se,Proxy
 DOMAIN-SUFFIX,fb.com,Proxy
 DOMAIN-SUFFIX,fb.me,Proxy
 DOMAIN-SUFFIX,fbcdn.net,Proxy
+DOMAIN-SUFFIX,fbsbx.com,Proxy
 DOMAIN-SUFFIX,instagram.com,Proxy
 DOMAIN-SUFFIX,m.me,Proxy
 DOMAIN-SUFFIX,messenger.com,Proxy
 DOMAIN-SUFFIX,oculus.com,Proxy
 DOMAIN-SUFFIX,oculuscdn.com,Proxy
 DOMAIN-SUFFIX,rocksdb.org,Proxy
+DOMAIN-SUFFIX,thefacebook.com,Proxy
 DOMAIN-SUFFIX,whatsapp.net,Proxy
 DOMAIN-SUFFIX,1e100.net,Proxy
+DOMAIN-SUFFIX,466453.com,Proxy
 DOMAIN-SUFFIX,abc.xyz,Proxy
 DOMAIN-SUFFIX,admob.com,Proxy
 DOMAIN-SUFFIX,adsense.com,Proxy
@@ -447,6 +450,7 @@ DOMAIN-SUFFIX,androidify.com,Proxy
 DOMAIN-SUFFIX,api.ai,Proxy
 DOMAIN-SUFFIX,appspot.com,Proxy
 DOMAIN-SUFFIX,blog.google,Proxy
+DOMAIN-SUFFIX,blogblog.com,Proxy
 DOMAIN-SUFFIX,blogspot.com,Proxy
 DOMAIN-SUFFIX,blogspot.hk,Proxy
 DOMAIN-SUFFIX,blogspot.jp,Proxy
@@ -467,6 +471,7 @@ DOMAIN-SUFFIX,deja.com,Proxy
 DOMAIN-SUFFIX,design.google,Proxy
 DOMAIN-SUFFIX,digisfera.com,Proxy
 DOMAIN-SUFFIX,domains.google,Proxy
+DOMAIN-SUFFIX,duck.com,Proxy
 DOMAIN-SUFFIX,environment.google,Proxy
 DOMAIN-SUFFIX,feedburner.com,Proxy
 DOMAIN-SUFFIX,g.co,Proxy
@@ -537,10 +542,11 @@ DOMAIN-SUFFIX,googleapps.com,Proxy
 DOMAIN-SUFFIX,googleartproject.com,Proxy
 DOMAIN-SUFFIX,googleblog.com,Proxy
 DOMAIN-SUFFIX,googlebot.com,Proxy
-DOMAIN-SUFFIX,googlecapital.com,Proxy
+DOMAIN-SUFFIX,googlechinawebmaster.com,Proxy
 DOMAIN-SUFFIX,googlecode.com,Proxy
 DOMAIN-SUFFIX,googlecommerce.com,Proxy
 DOMAIN-SUFFIX,googledomains.com,Proxy
+DOMAIN-SUFFIX,googlearth.com,Proxy
 DOMAIN-SUFFIX,googleearth.com,Proxy
 DOMAIN-SUFFIX,googledrive.com,Proxy
 DOMAIN-SUFFIX,googlegroups.com,Proxy
@@ -549,8 +555,11 @@ DOMAIN-SUFFIX,googleideas.com,Proxy
 DOMAIN-SUFFIX,googleinsidesearch.com,Proxy
 DOMAIN-SUFFIX,googlelabs.com,Proxy
 DOMAIN-SUFFIX,googlemail.com,Proxy
+DOMAIN-SUFFIX,googlemashups.com,Proxy
+DOMAIN-SUFFIX,googlepagecreator.com,Proxy
 DOMAIN-SUFFIX,googleplay.com,Proxy
 DOMAIN-SUFFIX,googleplus.com,Proxy
+DOMAIN-SUFFIX,googlescholar.com,Proxy
 DOMAIN-SUFFIX,googlesource.com,Proxy
 DOMAIN-SUFFIX,googlesyndication.com,Proxy
 DOMAIN-SUFFIX,googleusercontent.com,Proxy
@@ -591,6 +600,7 @@ DOMAIN-SUFFIX,teachparentstech.org,Proxy
 DOMAIN-SUFFIX,tensorflow.org,Proxy
 DOMAIN-SUFFIX,thinkwithgoogle.com,Proxy
 DOMAIN-SUFFIX,tiltbrush.com,Proxy
+DOMAIN-SUFFIX,urchin.com,Proxy
 DOMAIN-SUFFIX,waveprotocol.org,Proxy
 DOMAIN-SUFFIX,waymo.com,Proxy
 DOMAIN-SUFFIX,webmproject.org,Proxy
@@ -604,14 +614,12 @@ DOMAIN-SUFFIX,youtube.com,Proxy
 DOMAIN-SUFFIX,youtube-nocookie.com,Proxy
 DOMAIN-SUFFIX,youtubeeducation.com,Proxy
 DOMAIN-SUFFIX,youtubegaming.com,Proxy
+DOMAIN-SUFFIX,yt.be,Proxy
 DOMAIN-SUFFIX,ytimg.com,Proxy
 DOMAIN-SUFFIX,zynamics.com,Proxy
 DOMAIN-SUFFIX,naughtyamerica.com,Proxy
-DOMAIN-SUFFIX,a1.nyt.com,Proxy
-DOMAIN-SUFFIX,int.nyt.com,Proxy
-DOMAIN-SUFFIX,s1.nyt.com,Proxy
 DOMAIN-SUFFIX,static01.nyt.com,Proxy
-DOMAIN-SUFFIX,typeface.nyt.com,Proxy
+DOMAIN-SUFFIX,nyt.com,Proxy
 DOMAIN-SUFFIX,nytchina.com,Proxy
 DOMAIN-SUFFIX,nytcn.me,Proxy
 DOMAIN-SUFFIX,nytco.com,Proxy
@@ -955,6 +963,7 @@ DOMAIN-SUFFIX,atchinese.com,Proxy
 DOMAIN-SUFFIX,atgfw.org,Proxy
 DOMAIN-SUFFIX,atlaspost.com,Proxy
 DOMAIN-SUFFIX,atdmt.com,Proxy
+DOMAIN-SUFFIX,atlanta168.com,Proxy
 DOMAIN-SUFFIX,atnext.com,Proxy
 DOMAIN-SUFFIX,ice.audionow.com,Proxy
 DOMAIN-SUFFIX,avaaz.org,Proxy
@@ -1080,7 +1089,6 @@ DOMAIN-SUFFIX,blockcn.com,Proxy
 DOMAIN-SUFFIX,blockless.com,Proxy
 DOMAIN-SUFFIX,blog.de,Proxy
 DOMAIN-SUFFIX,blog.jp,Proxy
-DOMAIN-SUFFIX,blogblog.com,Proxy
 DOMAIN-SUFFIX,blogcatalog.com,Proxy
 DOMAIN-SUFFIX,blogcity.me,Proxy
 DOMAIN-SUFFIX,blogger.com,Proxy
@@ -1826,7 +1834,6 @@ DOMAIN-SUFFIX,fastssh.com,Proxy
 DOMAIN-SUFFIX,faststone.org,Proxy
 DOMAIN-SUFFIX,favstar.fm,Proxy
 DOMAIN-SUFFIX,faydao.com,Proxy
-DOMAIN-SUFFIX,fbsbx.com,Proxy
 DOMAIN-SUFFIX,fc2.com,Proxy
 DOMAIN-SUFFIX,fc2china.com,Proxy
 DOMAIN-SUFFIX,fc2cn.com,Proxy
@@ -3409,6 +3416,7 @@ DOMAIN-SUFFIX,phuquocservices.com,Proxy
 DOMAIN-SUFFIX,picidae.net,Proxy
 DOMAIN-SUFFIX,.picturedip.com,Proxy
 DOMAIN-SUFFIX,picturesocial.com,Proxy
+DOMAIN-SUFFIX,pin-cong.com,Proxy
 DOMAIN-SUFFIX,pin6.com,Proxy
 DOMAIN-SUFFIX,ping.fm,Proxy
 DOMAIN-SUFFIX,pinimg.com,Proxy
@@ -4831,6 +4839,7 @@ DOMAIN-SUFFIX,cnbbnews.wordpress.com,Proxy
 DOMAIN-SUFFIX,chenshan20042005.wordpress.com,Proxy
 DOMAIN-SUFFIX,hka8964.wordpress.com,Proxy
 DOMAIN-SUFFIX,hkanews.wordpress.com,Proxy
+DOMAIN-SUFFIX,hqsbonline.wordpress.com,Proxy
 DOMAIN-SUFFIX,jobnewera.wordpress.com,Proxy
 DOMAIN-SUFFIX,sujiatun.wordpress.com,Proxy
 DOMAIN-SUFFIX,wp.com,Proxy
@@ -5004,6 +5013,7 @@ DOMAIN-SUFFIX,zello.com,Proxy
 DOMAIN-SUFFIX,zengjinyan.org,Proxy
 DOMAIN-SUFFIX,zenmate.com,Proxy
 DOMAIN-SUFFIX,zenmate.com.ru,Proxy
+DOMAIN-SUFFIX,zeronet.io,Proxy
 DOMAIN-SUFFIX,zeutch.com,Proxy
 DOMAIN-SUFFIX,zfreet.com,Proxy
 DOMAIN-SUFFIX,zgsddh.com,Proxy
