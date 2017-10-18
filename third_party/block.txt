@@ -1101,6 +1101,7 @@
 ||loopnet.com^*/searchwidget.htm$third-party
 ||loot.co.za/shop/product.jsp?$third-party
 ||loot.co.za^*/banners/$third-party
+||lotebo.com/js_a_d_s.php
 ||lottoelite.com/banners/$third-party
 ||lowbird.com/random/$third-party
 ||lowcountrymarketplace.com/widgets/$third-party
@@ -1496,7 +1497,6 @@
 ||server4.pro/images/banner.jpg
 ||serverjs.net/scripts/$third-party
 ||service.smscoin.com/js/sendpic.js
-||servicer.traffic-media.co^
 ||serving.portal.dmflex.com^$domain=thisdaylive.com
 ||settleships.com^$third-party
 ||sfcdn.in/sailfish/$script
@@ -2184,8 +2184,11 @@
 ||adespresso.com^$third-party
 ||adexc.net^$third-party
 ||adexchange.io^$third-party
+||adexchangecloud.com^$third-party
+||adexchangedirect.com^$third-party
 ||adexchangegate.com^$third-party
 ||adexchangeprediction.com^$third-party
+||adexchangetracker.com^$third-party
 ||adexcite.com^$third-party
 ||adexprt.com^$third-party
 ||adexprts.com^$third-party
@@ -3040,6 +3043,7 @@
 ||brethrengenotypeteledyne.com^$third-party
 ||bridgetrack.com^$third-party
 ||brighteroption.com^$third-party
+||brightonclick.com^$third-party
 ||brightshare.com^$third-party
 ||britiesee.info^$third-party
 ||broadstreetads.com^$third-party
@@ -3082,6 +3086,7 @@
 ||buysellads.com^$third-party
 ||buyt.in^$third-party
 ||buzzadexchange.com^$third-party
+||buzzadnetwork.com^$third-party
 ||buzzcity.net^$third-party
 ||buzzparadise.com^$third-party
 ||bwinpartypartners.com^$third-party
@@ -4235,7 +4240,6 @@
 ||innity.com^$third-party
 ||innity.net^$third-party
 ||innovid.com^$third-party
-||inplaybricks.com^$third-party
 ||insightexpress.com^$third-party
 ||insightexpressai.com^$third-party
 ||insitepromotion.com^$third-party
@@ -4936,6 +4940,7 @@
 ||onclasrv.com^$third-party
 ||onclickads.net^$third-party
 ||onclickmax.com^$third-party
+||onclickprediction.com^$third-party
 ||onclickpulse.com^$third-party
 ||onclkds.com^$third-party
 ||onedmp.com^$third-party
@@ -5203,6 +5208,7 @@
 ||prebid.org^$third-party
 ||precisionclick.com^$third-party
 ||predictad.com^$third-party
+||predictiondisplay.com^$third-party
 ||predictivadnetwork.com^$third-party
 ||prestadsng.com^$third-party
 ||prexista.com^$third-party
@@ -5932,6 +5938,7 @@
 ||traff-advertazer.com^$third-party
 ||traffads.su^$third-party
 ||traffboost.net^$third-party
+||traffic-media.co^$third-party
 ||traffic-supremacy.com^$third-party
 ||trafficbarads.com^$third-party
 ||trafficbee.com^$third-party

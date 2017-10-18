@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-17 00:00:02.575088
+# Shadowrocket: 2017-10-18 00:00:03.075043
 # Shadowrocket config file by Hayden
 
 [General]
@@ -200,8 +200,9 @@ DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,Proxy
 DOMAIN-SUFFIX,.s3.amazonaws.com,Proxy
 DOMAIN-SUFFIX,agro.hk,Proxy
 DOMAIN-SUFFIX,boomssr.com,Proxy
-DOMAIN-SUFFIX,line-scdn.net,Proxy
 DOMAIN-SUFFIX,jiji.com,Proxy
+DOMAIN-SUFFIX,line-scdn.net,Proxy
+DOMAIN-SUFFIX,cloud.mail.ru,Proxy
 DOMAIN-SUFFIX,pixiv.net,Proxy
 DOMAIN-SUFFIX,i.lithium.com,Proxy
 DOMAIN-SUFFIX,china-mmm.jp.net,Proxy
@@ -1216,6 +1217,7 @@ DOMAIN-SUFFIX,cap.org.hk,Proxy
 DOMAIN-SUFFIX,carabinasypistolas.com,Proxy
 DOMAIN-SUFFIX,cardinalkungfoundation.org,Proxy
 DOMAIN-SUFFIX,carmotorshow.com,Proxy
+DOMAIN-SUFFIX,ss.carryzhou.com,Proxy
 DOMAIN-SUFFIX,cartoonmovement.com,Proxy
 DOMAIN-SUFFIX,casadeltibetbcn.org,Proxy
 DOMAIN-SUFFIX,casatibet.org.mx,Proxy
@@ -2236,6 +2238,7 @@ DOMAIN-SUFFIX,hasaowall.com,Proxy
 DOMAIN-SUFFIX,bbs.hasi.wang,Proxy
 DOMAIN-SUFFIX,have8.com,Proxy
 DOMAIN-SUFFIX,hclips.com,Proxy
+DOMAIN-SUFFIX,hdlt.me,Proxy
 DOMAIN-SUFFIX,hdtvb.net,Proxy
 DOMAIN-SUFFIX,hdzog.com,Proxy
 DOMAIN-SUFFIX,heartyit.com,Proxy
@@ -2273,6 +2276,7 @@ DOMAIN-SUFFIX,hi-on.org.tw,Proxy
 DOMAIN-SUFFIX,hidden-advent.org,Proxy
 DOMAIN-SUFFIX,hidecloud.com,Proxy
 DOMAIN-SUFFIX,hide.me,Proxy
+DOMAIN-SUFFIX,hidein.net,Proxy
 DOMAIN-SUFFIX,hideipvpn.com,Proxy
 DOMAIN-SUFFIX,hideman.net,Proxy
 DOMAIN-SUFFIX,hideme.nl,Proxy
@@ -2872,6 +2876,7 @@ DOMAIN-SUFFIX,luxebc.com,Proxy
 DOMAIN-SUFFIX,lvhai.org,Proxy
 DOMAIN-SUFFIX,lvv2.com,Proxy
 DOMAIN-SUFFIX,lyfhk.net,Proxy
+DOMAIN-SUFFIX,lzmtnews.org,Proxy
 DOMAIN-SUFFIX,macrovpn.com,Proxy
 DOMAIN-SUFFIX,macts.com.tw,Proxy
 DOMAIN-SUFFIX,mad-ar.ch,Proxy
@@ -2882,6 +2887,7 @@ DOMAIN-SUFFIX,my.mail.ru,Proxy
 DOMAIN-SUFFIX,maiplus.com,Proxy
 DOMAIN-SUFFIX,maizhong.org,Proxy
 DOMAIN-SUFFIX,makkahnewspaper.com,Proxy
+DOMAIN-SUFFIX,mamingzhe.com,Proxy
 DOMAIN-SUFFIX,manicur4ik.ru,Proxy
 DOMAIN-SUFFIX,maplew.com,Proxy
 DOMAIN-SUFFIX,marc.info,Proxy
@@ -3218,6 +3224,7 @@ DOMAIN-SUFFIX,noypf.com,Proxy
 DOMAIN-SUFFIX,npa.go.jp,Proxy
 DOMAIN-SUFFIX,npnt.me,Proxy
 DOMAIN-SUFFIX,nps.gov,Proxy
+DOMAIN-SUFFIX,nradio.me,Proxy
 DOMAIN-SUFFIX,nrk.no,Proxy
 DOMAIN-SUFFIX,ntd.tv,Proxy
 DOMAIN-SUFFIX,ntdtv.com,Proxy
@@ -4415,6 +4422,7 @@ DOMAIN-SUFFIX,tweetymail.com,Proxy
 DOMAIN-SUFFIX,twelve.today,Proxy
 DOMAIN-SUFFIX,tweez.net,Proxy
 DOMAIN-SUFFIX,twftp.org,Proxy
+DOMAIN-SUFFIX,twgreatdaily.com,Proxy
 DOMAIN-SUFFIX,twibase.com,Proxy
 DOMAIN-SUFFIX,twibble.de,Proxy
 DOMAIN-SUFFIX,twibbon.com,Proxy
@@ -4563,6 +4571,7 @@ DOMAIN-SUFFIX,beta.usejump.com,Proxy
 DOMAIN-SUFFIX,usfk.mil,Proxy
 DOMAIN-SUFFIX,usma.edu,Proxy
 DOMAIN-SUFFIX,usmc.mil,Proxy
+DOMAIN-SUFFIX,usocctn.com,Proxy
 DOMAIN-SUFFIX,tarr.uspto.gov,Proxy
 DOMAIN-SUFFIX,tsdr.uspto.gov,Proxy
 DOMAIN-SUFFIX,ustream.tv,Proxy
