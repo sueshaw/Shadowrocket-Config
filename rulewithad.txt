@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-18 00:00:03.075072
+# Shadowrocket: 2017-10-19 00:00:02.784985
 # Shadowrocket config file by Hayden
 
 [General]
@@ -1673,6 +1673,7 @@ DOMAIN-SUFFIX,ebony-beauty.com,Proxy
 DOMAIN-SUFFIX,ebookbrowse.com,Proxy
 DOMAIN-SUFFIX,ebookee.com,Proxy
 DOMAIN-SUFFIX,ecfa.org.tw,Proxy
+DOMAIN-SUFFIX,ushuarencity.echainhost.com,Proxy
 DOMAIN-SUFFIX,ecimg.tw,Proxy
 DOMAIN-SUFFIX,ecministry.net,Proxy
 DOMAIN-SUFFIX,economist.com,Proxy
@@ -2191,6 +2192,7 @@ DOMAIN-SUFFIX,gts-vpn.com,Proxy
 DOMAIN-SUFFIX,gu-chu-sum.org,Proxy
 DOMAIN-SUFFIX,guaguass.com,Proxy
 DOMAIN-SUFFIX,guaguass.org,Proxy
+DOMAIN-SUFFIX,guangming.com.my,Proxy
 DOMAIN-SUFFIX,guishan.org,Proxy
 DOMAIN-SUFFIX,gumroad.com,Proxy
 DOMAIN-SUFFIX,gunsamerica.com,Proxy
@@ -3165,6 +3167,7 @@ DOMAIN-SUFFIX,newschinacomment.org,Proxy
 DOMAIN-SUFFIX,newscn.org,Proxy
 DOMAIN-SUFFIX,newspeak.cc,Proxy
 DOMAIN-SUFFIX,newsancai.com,Proxy
+DOMAIN-SUFFIX,newsdetox.ca,Proxy
 DOMAIN-SUFFIX,newsdh.com,Proxy
 DOMAIN-SUFFIX,newstamago.com,Proxy
 DOMAIN-SUFFIX,newstapa.org,Proxy
@@ -3451,6 +3454,7 @@ DOMAIN-SUFFIX,placemix.com,Proxy
 DOMAIN-SUFFIX,pictures.playboy.com,Proxy
 DOMAIN-SUFFIX,playboy.com,Proxy
 DOMAIN-SUFFIX,playboyplus.com,Proxy
+DOMAIN-SUFFIX,player.fm,Proxy
 DOMAIN-SUFFIX,playno1.com,Proxy
 DOMAIN-SUFFIX,playpcesor.com,Proxy
 DOMAIN-SUFFIX,plays.com.tw,Proxy
@@ -3596,6 +3600,7 @@ DOMAIN-SUFFIX,quannengshen.org,Proxy
 DOMAIN-SUFFIX,quantumbooter.net,Proxy
 DOMAIN-SUFFIX,quitccp.net,Proxy
 DOMAIN-SUFFIX,quitccp.org,Proxy
+DOMAIN-SUFFIX,quora.com,Proxy
 DOMAIN-SUFFIX,quran.com,Proxy
 DOMAIN-SUFFIX,quranexplorer.com,Proxy
 DOMAIN-SUFFIX,qusi8.net,Proxy
@@ -4849,6 +4854,7 @@ DOMAIN-SUFFIX,chenshan20042005.wordpress.com,Proxy
 DOMAIN-SUFFIX,hka8964.wordpress.com,Proxy
 DOMAIN-SUFFIX,hkanews.wordpress.com,Proxy
 DOMAIN-SUFFIX,hqsbonline.wordpress.com,Proxy
+DOMAIN-SUFFIX,investigating.wordpress.com,Proxy
 DOMAIN-SUFFIX,jobnewera.wordpress.com,Proxy
 DOMAIN-SUFFIX,sujiatun.wordpress.com,Proxy
 DOMAIN-SUFFIX,wp.com,Proxy
