@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-19 00:00:02.784985
+# Shadowrocket: 2017-10-20 00:00:02.379806
 # Shadowrocket config file by Hayden
 
 [General]
@@ -3012,6 +3012,7 @@ DOMAIN-SUFFIX,mk5000.com,Proxy
 DOMAIN-SUFFIX,mlcool.com,Proxy
 DOMAIN-SUFFIX,mmaaxx.com,Proxy
 DOMAIN-SUFFIX,mmmca.com,Proxy
+DOMAIN-SUFFIX,mnewstv.com,Proxy
 DOMAIN-SUFFIX,mobatek.net,Proxy
 DOMAIN-SUFFIX,mobile01.com,Proxy
 DOMAIN-SUFFIX,mobileways.de,Proxy
@@ -3863,6 +3864,7 @@ DOMAIN-SUFFIX,singfortibet.com,Proxy
 DOMAIN-SUFFIX,singpao.com.hk,Proxy
 DOMAIN-SUFFIX,singtao.com,Proxy
 DOMAIN-SUFFIX,news.singtao.ca,Proxy
+DOMAIN-SUFFIX,singtaousa.com,Proxy
 DOMAIN-SUFFIX,sino-monthly.com,Proxy
 DOMAIN-SUFFIX,sinocast.com,Proxy
 DOMAIN-SUFFIX,sinocism.com,Proxy
@@ -4972,6 +4974,7 @@ DOMAIN-SUFFIX,yesasia.com,Proxy
 DOMAIN-SUFFIX,yesasia.com.hk,Proxy
 DOMAIN-SUFFIX,yes-news.com,Proxy
 DOMAIN-SUFFIX,yespornplease.com,Proxy
+DOMAIN-SUFFIX,yeyeclub.com,Proxy
 DOMAIN-SUFFIX,yhcw.net,Proxy
 DOMAIN-SUFFIX,yibada.com,Proxy
 DOMAIN-SUFFIX,yibaochina.com,Proxy
