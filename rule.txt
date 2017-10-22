@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-21 00:00:03.855882
+# Shadowrocket: 2017-10-22 00:00:03.073027
 # Shadowrocket config file by Hayden
 
 [General]
@@ -3367,6 +3367,7 @@ DOMAIN-SUFFIX,panluan.net,Proxy
 DOMAIN-SUFFIX,pao-pao.net,Proxy
 DOMAIN-SUFFIX,paper.li,Proxy
 DOMAIN-SUFFIX,paperb.us,Proxy
+DOMAIN-SUFFIX,paradisehill.cc,Proxy
 DOMAIN-SUFFIX,paradisepoker.com,Proxy
 DOMAIN-SUFFIX,partycasino.com,Proxy
 DOMAIN-SUFFIX,partypoker.com,Proxy
