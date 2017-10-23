@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-21 22:28:26.566304
+# Shadowrocket: 2017-10-23 00:00:03.107970
 # Shadowrocket config file by Hayden
 
 [General]
@@ -8482,6 +8482,7 @@ DOMAIN-SUFFIX,mutary.com,REJECT
 DOMAIN-SUFFIX,mxf.dfp.host,REJECT
 DOMAIN-SUFFIX,mxtads.com,REJECT
 DOMAIN-SUFFIX,my-layer.net,REJECT
+DOMAIN-SUFFIX,myadcash.com,REJECT
 DOMAIN-SUFFIX,myaffiliates.com,REJECT
 DOMAIN-SUFFIX,mycasinoaccounts.com,REJECT
 DOMAIN-SUFFIX,myclickbankads.com,REJECT
