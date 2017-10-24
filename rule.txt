@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-23 00:00:03.107935
+# Shadowrocket: 2017-10-24 00:00:03.200535
 # Shadowrocket config file by Hayden
 
 [General]
@@ -798,6 +798,8 @@ DOMAIN-SUFFIX,a5.com.ru,Proxy
 DOMAIN-SUFFIX,aamacau.com,Proxy
 DOMAIN-SUFFIX,abc.com,Proxy
 DOMAIN-SUFFIX,abchinese.com,Proxy
+DOMAIN-SUFFIX,abclite.net,Proxy
+DOMAIN-SUFFIX,www.abclite.net,Proxy
 DOMAIN-SUFFIX,ablwang.com,Proxy
 DOMAIN-SUFFIX,aboluowang.com,Proxy
 DOMAIN-SUFFIX,aboutgfw.com,Proxy
@@ -909,6 +911,7 @@ DOMAIN-SUFFIX,anthonycalzadilla.com,Proxy
 DOMAIN-SUFFIX,anti1984.com,Proxy
 DOMAIN-SUFFIX,antichristendom.com,Proxy
 DOMAIN-SUFFIX,antiwave.net,Proxy
+DOMAIN-SUFFIX,anyporn.com,Proxy
 DOMAIN-SUFFIX,anysex.com,Proxy
 DOMAIN-SUFFIX,aobo.com.au,Proxy
 DOMAIN-SUFFIX,aofriend.com,Proxy
@@ -1608,6 +1611,7 @@ DOMAIN-SUFFIX,dphk.org,Proxy
 DOMAIN-SUFFIX,dpp.org.tw,Proxy
 DOMAIN-SUFFIX,dpr.info,Proxy
 DOMAIN-SUFFIX,dragonsprings.org,Proxy
+DOMAIN-SUFFIX,dreamamateurs.com,Proxy
 DOMAIN-SUFFIX,drepung.org,Proxy
 DOMAIN-SUFFIX,drgan.net,Proxy
 DOMAIN-SUFFIX,drmingxia.org,Proxy
@@ -1890,6 +1894,7 @@ DOMAIN-SUFFIX,flickrhivemind.net,Proxy
 DOMAIN-SUFFIX,flickriver.com,Proxy
 DOMAIN-SUFFIX,fling.com,Proxy
 DOMAIN-SUFFIX,flipkart.com,Proxy
+DOMAIN-SUFFIX,flog.tw,Proxy
 DOMAIN-SUFFIX,cn.fmnnow.com,Proxy
 DOMAIN-SUFFIX,fofldfradio.org,Proxy
 DOMAIN-SUFFIX,blog.foolsmountain.com,Proxy
@@ -4993,6 +4998,7 @@ DOMAIN-SUFFIX,yorkbbs.ca,Proxy
 DOMAIN-SUFFIX,youxu.info,Proxy
 DOMAIN-SUFFIX,youjizz.com,Proxy
 DOMAIN-SUFFIX,youmaker.com,Proxy
+DOMAIN-SUFFIX,youngpornvideos.com,Proxy
 DOMAIN-SUFFIX,youngspiration.hk,Proxy
 DOMAIN-SUFFIX,youpai.org,Proxy
 DOMAIN-SUFFIX,your-freedom.net,Proxy
@@ -5001,6 +5007,7 @@ DOMAIN-SUFFIX,yourprivatevpn.com,Proxy
 DOMAIN-SUFFIX,yousendit.com,Proxy
 DOMAIN-SUFFIX,youthnetradio.org,Proxy
 DOMAIN-SUFFIX,blog.youthwant.com.tw,Proxy
+DOMAIN-SUFFIX,me.youthwant.com.tw,Proxy
 DOMAIN-SUFFIX,share.youthwant.com.tw,Proxy
 DOMAIN-SUFFIX,topic.youthwant.com.tw,Proxy
 DOMAIN-SUFFIX,youporn.com,Proxy
