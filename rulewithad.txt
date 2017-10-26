@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-25 00:00:03.619651
+# Shadowrocket: 2017-10-26 00:00:04.095712
 # Shadowrocket config file by Hayden
 
 [General]
@@ -4864,6 +4864,7 @@ DOMAIN-SUFFIX,hkanews.wordpress.com,Proxy
 DOMAIN-SUFFIX,hqsbonline.wordpress.com,Proxy
 DOMAIN-SUFFIX,investigating.wordpress.com,Proxy
 DOMAIN-SUFFIX,jobnewera.wordpress.com,Proxy
+DOMAIN-SUFFIX,wo3ttt.wordpress.com,Proxy
 DOMAIN-SUFFIX,sujiatun.wordpress.com,Proxy
 DOMAIN-SUFFIX,wp.com,Proxy
 DOMAIN-SUFFIX,wow.com,Proxy
@@ -4992,6 +4993,7 @@ DOMAIN-SUFFIX,yipub.com,Proxy
 DOMAIN-SUFFIX,yinlei.org,Proxy
 DOMAIN-SUFFIX,yizhihongxing.com,Proxy
 DOMAIN-SUFFIX,yobt.com,Proxy
+DOMAIN-SUFFIX,yobt.tv,Proxy
 DOMAIN-SUFFIX,yogichen.org,Proxy
 DOMAIN-SUFFIX,yong.hu,Proxy
 DOMAIN-SUFFIX,yorkbbs.ca,Proxy
@@ -7056,6 +7058,7 @@ DOMAIN-SUFFIX,clickosmedia.com,REJECT
 DOMAIN-SUFFIX,clickpartoffon.xyz,REJECT
 DOMAIN-SUFFIX,clicks2count.com,REJECT
 DOMAIN-SUFFIX,clicks4ads.com,REJECT
+DOMAIN-SUFFIX,clicksgear.com,REJECT
 DOMAIN-SUFFIX,clicksor.com,REJECT
 DOMAIN-SUFFIX,clicksor.net,REJECT
 DOMAIN-SUFFIX,clicksurvey.mobi,REJECT
