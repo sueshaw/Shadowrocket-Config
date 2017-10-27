@@ -135,6 +135,7 @@
 ||aff.marathonbet.com^
 ||aff.svjump.com^
 ||affil.mupromo.com^
+||affilate-img-affasi.s3.amazonaws.com^$third-party
 ||affiliate.juno.co.uk^$third-party
 ||affiliate.mediatemple.net^$third-party
 ||affiliatehub.skybet.com^$third-party
@@ -2378,6 +2379,7 @@
 ||adppv.com^$third-party
 ||adpredictive.com^$third-party
 ||adpremo.com^$third-party
+||adpressi.com^$third-party
 ||adprofit2share.com^$third-party
 ||adproper.info^$third-party
 ||adprotected.com^$third-party
@@ -2642,6 +2644,7 @@
 ||afdads.com^$third-party
 ||aff-online.com^$third-party
 ||aff.biz^$third-party
+||affasi.com^$third-party
 ||affbot1.com^$third-party
 ||affbot3.com^$third-party
 ||affbot7.com^$third-party

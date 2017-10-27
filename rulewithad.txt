@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-26 00:00:04.095712
+# Shadowrocket: 2017-10-27 00:00:03.280849
 # Shadowrocket config file by Hayden
 
 [General]
@@ -199,6 +199,7 @@ DOMAIN-SUFFIX,xn--i2ru8q2qg.com,Proxy
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,Proxy
 DOMAIN-SUFFIX,.s3.amazonaws.com,Proxy
 DOMAIN-SUFFIX,agro.hk,Proxy
+DOMAIN-SUFFIX,apkmirror.com,Proxy
 DOMAIN-SUFFIX,boomssr.com,Proxy
 DOMAIN-SUFFIX,jiji.com,Proxy
 DOMAIN-SUFFIX,line-scdn.net,Proxy
@@ -3830,6 +3831,7 @@ DOMAIN-SUFFIX,shiatv.net,Proxy
 DOMAIN-SUFFIX,shicheng.org,Proxy
 DOMAIN-SUFFIX,shinychan.com,Proxy
 DOMAIN-SUFFIX,shipcamouflage.com,Proxy
+DOMAIN-SUFFIX,shireyishunjian.com,Proxy
 DOMAIN-SUFFIX,shitaotv.org,Proxy
 DOMAIN-SUFFIX,shixiao.org,Proxy
 DOMAIN-SUFFIX,shizhao.org,Proxy
@@ -3894,6 +3896,7 @@ DOMAIN-SUFFIX,sketchappsources.com,Proxy
 DOMAIN-SUFFIX,skimtube.com,Proxy
 DOMAIN-SUFFIX,skybet.com,Proxy
 DOMAIN-SUFFIX,users.skynet.be,Proxy
+DOMAIN-SUFFIX,skyking.com.tw,Proxy
 DOMAIN-SUFFIX,bbs.skykiwi.com,Proxy
 DOMAIN-SUFFIX,www.skype.com,Proxy
 DOMAIN-SUFFIX,skyvegas.com,Proxy
@@ -3973,6 +3976,7 @@ DOMAIN-SUFFIX,spankingtube.com,Proxy
 DOMAIN-SUFFIX,spankwire.com,Proxy
 DOMAIN-SUFFIX,spb.com,Proxy
 DOMAIN-SUFFIX,speakerdeck.com,Proxy
+DOMAIN-SUFFIX,speedify.com,Proxy
 DOMAIN-SUFFIX,spem.at,Proxy
 DOMAIN-SUFFIX,spencertipping.com,Proxy
 DOMAIN-SUFFIX,spicevpn.com,Proxy
@@ -4194,6 +4198,7 @@ DOMAIN-SUFFIX,tianhuayuan.com,Proxy
 DOMAIN-SUFFIX,tianlawoffice.com,Proxy
 DOMAIN-SUFFIX,tianti.io,Proxy
 DOMAIN-SUFFIX,tiantibooks.org,Proxy
+DOMAIN-SUFFIX,tianyantong.org.cn,Proxy
 DOMAIN-SUFFIX,tianzhu.org,Proxy
 DOMAIN-SUFFIX,tibet.at,Proxy
 DOMAIN-SUFFIX,tibet.ca,Proxy
@@ -5184,6 +5189,7 @@ DOMAIN-SUFFIX,aff.eteachergroup.com,REJECT
 DOMAIN-SUFFIX,aff.marathonbet.com,REJECT
 DOMAIN-SUFFIX,aff.svjump.com,REJECT
 DOMAIN-SUFFIX,affil.mupromo.com,REJECT
+DOMAIN-SUFFIX,affilate-img-affasi.s3.amazonaws.com,REJECT
 DOMAIN-SUFFIX,affiliate.juno.co.uk,REJECT
 DOMAIN-SUFFIX,affiliate.mediatemple.net,REJECT
 DOMAIN-SUFFIX,affiliatehub.skybet.com,REJECT
@@ -6211,6 +6217,7 @@ DOMAIN-SUFFIX,adpoper.com,REJECT
 DOMAIN-SUFFIX,adppv.com,REJECT
 DOMAIN-SUFFIX,adpredictive.com,REJECT
 DOMAIN-SUFFIX,adpremo.com,REJECT
+DOMAIN-SUFFIX,adpressi.com,REJECT
 DOMAIN-SUFFIX,adprofit2share.com,REJECT
 DOMAIN-SUFFIX,adproper.info,REJECT
 DOMAIN-SUFFIX,adprotected.com,REJECT
@@ -6475,6 +6482,7 @@ DOMAIN-SUFFIX,afcyhf.com,REJECT
 DOMAIN-SUFFIX,afdads.com,REJECT
 DOMAIN-SUFFIX,aff-online.com,REJECT
 DOMAIN-SUFFIX,aff.biz,REJECT
+DOMAIN-SUFFIX,affasi.com,REJECT
 DOMAIN-SUFFIX,affbot1.com,REJECT
 DOMAIN-SUFFIX,affbot3.com,REJECT
 DOMAIN-SUFFIX,affbot7.com,REJECT
