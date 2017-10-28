@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-27 00:00:03.280849
+# Shadowrocket: 2017-10-28 00:00:03.356136
 # Shadowrocket config file by Hayden
 
 [General]
@@ -7697,6 +7697,7 @@ DOMAIN-SUFFIX,genericsteps.com,REJECT
 DOMAIN-SUFFIX,genesismedia.com,REJECT
 DOMAIN-SUFFIX,geniad.net,REJECT
 DOMAIN-SUFFIX,genieessp.com,REJECT
+DOMAIN-SUFFIX,geniusbanners.com,REJECT
 DOMAIN-SUFFIX,geniusdisplay.com,REJECT
 DOMAIN-SUFFIX,genotba.online,REJECT
 DOMAIN-SUFFIX,genovesetacet.com,REJECT
