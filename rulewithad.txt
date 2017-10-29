@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-28 00:00:03.356136
+# Shadowrocket: 2017-10-29 00:00:03.574871
 # Shadowrocket config file by Hayden
 
 [General]
@@ -8239,6 +8239,7 @@ DOMAIN-SUFFIX,liverail.com,REJECT
 DOMAIN-SUFFIX,liveuniversenetwork.com,REJECT
 DOMAIN-SUFFIX,lkqd.net,REJECT
 DOMAIN-SUFFIX,lndjj.com,REJECT
+DOMAIN-SUFFIX,loadercdn.com,REJECT
 DOMAIN-SUFFIX,loading-resource.com,REJECT
 DOMAIN-SUFFIX,local-chicks-here3.top,REJECT
 DOMAIN-SUFFIX,localadbuy.com,REJECT
