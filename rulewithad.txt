@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-29 00:00:03.574871
+# Shadowrocket: 2017-10-30 00:00:02.610770
 # Shadowrocket config file by Hayden
 
 [General]
@@ -1460,6 +1460,7 @@ DOMAIN-SUFFIX,creadersnet.com,Proxy
 DOMAIN-SUFFIX,cristyli.com,Proxy
 DOMAIN-SUFFIX,crocotube.com,Proxy
 DOMAIN-SUFFIX,crossthewall.net,Proxy
+DOMAIN-SUFFIX,crossvpn.net,Proxy
 DOMAIN-SUFFIX,csdparty.com,Proxy
 DOMAIN-SUFFIX,csuchen.de,Proxy
 DOMAIN-SUFFIX,csw.org.uk,Proxy
