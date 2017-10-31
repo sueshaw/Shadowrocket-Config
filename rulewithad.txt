@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-30 00:00:02.610770
+# Shadowrocket: 2017-10-31 00:00:03.220119
 # Shadowrocket config file by Hayden
 
 [General]
@@ -7737,6 +7737,7 @@ DOMAIN-SUFFIX,globalsuccessclub.com,REJECT
 DOMAIN-SUFFIX,globaltakeoff.net,REJECT
 DOMAIN-SUFFIX,globaltraffico.com,REJECT
 DOMAIN-SUFFIX,glowdot.com,REJECT
+DOMAIN-SUFFIX,glumifo.info,REJECT
 DOMAIN-SUFFIX,gmads.net,REJECT
 DOMAIN-SUFFIX,go2jump.org,REJECT
 DOMAIN-SUFFIX,go2media.org,REJECT
@@ -13241,6 +13242,7 @@ DOMAIN-SUFFIX,tralifa.info,REJECT
 DOMAIN-SUFFIX,tupho.info,REJECT
 DOMAIN-SUFFIX,yaramol.info,REJECT
 DOMAIN-SUFFIX,zhinkichi.info,REJECT
+DOMAIN-SUFFIX,a.shulhanafuh.com,REJECT
 DOMAIN-SUFFIX,voodoo.com,REJECT
 DOMAIN-KEYWORD,google,Proxy
 

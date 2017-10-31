@@ -193,7 +193,7 @@
 ||amazonaws.com/photos.offers.analoganalytics.com/
 ||amazonaws.com/player.php?vidurl=$object-subrequest,domain=ndtv.com
 ||amazonaws.com/pmb-musics/download_itunes.png
-||amazonaws.com/promotions/
+||amazonaws.com/promotions/$domain=~brewculture.com
 ||amazonaws.com/publishflow/
 ||amazonaws.com/skyscrpr.js
 ||amazonaws.com/streetpulse/ads/
@@ -1371,6 +1371,7 @@
 ||premium-template.com/banner/$third-party
 ||premium.naturalnews.tv^$third-party
 ||press-start.com/affgames/$third-party
+||presscoders.com/wp-content/uploads/misc/aff/$third-party
 ||pricedinfo.com^$third-party
 ||pricegrabber.com/cb_table.php$third-party
 ||pricegrabber.com/export_feeds.php?$third-party
@@ -1841,6 +1842,7 @@
 ||worldofjudaica.com/products/dynamic_banner/
 ||worldofjudaica.com/static/show/external/
 ||wp.com^*/linkwidgets/$domain=coedmagazine.com
+||wpzoom.com/images/aff/$third-party
 ||wrapper.ign.com^$third-party
 ||ws.amazon.*/widgets/$third-party
 ||wsockd.com^$third-party
@@ -4001,6 +4003,7 @@
 ||globaltakeoff.net^$third-party
 ||globaltraffico.com^$third-party
 ||glowdot.com^$third-party
+||glumifo.info^$third-party
 ||gmads.net^$third-party
 ||go2jump.org^$third-party
 ||go2media.org^$third-party
@@ -9668,7 +9671,8 @@
 ||yaramol.info^$third-party
 ||zhinkichi.info^$third-party
 ! WebRTC adservers
-a.upnorma.com^$webrtc
+a.shulhanafuh.com$webrtc,websocket
+a.upnorma.com^$webrtc,websocket
 ! temporary workaround for Adblock Plus for Chrome bug #4599 (https://issues.adblockplus.org/ticket/4599)
 ||voodoo.com^$~stylesheet,third-party
 
