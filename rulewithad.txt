@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-10-31 00:00:03.220119
+# Shadowrocket: 2017-11-01 00:00:02.489838
 # Shadowrocket config file by Hayden
 
 [General]
@@ -198,12 +198,14 @@ DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org,Proxy
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com,Proxy
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,Proxy
 DOMAIN-SUFFIX,.s3.amazonaws.com,Proxy
+DOMAIN-SUFFIX,s3-ap-southeast-2.amazonaws.com,Proxy
 DOMAIN-SUFFIX,agro.hk,Proxy
 DOMAIN-SUFFIX,apkmirror.com,Proxy
 DOMAIN-SUFFIX,boomssr.com,Proxy
 DOMAIN-SUFFIX,jiji.com,Proxy
 DOMAIN-SUFFIX,line-scdn.net,Proxy
 DOMAIN-SUFFIX,cloud.mail.ru,Proxy
+DOMAIN-SUFFIX,go.nesnode.com,Proxy
 DOMAIN-SUFFIX,pixiv.net,Proxy
 DOMAIN-SUFFIX,i.lithium.com,Proxy
 DOMAIN-SUFFIX,china-mmm.jp.net,Proxy
@@ -5083,6 +5085,7 @@ DOMAIN-SUFFIX,zomobo.net,Proxy
 DOMAIN-SUFFIX,zonaeuropa.com,Proxy
 DOMAIN-SUFFIX,zonghexinwen.com,Proxy
 DOMAIN-SUFFIX,zonghexinwen.net,Proxy
+DOMAIN-SUFFIX,zoogvpn.com,Proxy
 DOMAIN-SUFFIX,zootool.com,Proxy
 DOMAIN-SUFFIX,zoozle.net,Proxy
 DOMAIN-SUFFIX,writer.zoho.com,Proxy
