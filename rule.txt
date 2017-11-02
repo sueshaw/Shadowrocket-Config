@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-11-01 00:00:02.489803
+# Shadowrocket: 2017-11-02 00:00:02.744338
 # Shadowrocket config file by Hayden
 
 [General]
@@ -1036,6 +1036,7 @@ DOMAIN-SUFFIX,beevpn.com,Proxy
 DOMAIN-SUFFIX,behindkink.com,Proxy
 DOMAIN-SUFFIX,beijing1989.com,Proxy
 DOMAIN-SUFFIX,beijingspring.com,Proxy
+DOMAIN-SUFFIX,beijingzx.org,Proxy
 DOMAIN-SUFFIX,belamionline.com,Proxy
 DOMAIN-SUFFIX,bell.wiki,Proxy
 DOMAIN-SUFFIX,bemywife.cc,Proxy
@@ -2042,6 +2043,7 @@ DOMAIN-SUFFIX,72.52.81.22,Proxy
 DOMAIN-SUFFIX,gartlive.com,Proxy
 DOMAIN-SUFFIX,gate-project.com,Proxy
 DOMAIN-SUFFIX,gather.com,Proxy
+DOMAIN-SUFFIX,gatherproxy.com,Proxy
 DOMAIN-SUFFIX,gati.org.tw,Proxy
 DOMAIN-SUFFIX,gaybubble.com,Proxy
 DOMAIN-SUFFIX,gaycn.net,Proxy
@@ -2218,6 +2220,7 @@ DOMAIN-SUFFIX,h1n1china.org,Proxy
 DOMAIN-SUFFIX,hacg.club,Proxy
 DOMAIN-SUFFIX,hacg.in,Proxy
 DOMAIN-SUFFIX,hacg.li,Proxy
+DOMAIN-SUFFIX,hacg.me,Proxy
 DOMAIN-SUFFIX,hacg.red,Proxy
 DOMAIN-SUFFIX,hacken.cc,Proxy
 DOMAIN-SUFFIX,hacker.org,Proxy
@@ -2408,6 +2411,7 @@ DOMAIN-SUFFIX,huaglad.com,Proxy
 DOMAIN-SUFFIX,huanghuagang.org,Proxy
 DOMAIN-SUFFIX,huangyiyu.com,Proxy
 DOMAIN-SUFFIX,huaren.us,Proxy
+DOMAIN-SUFFIX,huashangnews.com,Proxy
 DOMAIN-SUFFIX,bbs.huasing.org,Proxy
 DOMAIN-SUFFIX,huaxia-news.com,Proxy
 DOMAIN-SUFFIX,huaxiabao.org,Proxy
@@ -2848,6 +2852,7 @@ DOMAIN-SUFFIX,livevideo.com,Proxy
 DOMAIN-SUFFIX,liwangyang.com,Proxy
 DOMAIN-SUFFIX,lizhizhuangbi.com,Proxy
 DOMAIN-SUFFIX,lkcn.net,Proxy
+DOMAIN-SUFFIX,llss.me,Proxy
 DOMAIN-SUFFIX,load.to,Proxy
 DOMAIN-SUFFIX,lobsangwangyal.com,Proxy
 DOMAIN-SUFFIX,localdomain.ws,Proxy
@@ -4963,6 +4968,7 @@ DOMAIN-SUFFIX,xvideos.es,Proxy
 DOMAIN-SUFFIX,xxbbx.com,Proxy
 DOMAIN-SUFFIX,xxlmovies.com,Proxy
 DOMAIN-SUFFIX,xxx.com,Proxy
+DOMAIN-SUFFIX,xxx.xxx,Proxy
 DOMAIN-SUFFIX,xxxfuckmom.com,Proxy
 DOMAIN-SUFFIX,xxxx.com.au,Proxy
 DOMAIN-SUFFIX,xxxymovies.com,Proxy
