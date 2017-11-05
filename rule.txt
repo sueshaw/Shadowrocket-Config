@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-11-04 00:00:02.823952
+# Shadowrocket: 2017-11-05 00:00:03.053911
 # Shadowrocket config file by Hayden
 
 [General]
@@ -205,6 +205,7 @@ DOMAIN-SUFFIX,boomssr.com,Proxy
 DOMAIN-SUFFIX,jiji.com,Proxy
 DOMAIN-SUFFIX,line-scdn.net,Proxy
 DOMAIN-SUFFIX,cloud.mail.ru,Proxy
+DOMAIN-SUFFIX,cdn-images.mailchimp.com,Proxy
 DOMAIN-SUFFIX,go.nesnode.com,Proxy
 DOMAIN-SUFFIX,pixiv.net,Proxy
 DOMAIN-SUFFIX,i.lithium.com,Proxy
@@ -580,6 +581,7 @@ DOMAIN-SUFFIX,html5rocks.com,Proxy
 DOMAIN-SUFFIX,iam.soy,Proxy
 DOMAIN-SUFFIX,igoogle.com,Proxy
 DOMAIN-SUFFIX,itasoftware.com,Proxy
+DOMAIN-SUFFIX,lers.google,Proxy
 DOMAIN-SUFFIX,like.com,Proxy
 DOMAIN-SUFFIX,madewithcode.com,Proxy
 DOMAIN-SUFFIX,material.io,Proxy
@@ -1074,6 +1076,7 @@ DOMAIN-SUFFIX,bigsound.org,Proxy
 DOMAIN-SUFFIX,billypan.com,Proxy
 DOMAIN-SUFFIX,billywr.com,Proxy
 DOMAIN-SUFFIX,binux.me,Proxy
+DOMAIN-SUFFIX,ai.binwang.me,Proxy
 DOMAIN-SUFFIX,bipic.net,Proxy
 DOMAIN-SUFFIX,bit.do,Proxy
 DOMAIN-SUFFIX,bit.ly,Proxy
@@ -3724,6 +3727,7 @@ DOMAIN-SUFFIX,rtycminnesota.org,Proxy
 DOMAIN-SUFFIX,ruanyifeng.com,Proxy
 DOMAIN-SUFFIX,rukor.org,Proxy
 DOMAIN-SUFFIX,rushbee.com,Proxy
+DOMAIN-SUFFIX,ruten.com.tw,Proxy
 DOMAIN-SUFFIX,rutube.ru,Proxy
 DOMAIN-SUFFIX,ruyiseek.com,Proxy
 DOMAIN-SUFFIX,rxhj.net,Proxy
@@ -4336,6 +4340,7 @@ DOMAIN-SUFFIX,torrenty.org,Proxy
 DOMAIN-SUFFIX,torrentz.eu,Proxy
 DOMAIN-SUFFIX,torvpn.com,Proxy
 DOMAIN-SUFFIX,totalvpn.com,Proxy
+DOMAIN-SUFFIX,toutiaoabc.com,Proxy
 DOMAIN-SUFFIX,towngain.com,Proxy
 DOMAIN-SUFFIX,toypark.in,Proxy
 DOMAIN-SUFFIX,toytractorshow.com,Proxy
