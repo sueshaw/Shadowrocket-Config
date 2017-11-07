@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-11-06 00:00:02.506134
+# Shadowrocket: 2017-11-07 00:00:02.570686
 # Shadowrocket config file by Hayden
 
 [General]
@@ -5971,7 +5971,6 @@ DOMAIN-SUFFIX,ad134m.com,REJECT
 DOMAIN-SUFFIX,ad20.net,REJECT
 DOMAIN-SUFFIX,ad2387.com,REJECT
 DOMAIN-SUFFIX,ad2adnetwork.biz,REJECT
-DOMAIN-SUFFIX,ad2games.com,REJECT
 DOMAIN-SUFFIX,ad2up.com,REJECT
 DOMAIN-SUFFIX,ad4980.kr,REJECT
 DOMAIN-SUFFIX,ad4989.co.kr,REJECT
