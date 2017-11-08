@@ -1,4 +1,4 @@
-# Shadowrocket: 2017-11-07 00:00:02.570693
+# Shadowrocket: 2017-11-08 00:00:03.231414
 # Shadowrocket config file by Hayden
 
 [General]
