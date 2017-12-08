@@ -938,6 +938,7 @@
 ||hostinger.nl/banners/
 ||hostmonster.com/src/js/izahariev/$third-party
 ||hotcoursesabroad.com/widget-$third-party
+||hotdeals360.com/static/js/kpwidgetweb.js
 ||hotelsbycity.com^*/bannermtg.php?$third-party
 ||hotelscombined.com/SearchBox/$third-party
 ||hoteltravel.com/partner/$third-party
@@ -1914,6 +1915,7 @@
 ||em0n.com/static.js$script,third-party
 ||mn0e.com/static.js$script,third-party
 ||noadblock.net^$third-party
+||noadblock.org^$third-party
 ||onfocus.io^$third-party
 ||secretmedia.com^$third-party
 ||zeste.top^$third-party
@@ -2336,6 +2338,7 @@
 ||adnet.vn^$third-party
 ||adnetworkme.com^$third-party
 ||adnetworkperformance.com^$third-party
+||adneutralads.com^$third-party
 ||adnext.fr^$third-party
 ||adnext.org^$third-party
 ||adngin.com^$third-party
@@ -2755,6 +2758,7 @@
 ||amd2016.com^$third-party
 ||amertazy.com^$third-party
 ||amgdgt.com^$third-party
+||aminopay.net^$third-party
 ||amp.rd.linksynergy.com^$third-party
 ||amp.services^$third-party
 ||ampxchange.com^$third-party
@@ -3034,6 +3038,7 @@
 ||boom-boom-vroom.com^$third-party
 ||boostable.com^$third-party
 ||boostads.net^$third-party
+||boostads.site^$third-party
 ||boostclic.com^$third-party
 ||boostshow.com^$third-party
 ||bop-bop-bam.com^$third-party
@@ -3232,6 +3237,7 @@
 ||clickequations.net^$third-party
 ||clickexa.com^$third-party
 ||clickexperts.net^$third-party
+||clickfunnels.com^$third-party
 ||clickfuse.com^$third-party
 ||clickinc.com^$third-party
 ||clickintext.com^$third-party
@@ -4597,6 +4603,7 @@
 ||makecashtakingsurveys.biz^$third-party
 ||makemoneymakemoney.net^$third-party
 ||mallsponsor.com^$third-party
+||mamydirect.com^$third-party
 ||mangoforex.com^$third-party
 ||marbil24.co.za^$third-party
 ||marfeel.com^$third-party
@@ -5756,6 +5763,7 @@
 ||srx.com.sg^$third-party
 ||ssl-services.com^$third-party
 ||ssl2anyone4.com^$third-party
+||ssl4anyone2.com^$third-party
 ||ssl4anyone5.com^$third-party
 ||sslboost.com^$third-party
 ||sslcheckerapi.com^$third-party
@@ -9920,8 +9928,14 @@
 ||zylokfmgrtzv.com^$third-party
 ||zyqlfplqdgxu.com^$third-party
 ! Yavli.com
+||07cdgbg.com^$third-party
 ||247view.net^$third-party
+||3dfrsdwde.com^$third-party
+||46779ff4.net^$third-party
+||4trgergq.net^$third-party
 ||546qwee.net^$third-party
+||6dfggjbgt.com^$third-party
+||9pohbga.com^$third-party
 ||absilf.com^$third-party
 ||absilf.link^$third-party
 ||absquint.com^$third-party
@@ -9936,8 +9950,10 @@
 ||anomiely.com^$third-party
 ||antuandi.net^$third-party
 ||anumiltrk.com^$third-party
+||aocular.com^$third-party
 ||appr8.net^$third-party
 ||artbr.net^$third-party
+||asssdfjh.net^$third-party
 ||azwergz.net^$third-party
 ||baordrid.com^$third-party
 ||batarsur.com^$third-party
@@ -10004,12 +10020,14 @@
 ||duavindr.com^$third-party
 ||dutolats.net^$third-party
 ||dwdewew.com^$third-party
+||economyobserver.com^$third-party
 ||ectensian.net^$third-party
 ||edabl.net^$third-party
 ||edgualf.com^$third-party
 ||elepheny.com^$third-party
 ||entru.co^$third-party
 ||ergers.net^$third-party
+||ergewrg.com^$third-party
 ||erht5jhy.com^$third-party
 ||ershgrst.com^$third-party
 ||erwgerwt.com^$third-party
@@ -10020,6 +10038,7 @@
 ||exernala.com^$third-party
 ||exlpor.com^$third-party
 ||extonsuan.com^$third-party
+||fairad.co^$third-party
 ||faunsts.me^$third-party
 ||fegesd.net^$third-party
 ||fer4ere.com^$third-party
@@ -10027,6 +10046,7 @@
 ||flaudnrs.me^$third-party
 ||flaurse.net^$third-party
 ||fleawier.com^$third-party
+||flux16.com^$third-party
 ||foulsomty.com^$third-party
 ||fowar.net^$third-party
 ||frevi.net^$third-party
@@ -10042,6 +10062,7 @@
 ||gerengd.link^$third-party
 ||gertgh.com^$third-party
 ||gghfncd.net^$third-party
+||ghrgaxcc.net^$third-party
 ||gruadhc.com^$third-party
 ||gruanchd.link^$third-party
 ||gruandors.net^$third-party
@@ -10077,6 +10098,8 @@
 ||juosanf.com^$third-party
 ||juruasikr.net^$third-party
 ||jusukrs.com^$third-party
+||jyjmyjm.com^$third-party
+||k5zoom.com^$third-party
 ||kidasfid.com^$third-party
 ||kilomonj.net^$third-party
 ||kioshow.com^$third-party
@@ -10130,7 +10153,9 @@
 ||q3sift.com^$third-party
 ||qaulinf.com^$third-party
 ||qewa33a.com^$third-party
+||qftdsg.com^$third-party
 ||quandrer.link^$third-party
+||quickmoneyanswers.org^$third-party
 ||qulifiad.com^$third-party
 ||qwemfst.com^$third-party
 ||qwewas.info^$third-party
@@ -10142,6 +10167,7 @@
 ||rdige.com^$third-party
 ||reaspans.com^$third-party
 ||regersd.net^$third-party
+||rehtsacdr.com^$third-party
 ||rehyery.com^$third-party
 ||reitb.com^$third-party
 ||reydzcfg.net^$third-party
@@ -10189,6 +10215,7 @@
 ||tiawander.net^$third-party
 ||tolosgrey.net^$third-party
 ||topdi.net^$third-party
+||totallifeguru.com^$third-party
 ||trinusuras.net^$third-party
 ||trjhhuhn.com^$third-party
 ||trllxv.co^$third-party
@@ -10204,6 +10231,7 @@
 ||vferwqf.com^$third-party
 ||vieway.co^$third-party
 ||viewscout.com^$third-party
+||viralfix.net^$third-party
 ||virsualr.com^$third-party
 ||vopdi.com^$third-party
 ||vpuoplord.link^$third-party
@@ -10227,6 +10255,7 @@
 ||yerstrd.net^$third-party
 ||yobr.net^$third-party
 ||yodr.net^$third-party
+||yojhyfo.com^$third-party
 ||yomri.net^$third-party
 ||yopdi.com^$third-party
 ||ypppdc.com^$third-party
