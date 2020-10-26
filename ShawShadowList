@@ -8,6 +8,15 @@ bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,1
 dns-server = 119.29.29.29
 
 [Rule]
+DOMAIN-SUFFIX,storygize.net,Proxy
+DOMAIN-SUFFIX,adnxs.com,Proxy
+DOMAIN-SUFFIX,1rx.io,Proxy
+DOMAIN-SUFFIX,2o7.net,Proxy
+DOMAIN-SUFFIX,teads.tv,Proxy
+DOMAIN-SUFFIX,powerlinks.com,Proxy
+DOMAIN-SUFFIX,lijit.com,Proxy
+DOMAIN-SUFFIX,openx.net,Proxy
+DOMAIN-SUFFIX,scorecardresearch.com,Proxy
 DOMAIN-SUFFIX,nikkei.com,Proxy
 DOMAIN-SUFFIX,18comic.vip,Proxy
 DOMAIN-SUFFIX,wifipdf.com,Proxy
